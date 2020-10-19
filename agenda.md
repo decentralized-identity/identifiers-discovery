@@ -15,19 +15,19 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 <details>
 <summary> Meeting information </summary>
 
+* Before your contribute - [**join DIF**](https://identity.foundation/join) and [sign the WG charter](https://bit.ly/DIF-WG-select1) (both are required!) 
 * Time: Every Monday, 14:00-15:00 ET
 * [Calendar entry](https://calendar.google.com/event?action=TEMPLATE&tmeid=OWtzNWZuanA4bWRnYmF0ZnVxaDR0MnQ2cGVfMjAyMDA5MjFUMTgwMDAwWiBkZWNlbnRyYWxpemVkLmlkZW50aXR5QG0&tmsrc=decentralized.identity%40gmail.com&scp=ALL)
 * [Zoom room](https://us02web.zoom.us/j/81145177291?pwd=NElWUEYycm4xdjAvcXhGS0V4aHNNdz09), Meeting ID: 811 4517 7291, 
 Password: 387317
-* Before your contribute - [**join DIF**](https://identity.foundation/join) and [sign the WG charter](https://bit.ly/DIF-WG-select1) (both are required!)
 </details>
 
  
 
-
+#### Future topics: 
 
 <details>
-<summary> Topics for the future</summary>
+<summary> Topics for upcoming meetings</summary>
 
 * topic 1 (to be discussed on this date) 
 * topic 2 (to be discussed on this date)
@@ -42,17 +42,24 @@ Password: 387317
 1. Welcome and introductions
 2. ID WG participation tracking - https://bit.ly/DIF-WG-select1
 3. Agenda creation/review/prioritization
-4. Meeting minutes on Github? - E.g. see SDS https://github.com/decentralized-identity/secure-data-store/blob/master/agenda.md
+4. Meeting minutes on Github
+https://github.com/decentralized-identity/identifiers-discovery
+e.g. see SDS https://github.com/decentralized-identity/secure-data-store/blob/master/agenda.md
 5. [All] IIW this week!
 6. [Daniel?] Update on Fuzzy Encryption implementation
+https://github.com/decentralized-identity/fuzzy-encryption/tree/dev-kirko-python/src/python
 7. [Tom and others] Collaborate on statement about WebID
+https://drive.google.com/file/d/1HdnlLr6GemqmsCSl7101FZ5lCWJ722h_/view?usp=sharing
 8. Updates on current work items
 	did:peer, KERI, Universal Resolver, .well-known DID configuration, DID
 	parameters, secret recovery mechanisms
 
 ### Proposals
+-proposals here-
 
 ### Attendees
+-attendee names here-
 
 
-
+## Old meeting page (before October 2020) 
+[Old meeting page](https://docs.google.com/document/d/1gV99R7G2bUlRerxznyd0ucwWPfc1v2F2gQVaTawIPYI/edit#)
