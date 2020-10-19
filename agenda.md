@@ -58,7 +58,11 @@ https://drive.google.com/file/d/1HdnlLr6GemqmsCSl7101FZ5lCWJ722h_/view?usp=shari
 -proposals here-
 
 ### Attendees
--attendee names here-
+* Markus Sabadello
+* Charles Cunningham
+* Juan Caballero
+* Tom Jones
+* Wayne Change
 
 
 ## Old meeting page (before October 2020) 
