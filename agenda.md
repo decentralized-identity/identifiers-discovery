@@ -35,7 +35,27 @@ Password: 387317
 
 </details>
 
-## Meeting - 19 Oct 2020 - (1400 ET) [recording]() 
+
+## Meeting - 26 Oct 2020 - (1400 ET) [recording]() 
+ 
+### Agenda
+
+1. Welcome and introductions
+2. ID WG participation tracking - https://bit.ly/DIF-WG-select1
+3. Agenda creation/review/prioritization
+4. [All] IIW recap
+5. TBD
+6. Updates on current work items
+	did:peer, KERI, Universal Resolver, .well-known DID configuration, DID
+	parameters, secret recovery mechanisms
+
+### Proposals
+-proposals here-
+
+### Attendees
+-attendees here-
+
+## Meeting - 19 Oct 2020 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/YeOQcUDNUweNouX6TemFh6Qkt8or2ZGhYC5HifRNtjrAKbAVd2xwr4iOQ3tCi_m4.xzWnVsSXUY_u2pUX) 
  
 ### Agenda
 
