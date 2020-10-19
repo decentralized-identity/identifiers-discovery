@@ -46,10 +46,18 @@ Password: 387317
 https://github.com/decentralized-identity/identifiers-discovery
 e.g. see SDS https://github.com/decentralized-identity/secure-data-store/blob/master/agenda.md
 5. [All] IIW this week!
-6. [Daniel?] Update on Fuzzy Encryption implementation
-https://github.com/decentralized-identity/fuzzy-encryption/tree/dev-kirko-python/src/python
-7. [Tom and others] Collaborate on statement about WebID
+    * Several sessions related to KERI (intro, detail, developer recruitment, project planning, did:un method) - see KERI work item Google doc
+    * Current topics related to DID resolution and representations
+    * WebID (Tom+Sam)?
+6. [Tom and others] Collaborate on statement about WebID
 https://drive.google.com/file/d/1HdnlLr6GemqmsCSl7101FZ5lCWJ722h_/view?usp=sharing
+    * How to interop with SIOP/DIDs?
+    * How does it relate to DIF's .well-known DID configuration (can WebID be "the" endpoint that browsers look at, instead of having many endpoints?)
+    * How does it relate to CHAPI?
+7. [All] Update on Fuzzy Encryption implementation
+https://github.com/decentralized-identity/fuzzy-encryption/tree/dev-kirko-python/src/python
+    * See DIF blog post here: https://medium.com/decentralized-identity/dif-id-wg-starting-work-on-cryptographic-secret-recovery-204117b6a2ab
+    * See Appendix C here: https://docs.google.com/document/d/1PDTGzurA2EPDglKcAeFkWbKgnuUDWbx1ag929ui4vs0/
 8. Updates on current work items
 	did:peer, KERI, Universal Resolver, .well-known DID configuration, DID
 	parameters, secret recovery mechanisms
@@ -62,7 +70,9 @@ https://drive.google.com/file/d/1HdnlLr6GemqmsCSl7101FZ5lCWJ722h_/view?usp=shari
 * Charles Cunningham
 * Juan Caballero
 * Tom Jones
-* Wayne Change
+* Wayne Chang
+* Kaliya
+* Balazs Nemethi
 
 
 ## Old meeting page (before October 2020) 
