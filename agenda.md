@@ -1,1 +1,58 @@
-to change
+# Identifiers & Discovery WG - rolling agenda & minutes
+
+[![hackmd-github-sync-badge](https://hackmd.io/b-x6jEpMSOm5HiILrkC1oA/badge)](https://hackmd.io/b-x6jEpMSOm5HiILrkC1oA)
+
+
+
+
+[**WG projects** ](https://github.com/search?p=2&q=topic%3Awg-id+org%3Adecentralized-identity+fork%3Atrue&type=Repositories) | [ DIF page ](https://identity.foundation/working-groups/identifiers-discovery.html) | [Mailing list and Wiki ](https://lists.identity.foundation/g/id-wg) 
+
+_For this call, you are encouraged to turn your video on. This is a good way to build rapport given we are a large, disparate group experiencing a lot of churn._
+
+_This document is live-edited DURING each call, and stable/authoritative copies live on our github repo under /agenda.md . 
+Please note that we might not notice a pullrequest in time, but you are free to propose agenda items for future meetings via hackmd._
+
+<details>
+<summary> Meeting information </summary>
+
+* Time: Every Monday, 14:00-15:00 ET
+* [Calendar entry](https://calendar.google.com/event?action=TEMPLATE&tmeid=OWtzNWZuanA4bWRnYmF0ZnVxaDR0MnQ2cGVfMjAyMDA5MjFUMTgwMDAwWiBkZWNlbnRyYWxpemVkLmlkZW50aXR5QG0&tmsrc=decentralized.identity%40gmail.com&scp=ALL)
+* [Zoom room](https://us02web.zoom.us/j/81145177291?pwd=NElWUEYycm4xdjAvcXhGS0V4aHNNdz09), Meeting ID: 811 4517 7291, 
+Password: 387317
+* Before your contribute - [**join DIF**](https://identity.foundation/join) and [sign the WG charter](https://bit.ly/DIF-WG-select1) (both are required!)
+</details>
+
+ 
+
+
+
+<details>
+<summary> Topics for the future</summary>
+
+* topic 1 (to be discussed on this date) 
+* topic 2 (to be discussed on this date)
+* topic n. (tbd)
+
+</details>
+
+## Meeting - 19 Oct 2020 - (1400 ET) [recording]() 
+ 
+### Agenda
+
+1. Welcome and introductions
+2. ID WG participation tracking - https://bit.ly/DIF-WG-select1
+3. Agenda creation/review/prioritization
+4. Meeting minutes on Github? - E.g. see SDS https://github.com/decentralized-identity/secure-data-store/blob/master/agenda.md
+5. [All] IIW this week!
+6. [Daniel?] Update on Fuzzy Encryption implementation
+7. [Tom and others] Collaborate on statement about WebID
+8. Updates on current work items
+	did:peer, KERI, Universal Resolver, .well-known DID configuration, DID
+	parameters, secret recovery mechanisms
+
+### Proposals
+
+### Attendees
+
+
+
