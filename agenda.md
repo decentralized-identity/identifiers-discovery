@@ -41,7 +41,7 @@ Password: 387317
 ### Agenda
 
 1. Welcome and introductions
-2. ID WG participation tracking - https://bit.ly/DIF-WG-select1
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. [All] IIW recap
 5. TBD
@@ -60,7 +60,7 @@ Password: 387317
 ### Agenda
 
 1. Welcome and introductions
-2. ID WG participation tracking - https://bit.ly/DIF-WG-select1
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Meeting minutes on Github
 https://github.com/decentralized-identity/identifiers-discovery
