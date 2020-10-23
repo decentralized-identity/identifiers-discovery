@@ -1,4 +1,4 @@
-# Identifiers & Discovery WG - rolling agenda & minutes
+# DIF Identifiers & Discovery WG – Rolling Agenda & Minutes
 
 [![hackmd-github-sync-badge](https://hackmd.io/b-x6jEpMSOm5HiILrkC1oA/badge)](https://hackmd.io/b-x6jEpMSOm5HiILrkC1oA)
 
