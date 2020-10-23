@@ -6,7 +6,7 @@ Members of the Working Group are engaged in development of protocols and systems
 
 - [Website page](https://identity.foundation/working-groups/identifiers-discovery.html)
 - [Github I&D WG repo](https://github.com/decentralized-identity/identifiers-discovery/)
-- [Notion](https://www.notion.so/dif/Identifiers-Discovery-Working-Group-aea2c07cc10d4f45b729b633691e364e#177324aa522242ffa8da00644688f0e5)
+- [Notion](https://www.notion.so/dif/Identifiers-Discovery-Working-Group-aea2c07cc10d4f45b729b633691e364e)
 
 ## Participation
 
