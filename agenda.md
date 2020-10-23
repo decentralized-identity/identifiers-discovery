@@ -45,7 +45,7 @@ Password: 387317
 3. Agenda creation/review/prioritization
 4. [Markus] I&D WG resources and work items: [Website](https://identity.foundation/working-groups/identifiers-discovery.html), [Github](https://github.com/decentralized-identity/identifiers-discovery/), [Notion](https://www.notion.so/dif/Identifiers-Discovery-Working-Group-aea2c07cc10d4f45b729b633691e364e)
 5. [All] Impressions from Internet Identity Workshop #31
-6. [Markus] Open topics in DID Core spec (representations, 'type' property, etc. W3C TPAC meeting is happening now
+6. [Markus and all] Current topics in DID Core spec (DID document representations, 'type' property, etc.) W3C TPAC meeting is happening now
 7. Updates on current work items
 	did:peer, KERI, Universal Resolver, .well-known DID configuration, DID
 	parameters, secret recovery mechanisms
