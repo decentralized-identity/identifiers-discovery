@@ -43,9 +43,10 @@ Password: 387317
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. [All] IIW recap
-5. TBD
-6. Updates on current work items
+4. [Markus] I&D WG resources and work items: [Website](https://identity.foundation/working-groups/identifiers-discovery.html), [Github](https://github.com/decentralized-identity/identifiers-discovery/), [Notion](https://www.notion.so/dif/Identifiers-Discovery-Working-Group-aea2c07cc10d4f45b729b633691e364e)
+5. [All] Impressions from Internet Identity Workshop #31
+6. [Markus] Open topics in DID Core spec (representations, 'type' property, etc. W3C TPAC meeting is happening now
+7. Updates on current work items
 	did:peer, KERI, Universal Resolver, .well-known DID configuration, DID
 	parameters, secret recovery mechanisms
 
