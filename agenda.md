@@ -45,8 +45,30 @@ Password: 387317
 3. Agenda creation/review/prioritization
 4. [Markus] I&D WG resources and work items: [Website](https://identity.foundation/working-groups/identifiers-discovery.html), [Github](https://github.com/decentralized-identity/identifiers-discovery/), [Notion](https://www.notion.so/dif/Identifiers-Discovery-Working-Group-aea2c07cc10d4f45b729b633691e364e)
 5. [All] Impressions from Internet Identity Workshop #31
-6. [Markus and all] Current topics in DID Core spec (DID document representations, 'type' property, etc.) W3C TPAC meeting is happening now
-7. Updates on current work items
+6. From IIW: did:indy https://hackmd.io/@icZC4epNSnqBbYE0hJYseA/S1eUS2BQw
+    - What does the namespace look like? E.g. did:indy:897347:2498237498374982374
+    - Is the "controller" the wallet?
+7. Websites and browser
+    - How would a website know what to ask for, e.g. in OIDC SIOP? 
+    - The website wants the user's identity, how does that connect to the controller?
+    - What does the website send to the browser to initiate the process?
+    - The user would send an identifier plus a proof of authority..
+    - What should be our next steps regarding WebID? (see notes from last week)
+    - At IIW there were sessions about WebID and its relation to CHAPI and SIOP
+    - CHAPI is a "dumb pipe" that can be used for sending get() and store() requests. Wallets are registered via a polyfill (uses localStorage). There are some privacy/confidentiality/usability issues with polyfill.
+    - Volunteers to collaborate on a statement from DIF about WebID?
+7. [Daniel] Implementation updates
+    - Implementing .well-known now, wallets that will connect to it by the end of the year
+    - Python implementation of Fuzzy Vault is available now: https://github.com/decentralized-identity/fuzzy-encryption/tree/master/src/python
+    - Implementing WASM bundle now in ~2 months, then publish a blog post?
+8. [Wayne] From IIW: Opt-in discovery rather than passive discovery by Daniel Hardman
+9. [Markus and all] Current topics in DID Core spec
+    - DID document representations: https://drive.google.com/file/d/1KHw7QfGBbJrr4okIdxDbDRhHJHJJLmzE/, also see various issues and PRs on DID WG Github repos.
+    - 'type' property: https://github.com/w3c/did-core/pull/410
+    - W3C TPAC meeting is happening now
+    - [Sam] Differentiate between "privacy" and "confidentiality". Privacy is one-way; confidentiality can be preserved long-term. Trilemma: Authenticity/privacy/confidentiality.
+10. [Tom] Security of keys in a wallet, is this covered by the DID Core spec?
+11. Updates on current work items
 	did:peer, KERI, Universal Resolver, .well-known DID configuration, DID
 	parameters, secret recovery mechanisms
 
@@ -54,7 +76,7 @@ Password: 387317
 -proposals here-
 
 ### Attendees
--attendees here-
+- Samuel Smith
 
 ## Meeting - 19 Oct 2020 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/YeOQcUDNUweNouX6TemFh6Qkt8or2ZGhYC5HifRNtjrAKbAVd2xwr4iOQ3tCi_m4.xzWnVsSXUY_u2pUX) 
  
