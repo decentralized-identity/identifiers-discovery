@@ -36,7 +36,7 @@ Password: 387317
 </details>
 
 
-## Meeting - 26 Oct 2020 - (1400 ET) [recording]() 
+## Meeting - 26 Oct 2020 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/qYfm_yeJKE7bxx1ikeNllphHHPETk3mjZzo4UmMpg9ZaE0Pjejica0s6RMgafV-l.T9YvAAGgWMe_NCr2) 
  
 ### Agenda
 
