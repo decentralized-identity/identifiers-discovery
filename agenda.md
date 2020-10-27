@@ -77,6 +77,15 @@ Password: 387317
 
 ### Attendees
 - Samuel Smith
+- Markus Sabadello
+- Daniel Buchner
+- Charles Cunningham
+- Dmitri Zagidulin
+- Juan Caballero
+- Maarten Boender
+- Orie Steele
+- Tom Jones
+- Wayne Chang
 
 ## Meeting - 19 Oct 2020 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/YeOQcUDNUweNouX6TemFh6Qkt8or2ZGhYC5HifRNtjrAKbAVd2xwr4iOQ3tCi_m4.xzWnVsSXUY_u2pUX) 
  
