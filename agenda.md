@@ -41,10 +41,22 @@ Password: 387317
 
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
-3. Agenda creation/review/prioritization
-4. [Sam, all] Updates on various topics
-5. (propose agenda items)
-6. Updates on current work items
+3. Agenda creation/review/prioritization  
+    Polyfill Buchner  
+      
+4. [Sam, all] Updates on various topics  
+    Fuzzy vault updated looking for review feedback joint work on fuzzy vault
+    Python version is done for evaluation but may not be supported in future.
+    C++ coming up in 2 weeks will have long term support
+    Microsoft DID configuration spec. Well-known DID support. For parse and read.
+    KERI demo'd direct mode at IIW. Target to finish KERI core by end of year.
+    Jolocom app and wallet demo
+    ReSpec vs. SpecUp for standards writing. DIF will end supporting both. 
+    SpecUp: SideTree, DIDComm, Presentation Exchange  DIF standards
+    ReSpec: W3C  DID and VC specs
+    ToIP: Having a discussion about which one to use.
+    
+5. Updates on current work items
 	did:peer, KERI, Universal Resolver, .well-known DID configuration, DID
 	parameters, secret recovery mechanisms
 
