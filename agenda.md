@@ -53,16 +53,7 @@ Password: 387317
 ### Attendees
 -attendees here-
 
-## Meeting - 02 Nov 2020 - (1400 ET)
-
-Attendees:
-* Samuel Smith
-* Tom Jones
-* Steve Todd
-* Charles Cunningham
-* Daniel Buchner
-* Juan Caballero (partial)
-* Kaliya Young (partial) 
+## Meeting - 02 Nov 2020 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/neXv2MQy0QT2MxWZlyH2cpEMjbkVrzvdnt954FX4Pl2xFHv4aBMqfgdSWq1ADB0Q.05IoQNTXYSCNBOQ1) 
  
 ### Agenda
 
@@ -94,7 +85,13 @@ Attendees:
 -proposals here-
 
 ### Attendees
--attendees here-
+* Samuel Smith
+* Tom Jones
+* Steve Todd
+* Charles Cunningham
+* Daniel Buchner
+* Juan Caballero (partial)
+* Kaliya Young (partial) 
 
 ## Meeting - 26 Oct 2020 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/qYfm_yeJKE7bxx1ikeNllphHHPETk3mjZzo4UmMpg9ZaE0Pjejica0s6RMgafV-l.T9YvAAGgWMe_NCr2) 
  
