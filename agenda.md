@@ -35,7 +35,34 @@ Password: 387317
 
 </details>
 
+## Meeting - 09 Nov 2020 - (1400 ET)
+ 
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. [All] Review of DID WG meetings during TPAC - https://docs.google.com/presentation/d/1RoE8E4y8S1j65EJaXZ8oihkduNbjTXXvdwtkzw961Xw/
+5. Updates on current work items
+	did:peer, KERI, Universal Resolver, .well-known DID configuration, DID
+	parameters, secret recovery mechanisms
+
+### Proposals
+-proposals here-
+
+### Attendees
+-attendees here-
+
 ## Meeting - 02 Nov 2020 - (1400 ET)
+
+Attendees:
+* Samuel Smith
+* Tom Jones
+* Steve Todd
+* Charles Cunningham
+* Daniel Buchner
+* Juan Caballero (partial)
+* Kaliya Young (partial) 
  
 ### Agenda
 
@@ -43,6 +70,9 @@ Password: 387317
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization  
     Polyfill Buchner  
+    
+    Goto WebID working group and express concerns about no conrol over identifiers: https://github.com/WICG/WebID https://wicg.github.io/WebID/README.html 
+    
       
 4. [Sam, all] Updates on various topics  
     Fuzzy vault updated looking for review feedback joint work on fuzzy vault
