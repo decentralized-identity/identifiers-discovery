@@ -47,6 +47,10 @@ Password: 387317
     * Talked about GDPR right to erasure. A better idea might be a "right to remove correlation".
     * Regarding the Abstract Data Model (ADM): Representation-foreign properties could be hidden in a "special" place.
     * There will be language that describes how to add and register new representations.
+    * Work on "security" and "privacy" in DID Rubric: https://github.com/w3c/did-rubric/pull/10
+5. Updates on current work items
+	did:peer, KERI, Universal Resolver, .well-known DID configuration, DID
+	parameters, secret recovery mechanisms
 
 ### Proposals
 -proposals here-
