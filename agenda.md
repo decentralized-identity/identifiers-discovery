@@ -43,9 +43,10 @@ Password: 387317
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. [All] Review of DID WG meetings during TPAC - https://docs.google.com/presentation/d/1RoE8E4y8S1j65EJaXZ8oihkduNbjTXXvdwtkzw961Xw/
-5. Updates on current work items
-	did:peer, KERI, Universal Resolver, .well-known DID configuration, DID
-	parameters, secret recovery mechanisms
+    * Discussed privacy violating properties, following "type" topic in DID WG meeting
+    * Talked about GDPR right to erasure. A better idea might be a "right to remove correlation".
+    * Regarding the Abstract Data Model (ADM): Representation-foreign properties could be hidden in a "special" place.
+    * There will be language that describes how to add and register new representations.
 
 ### Proposals
 -proposals here-
