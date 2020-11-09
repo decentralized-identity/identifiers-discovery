@@ -20,4 +20,4 @@ Members of the Working Group are engaged in development of protocols and systems
 
 ## Work Items
 
-- [All I&D WG Github repos](https://github.com/search?p=2&q=topic%3Awg-id+org%3Adecentralized-identity+fork%3Atrue&type=Repositories)
+- [All I&D WG Github repos](https://github.com/decentralized-identity?q=wg-didcomm&type=&language=)
