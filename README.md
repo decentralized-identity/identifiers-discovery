@@ -5,7 +5,7 @@ Members of the Working Group are engaged in development of protocols and systems
 ## General Information
 
 - [Website page](https://identity.foundation/working-groups/identifiers-discovery.html)
-- [Github DIDcomm WG repo](https://github.com/decentralized-identity/identifiers-discovery/)
+- [Github I&D WG repo](https://github.com/decentralized-identity/identifiers-discovery/)
 - [Notion](https://www.notion.so/dif/Identifiers-Discovery-Working-Group-aea2c07cc10d4f45b729b633691e364e)
 
 ## Participation
@@ -20,4 +20,4 @@ Members of the Working Group are engaged in development of protocols and systems
 
 ## Work Items
 
-- [All I&D WG Github repos](https://github.com/decentralized-identity?q=wg-didcomm&type=&language=)
+- [All I&D WG Github repos](https://github.com/decentralized-identity?q=wg-id&type=&language=)
