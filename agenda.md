@@ -54,7 +54,9 @@ Password: 387317
    * It should delegate as much as possible to its drivers.
    * The Universal Resolver can also "convert" between representations, but should indicate that it did this, and a client should be able to control this behavior via input metadata properties.
    * Need to define how the "Accept" header works in the HTTP(S) binding.
-   * Need to update the Universal Resolver driver development documentation, as well as the DID Resolution spec.
+   * Should the "default behavior" be to return a DID document, or a DID resolution result (which includes the DID document plus metadata).
+   * Need to update the Universal Resolver [driver development documentation](https://github.com/decentralized-identity/universal-resolver/blob/master/docs/driver-development.md), as well as the [DID Resolution spec](https://w3c-ccg.github.io/did-resolution/).
+8. [Orie, Sam] Any progress on KERI test vectors? Things are still changing too much.
 9. Updates on current work items
 	did:peer, KERI, Universal Resolver, .well-known DID configuration, DID
 	parameters, secret recovery mechanisms
