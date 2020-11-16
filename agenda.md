@@ -35,15 +35,27 @@ Password: 387317
 
 </details>
 
-## Meeting - 16 Nov 2020 - (1400 ET)
+## Meeting - 16 Nov 2020 - (1400 ET) [recording](https://github.com/decentralized-identity/universal-resolver/blob/master/docs/driver-development.md)
  
 ### Agenda
 
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. TBD
-5. Updates on current work items
+4. [Sam] Collect use cases for KERI
+   * Time: the hour before the developer meeting
+   * Send use cases to Sam or Juan
+5. Status of the DID rubric PR that adds security and privacy criteria:
+   * https://github.com/w3c/did-rubric/pull/11
+6. [Markus] Open PRs in DID Core about the abstract data model and reprsentations:
+   * https://github.com/w3c/did-core/pull/455
+   * https://github.com/w3c/did-core/pull/454
+7. How will the Universal Resolver support different representations?
+   * It should delegate as much as possible to its drivers.
+   * The Universal Resolver can also "convert" between representations, but should indicate that it did this, and a client should be able to control this behavior via input metadata properties.
+   * Need to define how the "Accept" header works in the HTTP(S) binding.
+   * Need to update the Universal Resolver driver development documentation, as well as the DID Resolution spec.
+9. Updates on current work items
 	did:peer, KERI, Universal Resolver, .well-known DID configuration, DID
 	parameters, secret recovery mechanisms
 
@@ -51,7 +63,13 @@ Password: 387317
 -proposals here-
 
 ### Attendees
--attendees here-
+* Markus Sabadello
+* Tom Jones
+* Charles Cunningham
+* Juan Caballero
+* Samuel Smith
+* Rory Martin
+* Orie Steele
 
 ## Meeting - 09 Nov 2020 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/kupVdGlwe30wjuPFmHBfUG_toosS9Hv-2rl1pReIMWVrODDkJATa7MErNGk0FoQD.J2Ho-Tz_5ZYq3n8D)
  
