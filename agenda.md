@@ -74,7 +74,10 @@ Password: 387317
 -proposals here-
 
 ### Attendees
--attendees here-
+* Markus Sabadello
+* Samuel Smith
+* Tom Jones
+* Juan Caballero
 
 ## Meeting - 02 Nov 2020 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/neXv2MQy0QT2MxWZlyH2cpEMjbkVrzvdnt954FX4Pl2xFHv4aBMqfgdSWq1ADB0Q.05IoQNTXYSCNBOQ1) 
  
