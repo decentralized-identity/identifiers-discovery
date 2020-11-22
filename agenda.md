@@ -35,6 +35,22 @@ Password: 387317
 
 </details>
 
+## Meeting - 23 Nov 2020 - (1400 ET)
+ 
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Questions around DID deactivation and resolution metadata
+5. Other topics?
+6. Updates on current work items
+	did:peer, KERI, Universal Resolver, .well-known DID configuration, DID
+	parameters, secret recovery mechanisms
+
+### Attendees
+-attendees here-
+
 ## Meeting - 16 Nov 2020 - (1400 ET) [recording](https://github.com/decentralized-identity/universal-resolver/blob/master/docs/driver-development.md)
  
 ### Agenda
