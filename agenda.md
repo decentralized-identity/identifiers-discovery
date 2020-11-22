@@ -35,7 +35,7 @@ Password: 387317
 
 </details>
 
-## Meeting - 23 Nov 2020 - (1400 ET)
+## Meeting – 23 Nov 2020 – (1400 ET)
  
 ### Agenda
 
