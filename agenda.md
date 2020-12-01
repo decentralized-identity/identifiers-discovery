@@ -35,7 +35,7 @@ Password: 387317
 
 </details>
 
-## Meeting - 30 Nov 2020 - (1400 ET)
+## Meeting - 30 Nov 2020 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/XObP9jPhKL--j-7XlCuVeaAmpNJ9Ky-abUN9xbJ8wkqBlF77PJE9oYON28iqQbLN.pApDPAP50qLUlCKo)
  
 ### Agenda
 
@@ -51,7 +51,7 @@ Password: 387317
 ### Attendees
 * ...
 
-## Meeting - 23 Nov 2020 - (1400 ET) [recording](https://us02web.zoom.us/j/81145177291?pwd=NElWUEYycm4xdjAvcXhGS0V4aHNNdz09)
+## Meeting - 23 Nov 2020 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/K_AYd9_MpoBIbXUXq6TxwvkH2_-edUlzf22WDrJ0nn2_4Rv5O0Ok6Q6MBnUVoLE0.qoT43iXVZBPxkk4V)
  
 ### Agenda
 
@@ -80,7 +80,7 @@ Password: 387317
 * Charles Cunningham
 * Daniel Buchner
 
-## Meeting - 16 Nov 2020 - (1400 ET) [recording](https://github.com/decentralized-identity/universal-resolver/blob/master/docs/driver-development.md)
+## Meeting - 16 Nov 2020 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/D0m7Zk6UjriFJ9wxh5FM_yIG6GfHSEi1rgVVv-lViyFXjPa7XCC0tCP512D8Vz1v.cYtgFmIhkpYrfl7q)
  
 ### Agenda
 
