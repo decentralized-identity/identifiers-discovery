@@ -58,14 +58,42 @@ Password: 387317
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-3. Discussion of Method Spec Registry analytics and some possible directions for DIF-based efforts to structure DID Method comparison/review (Juan)
-4. Key roll-over and recovery
-5. Updates on current work items
-	did:peer, KERI, Universal Resolver, .well-known DID configuration, DID
-	parameters, secret recovery mechanisms
+4. Discussion of Method Spec Registry analytics and some possible directions for DIF-based efforts to structure DID Method comparison/review (Juan)
+    *  What's the current process for getting a DID method added to the [W3C DID spec registries](https://w3c.github.io/did-spec-registries/#did-methods)? What's the governance process?
+    *  Orie explained that the editors check if the link works, and if the DID method spec contains the required sections.
+    *  All methods are currently marked either "provisional" or "deprecated". 
+    *  Maybe methods that don't fulfill the current requirements should be marked somehow (but this could be politically sensitive).
+    *  Some methods were created before there even was a registry.
+    *  Markus has worked on a graph that shows DID methods added over time.
+    *  Sam suggested to do analytics of DID method usage.
+    *  Potentially access logs of the Universal Resolver can be analyzed (but it doesn't have any built-in analytics).
+    *  What's the current governance process for adding a driver to the DIF Universal Resolver?
+    *  There is a [page](https://github.com/decentralized-identity/universal-resolver/blob/master/docs/driver-development.md) that describes requirements, but the process can definitely be improved, e.g. by automatically testing drivers.
+    *  How can method spec authors and/or resolver driver implementers be contacted if their DID method (implementation) is outdated or doesn't work?
+    *  Sophie suggested that authors/implementers should be asked to supply contact information (rather than trying to find them by their Github handle).
+5. Discussion around accessibility/usability of DID technology
+    * Eric noted that after taking a break from participating in the DID community, it felt hard to get back to the topic and find the inside knowledge that's required to use DIDs.
+    * Many DID methods seem to be "dead", and some method specifications have "TBD" sections. Therefore people may stay away from DIDs.
+    * Some DID methods are designed to be easy to use without a need for advanced infrastructure (e.g. did:web, did:key).
+    * Sam explained that one objective of KERI is replace many DID methods with a single DID method.
+    * Sophie agreed that it was hard to find things, there are too many documents and some broken links.
+    * Eric suggested it would be good to have third-party journalistic review of DID methods.
+6. Short process-related discussion about recent DID Core spec proposal related to canonical/equivalent IDs.
 
 ### Attendees
-* ...
+* Markus Sabadello
+* Charles Cunningham
+* Juan Caballero
+* Orie Steele
+* Samuel Smith
+* Sophie [Unikname]
+* Tom Jones
+* Alex Varabei
+* John Callahan
+* Jose San Juan
+* Keith Smith
+* Tobias Looker
+* Eric Welton
 
 ## Meeting - 23 Nov 2020 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/K_AYd9_MpoBIbXUXq6TxwvkH2_-edUlzf22WDrJ0nn2_4Rv5O0Ok6Q6MBnUVoLE0.qoT43iXVZBPxkk4V)
  
