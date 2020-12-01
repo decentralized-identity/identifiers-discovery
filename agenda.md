@@ -35,6 +35,22 @@ Password: 387317
 
 </details>
 
+## Meeting - 07 Dec 2020 - (1400 ET)
+ 
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Key roll-over and recovery
+5. TBD.. ?
+6. Updates on current work items
+	did:peer, KERI, Universal Resolver, .well-known DID configuration, DID
+	parameters, secret recovery mechanisms
+
+### Attendees
+* ...
+
 ## Meeting - 30 Nov 2020 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/XObP9jPhKL--j-7XlCuVeaAmpNJ9Ky-abUN9xbJ8wkqBlF77PJE9oYON28iqQbLN.pApDPAP50qLUlCKo)
  
 ### Agenda
