@@ -42,9 +42,10 @@ Password: 387317
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. Key roll-over and recovery
-5. TBD.. ?
-6. Updates on current work items
+4. Admin: Set up WG team members on Github: https://github.com/orgs/decentralized-identity/teams/id-wg
+5. Key roll-over and recovery
+6. TBD.. ?
+7. Updates on current work items
 	did:peer, KERI, Universal Resolver, .well-known DID configuration, DID
 	parameters, secret recovery mechanisms
 
