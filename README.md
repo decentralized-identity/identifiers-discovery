@@ -13,6 +13,7 @@ Members of the Working Group are engaged in development of protocols and systems
 - [Charter](https://github.com/decentralized-identity/org/blob/master/Org%20documents/WG%20documents/DIF_ID_WG_charter_v1.pdf)
 - [Mailing list](https://lists.identity.foundation/g/id-wg)
 - [Meeting page](https://github.com/decentralized-identity/identifiers-discovery/blob/main/agenda.md)
+- [Meeting recordings](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit#gid=111226877)
 - [Slack channel](https://difdn.slack.com/messages/C4WED8JSH)
 - [Calendar entry](https://calendar.google.com/event?action=TEMPLATE&tmeid=OWtzNWZuanA4bWRnYmF0ZnVxaDR0MnQ2cGVfMjAyMDA5MjFUMTgwMDAwWiBkZWNlbnRyYWxpemVkLmlkZW50aXR5QG0&tmsrc=decentralized.identity%40gmail.com&scp=ALL)
 - [Zoom room](https://us02web.zoom.us/j/81145177291?pwd=NElWUEYycm4xdjAvcXhGS0V4aHNNdz09), Meeting ID: 811 4517 7291, Password: 387317
