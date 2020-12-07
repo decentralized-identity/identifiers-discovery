@@ -47,7 +47,7 @@ Password: 387317
 5. Key roll-over and recovery
     * We should create a repo in the ID WG that lists recovery methods we know about.
     * Microsoft/DanielB have been working on Fuzzy Encryption: https://github.com/decentralized-identity/fuzzy-encryption
-    * For the Confidential Storage (CS) WG, key recovery is pretty much out of scope. You can store private keys in a CS, but you still need a master key to unlock the CS, so there's a chicken and egg problem.
+    * For the [Confidential Storage (CS) WG](https://github.com/decentralized-identity/confidential-storage), key recovery is pretty much out of scope. You can store private keys in a CS, but you still need a master key to unlock the CS, so there's a chicken and egg problem.
     * There is essentially only a limited set of options (menmonic devices, secret sharing). Usability is the main issue; we need a critical mass of people working on it, to make the user experience accessible.
     * Biometrics must not be used as a primary private key ("you can't rotate biometrics"). Biometrics can be used to unlock a private key, i.e. as an authorization capability.
     * Additional topic: How can keys be recovered when you are not capable of controlling them anymore, or after your death?
