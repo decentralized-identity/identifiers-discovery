@@ -43,16 +43,30 @@ Password: 387317
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Admin: Set up WG team members on Github: https://github.com/orgs/decentralized-identity/teams/id-wg
+    * See list of repos: https://github.com/orgs/decentralized-identity/teams/id-wg/repositories
 5. Key roll-over and recovery
+    * We should create a repo in the ID WG that lists recovery methods we know about.
+    * Microsoft/DanielB have been working on Fuzzy Encryption: https://github.com/decentralized-identity/fuzzy-encryption
+    * For the Confidential Storage (CS) WG, this is pretty much out of scope. You can store private keys in a CS, but you still need a master key to unlock the CS, so there's a chicken and egg problem.
+    * There is essentially only a limited set of options (menmonic devices, secret sharing). Usability is the main issue; we need a critical mass of people working on it, to make the user experience accessible.
+    * Biometrics must not be used as a primary private key ("you can't rotate biometrics"). Biometrics can be used to unlock a private key, i.e. as an authorization capability.
+    * Additional topic: How can keys be recovered when you are not capable of controlling them anymore, or after your death?
 6. Topics seen in Slack channel:
     * Universal Wallet Conceptual Clarifications - https://github.com/w3c-ccg/universal-wallet-interop-spec/issues/46
     * Universal Registrar problem: https://github.com/decentralized-identity/universal-registrar/issues/18
-8. Updates on current work items
-	did:peer, KERI, Universal Resolver, .well-known DID configuration, DID
-	parameters, secret recovery mechanisms
 
 ### Attendees
-* ...
+* Markus Sabadello
+* Daniel Buchner
+* Samuel Smith
+* Charles Cunningham
+* Dmitri Zagidulin
+* Ivan Casillas
+* Juan Caballero
+* Orie Steele
+* Scott Mallery
+* Tom Jones
+* Padungkiat Tamasee
 
 ## Meeting - 30 Nov 2020 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/XObP9jPhKL--j-7XlCuVeaAmpNJ9Ky-abUN9xbJ8wkqBlF77PJE9oYON28iqQbLN.pApDPAP50qLUlCKo)
  
