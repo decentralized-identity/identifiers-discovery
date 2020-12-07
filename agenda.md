@@ -5,8 +5,7 @@
 
 
 
-[**WG projects** ](https://github.com/search?p=2&q=topic%3Awg-id+org%3Adecentralized-identity+fork%3Atrue&type=Repositories) | [ DIF page ](https://identity.foundation/working-groups/identifiers-discovery.html) | [Mailing list and Wiki ](https://lists.identity.foundation/g/id-wg) | [Meeting recordings](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit#gid=111226877)
-
+[**WG projects** ](https://github.com/search?p=2&q=topic%3Awg-id+org%3Adecentralized-identity+fork%3Atrue&type=Repositories) | [ DIF page ](https://identity.foundation/working-groups/identifiers-discovery.html) | [Mailing list and Wiki ](https://lists.identity.foundation/g/id-wg) 
 
 _For this call, you are encouraged to turn your video on. This is a good way to build rapport given we are a large, disparate group experiencing a lot of churn._
 
@@ -45,8 +44,10 @@ Password: 387317
 3. Agenda creation/review/prioritization
 4. Admin: Set up WG team members on Github: https://github.com/orgs/decentralized-identity/teams/id-wg
 5. Key roll-over and recovery
-6. TBD.. ?
-7. Updates on current work items
+6. Topics seen in Slack channel:
+    * Universal Wallet Conceptual Clarifications - https://github.com/w3c-ccg/universal-wallet-interop-spec/issues/46
+    * Universal Registrar problem: https://github.com/decentralized-identity/universal-registrar/issues/18
+8. Updates on current work items
 	did:peer, KERI, Universal Resolver, .well-known DID configuration, DID
 	parameters, secret recovery mechanisms
 
