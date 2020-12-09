@@ -45,7 +45,7 @@ Password: 387317
 4. Agenda TBD
 5. Potential topic: New implementations
    * [Tomislav/Trinsic] Rust implementation of did:key
-   * [Juan/Nethereum] Plannet .Net implementations
+   * [Juan/Nethereum] Planned .Net implementation work
 
 ### Attendees
 * ..
