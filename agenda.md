@@ -42,10 +42,10 @@ Password: 387317
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. Topics TBD
-5. Updates on current work items
-	did:peer, KERI, Universal Resolver, .well-known DID configuration, DID
-	parameters, secret recovery mechanisms
+4. Agenda TBD
+5. Potential topic: New implementations
+   * [Tomislav/Trinsic] Rust implementation of did:key
+   * [Juan/Nethereum] Plannet .Net implementations
 
 ### Attendees
 * ..
