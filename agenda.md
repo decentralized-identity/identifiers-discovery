@@ -44,7 +44,7 @@ Password: 387317
 3. Agenda creation/review/prioritization
 4. New implementations
    * **[Tomislav Markovski/Trinsic]** Rust implementation of did:key
-   * **[Juan Blanco/Nethereum]** Planned .Net implementation work
+   * **[Juan Blanco/Nethereum, Veikko Eeva]** Planned .Net implementation work
    * **[Alen Horvat/Aceblock]** Universal services
 
 ### Attendees
