@@ -44,8 +44,9 @@ Password: 387317
 3. Agenda creation/review/prioritization
 4. Agenda TBD
 5. Potential topic: New implementations
-   * [Tomislav/Trinsic] Rust implementation of did:key
-   * [Juan/Nethereum] Planned .Net implementation work
+   * [Tomislav Markovski/Trinsic] Rust implementation of did:key
+   * [Juan Blanco/Nethereum] Planned .Net implementation work
+   * [Alen Horvat/Aceblock] Universal services
 
 ### Attendees
 * ..
