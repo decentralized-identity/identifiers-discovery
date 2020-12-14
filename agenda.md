@@ -46,7 +46,7 @@ Password: 387317
    * **[Tomislav Markovski/Trinsic]** Rust implementation of did:key
    * **[Juan Blanco/Nethereum, Veikko Eeva]** Planned .Net implementation work
    * **[Alen Horvat/Aceblock]** Universal services
-   * **[Joel Thorstensson]** DID implementation in JavaScript
+   * **[Joel Thorstensson/3Box]** DID implementation in JavaScript
 
 ### Attendees
 * ..
