@@ -44,12 +44,50 @@ Password: 387317
 3. Agenda creation/review/prioritization
 4. New implementations
    * **[Tomislav Markovski/Trinsic]** Rust implementation of did:key
+       * Worked on DIDComm extensions, but separated them out to independent component
+       * Initial keys: Those supported by DIDComm (Ed25519, P256)
+       * did:key is very flexible to work with, not anchored, self-certifying, uses multicodec
+       * Rust is good for native libraries that you can call from other platforms
+       * No FFI layer yet, but it would be easy to expose if anyone wants to consume it
+       * Functions: Resolve, generate, generate from seed, sign, verify, create DID document (currently supports JSON-LD but should also support plain JSON)
+       * https://github.com/trinsic-id/did-key.rs
    * **[Juan Blanco/Nethereum, Veikko Eeva]** Planned .Net implementation work
+       * Created a .Net implementation of Ethereum
+       * Have followed DIDs but they are still work-in-progress
+       * Have looked at Java and JavaScript implementations, there is still a lot to do
+       * Joined DIF and are looking to collaborate with other people to get the ball rolling with a .Net implementation of DIDs
+       * https://github.com/veikkoeeva/DotDecentralized/tree/main/src/DotDecentralized.Core
    * **[Alen Horvat/Aceblock]** Universal services
+       * High level of universality and independence of underlying technologies is important, to avoid vendor lock-in
+       * Universal Services: Standardize the way to interact with and access SSI services
+       * Use DID Auth, REST endpoints for read, JSON-RPC endpoints for write
+       * Read operations are standardized (Universal Resolver)
+       * CUD operations are more complex; e.g. the service can return an unsigned payload, plus a request for signature
+       * The solution is standardized arguments 
+       * The Universal Resolver currently is very heavy (lots of Docker containers); instead, it could call out to remotely hosted resolvers
+       * There is need for a trust list of DID method endpoints; DIF could play a role here
    * **[Joel Thorstensson/3Box]** DID implementation in JavaScript
+       * Introduced js-did library, based on EIP2844
+       * Functions: did_authenticate, did_createJWS, did_decryptJWE
+       * Support for ed25519, secp256k1, 3id
+       * js-did library uses https://github.com/decentralized-identity/did-resolver
+       * Also methods for dag-jose
+       * Runs in any JavaScript environment (client, server)
 
 ### Attendees
-* ..
+* Markus Sabadello
+* Juan Blanco
+* Alen Horvat
+* Charles Cunningham
+* Daniel Buchner
+* Dmitri Zagidulin
+* Joel Thorstensson
+* Juan Caballero
+* Maarten Boender
+* Samuel Smith
+* Tom Jones
+* Tomislav Markovski
+* Veikko Eeva
 
 ## Meeting - 07 Dec 2020 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/iSfQWY8wFde7nkHLCfwkBiInSNf3y5F0xRWnm-maiAwM9-9SzibpGA2S6t6mpgwa.Fig4sivvsP8Jj8_2)
  
