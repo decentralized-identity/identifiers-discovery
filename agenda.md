@@ -35,6 +35,19 @@ Password: 387317
 
 </details>
 
+## Meeting - 21 Dec 2020 - (1400 ET)
+ 
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Process for creating new repos / work items
+5. Review of 2020 and plans for 2021
+
+### Attendees
+* ...
+
 ## Meeting - 14 Dec 2020 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/zzlMoqr-B1gvugiMA3-zvcj68B-e9ll_AZKb_9ChbiWIEsO3ZjnVBeZGXpH9hQmT.1kjaI3SGgSR0NxzK)
  
 ### Agenda
