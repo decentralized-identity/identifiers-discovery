@@ -42,9 +42,9 @@ Password: 387317
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. Reminder about Github permission
-5. Collaborative note taking
-6. Holiday call schedule
+4. Admin: Reminder about Github permission
+5. Admin: Collaborative note taking
+6. Admin: Holiday call schedule
 7. Process for creating new repos / work items
 8. Review of 2020 and plans for 2021
 
