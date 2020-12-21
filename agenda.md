@@ -44,8 +44,12 @@ Password: 387317
 3. Agenda creation/review/prioritization
 4. Admin: Reminder about Github permission
 5. Admin: Collaborative note taking
+    * Write access has been given to signed-in users in HackMD
 6. Admin: Holiday call schedule
+    * Next call will be on 04 Jan 2020
 7. Process for creating new repos / work items
+    * Decision to start a new repo for .Net implementation
+    * Maybe in 2021 we try to formalize the process for new work items a bit more
 8. Review of 2020 and plans for 2021
 
 ### Attendees
