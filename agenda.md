@@ -35,7 +35,7 @@ Password: 387317
 
 </details>
 
-## Meeting - 21 Dec 2020 - (1400 ET)
+## Meeting - 21 Dec 2020 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/1sTyClhb5tv7zUGqhU8CXGG1qriymlQaBgFZdfDoyg5__N5OZIYP44xEtiKXMV1Z.oreh7XgONuvVRKAk)
  
 ### Agenda
 
