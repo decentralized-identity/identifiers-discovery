@@ -53,7 +53,14 @@ Password: 387317
 8. Review of 2020 and plans for 2021
 
 ### Attendees
-* ...
+* Markus Sabadello
+* Juan Blanco
+* Veikko Eeva
+* Balázs Nemethi
+* Juan Caballero
+* Samuel Smith
+* Tom Jones
+* Tomislav Markovski
 
 ## Meeting - 14 Dec 2020 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/zzlMoqr-B1gvugiMA3-zvcj68B-e9ll_AZKb_9ChbiWIEsO3ZjnVBeZGXpH9hQmT.1kjaI3SGgSR0NxzK)
  
