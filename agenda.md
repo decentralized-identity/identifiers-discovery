@@ -35,6 +35,20 @@ Password: 387317
 
 </details>
 
+## Meeting - 04 Jan 2021 - (1400 ET)
+ 
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Plans for 2021
+5. Upcoming DIF F2F
+
+## Meeting - 28 Dec 2020 - (1400 ET)
+
+No meeting.
+
 ## Meeting - 21 Dec 2020 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/1sTyClhb5tv7zUGqhU8CXGG1qriymlQaBgFZdfDoyg5__N5OZIYP44xEtiKXMV1Z.oreh7XgONuvVRKAk)
  
 ### Agenda
