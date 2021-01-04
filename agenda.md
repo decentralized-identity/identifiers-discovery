@@ -43,7 +43,7 @@ Password: 387317
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Plans for 2021
-5. Upcoming DIF F2F
+5. Upcoming DIF F2F - https://docs.google.com/spreadsheets/d/1hVnwrnU7QOp_rA7AcK2NTQkflSAg0zvQ3-We2DqyRpk/
 
 ## Meeting - 28 Dec 2020 - (1400 ET)
 
