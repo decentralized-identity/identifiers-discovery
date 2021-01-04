@@ -42,8 +42,24 @@ Password: 387317
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. Plans for 2021
-5. Upcoming DIF F2F - https://docs.google.com/spreadsheets/d/1hVnwrnU7QOp_rA7AcK2NTQkflSAg0zvQ3-We2DqyRpk/
+4. Upcoming DIF F2F - https://docs.google.com/spreadsheets/d/1hVnwrnU7QOp_rA7AcK2NTQkflSAg0zvQ3-We2DqyRpk/
+    * Since the ID WG has many work items, we should do a high-level overview of everything in our "main" 15 min session, then have 15 min breakout sessions for the work items people care about
+5. Plans for 2021
+    * Regular reviews / working time dedicated to individual work items of this WG, in addition to "ad-hoc" topics.
+    * See DIF work item lifecycle: https://github.com/decentralized-identity/org/blob/master/work-item-lifecycle.md
+6. Wallet certification
+    * Short discussion on how wallets get certified and which organization(s) would do this.
+    * Could be part of Governance Frameworks developed by Trust-over-IP foundation.
+
+
+### Attendees
+* Markus Sabadello
+* Juan Caballero
+* Balázs Nemethi
+* Charles Cunningham
+* Samuel Smith
+* Maarten (Sphereon)
+* Tom Jones
 
 ## Meeting - 28 Dec 2020 - (1400 ET)
 
