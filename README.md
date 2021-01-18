@@ -27,17 +27,23 @@ Current Work Items:
 
 | Name | Type | Status | Link(s) |
 | ----------- | -------------- | ---------------- | ----------------------- |
-| Universal Resolver | Code | Active | https://github.com/decentralized-identity/universal-resolver<br> https://github.com/decentralized-identity/universal-resolver-frontend |
-| Universal Registrar | Code | Active | https://github.com/decentralized-identity/universal-registrar<br> https://github.com/decentralized-identity/universal-registrar-frontend |
+| Universal Resolver | Code | Active | https://github.com/decentralized-identity/universal-resolver<br> https://github.com/decentralized-identity/universal-resolver-frontend<br> (various drivers) |
+| Universal Registrar | Code | Active | https://github.com/decentralized-identity/universal-registrar<br> https://github.com/decentralized-identity/universal-registrar-frontend<br> (various drivers) |
 | did-common-java | Code | Active | https://github.com/decentralized-identity/did-common-java |
+| did-common-dotnet | Code | Active | https://github.com/decentralized-identity/did-common-dotnet |
 | did:peer Method | Spec | Active | https://github.com/decentralized-identity/peer-did-method-spec |
 | .well-known DID Configuration | Spec | Active | https://github.com/decentralized-identity/.well-known |
 | KERI | Spec and Code | Active | https://github.com/decentralized-identity/keri<br> https://github.com/decentralized-identity/keriox<br> https://github.com/decentralized-identity/keripy<br> https://github.com/decentralized-identity/kerigo<br> https://github.com/decentralized-identity/kerijs |
-| Secret Recovery Methods | Documentation | Active | https://github.com/decentralized-identity/secret-recovery-methods |
+| Secret Recovery Methods (Fuzzy Encryption, Horcrux) | Documentation | Active | https://github.com/decentralized-identity/secret-recovery-methods<br> https://github.com/decentralized-identity/fuzzy-encryption<br> https://github.com/decentralized-identity/horcrux |
+| JavaScript DID Resolver | Code | Active | https://github.com/decentralized-identity/did-resolver<br> https://github.com/decentralized-identity/ethr-did-resolver<br> https://github.com/decentralized-identity/web-did-resolver |
+| JavaScript DID JWT | Code | Active | https://github.com/decentralized-identity/did-jwt<br> https://github.com/decentralized-identity/did-jwt-vc |
+| JSON-LD Document Loader | Specs | Active | https://github.com/decentralized-identity/jsonld-document-loader |
+| DID Spec Extensions | Specs | Active | https://github.com/decentralized-identity/did-spec-extensions |
 
 Former Work Items:
 
 | Name | Type | Status | Link(s) |
 | ----------- | -------------- | ---------------- | ----------------------- |
-| Sidetree | Specs and Code | Moved into separate Working Group | https://identity.foundation/working-groups/sidetree.html |
+| Sidetree | Specs and Code | Transitioned into separate Working Group | https://identity.foundation/working-groups/sidetree.html |
+| DIF Security Context | Specs | Transitioned into W3C DID Spec Registries | https://github.com/decentralized-identity/context |
 
