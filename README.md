@@ -25,20 +25,20 @@ Members of the Working Group are engaged in development of protocols and systems
 
 Current Work Items:
 
-| Name | Type | Status | Link(s) |
+| Name | Type | Lead(s) | Link(s) |
 | ----------- | -------------- | ---------------- | ----------------------- |
-| Universal Resolver | Code | Active | https://github.com/decentralized-identity/universal-resolver<br> https://github.com/decentralized-identity/universal-resolver-frontend<br> (various drivers) |
-| Universal Registrar | Code | Active | https://github.com/decentralized-identity/universal-registrar<br> https://github.com/decentralized-identity/universal-registrar-frontend<br> (various drivers) |
-| did-common-java | Code | Active | https://github.com/decentralized-identity/did-common-java |
-| did-common-dotnet | Code | Active | https://github.com/decentralized-identity/did-common-dotnet |
-| did:peer Method | Spec | Active | https://github.com/decentralized-identity/peer-did-method-spec |
-| .well-known DID Configuration | Spec | Active | https://github.com/decentralized-identity/.well-known |
-| KERI | Spec and Code | Active | https://github.com/decentralized-identity/keri<br> https://github.com/decentralized-identity/keriox<br> https://github.com/decentralized-identity/keripy<br> https://github.com/decentralized-identity/kerigo<br> https://github.com/decentralized-identity/kerijs |
-| Secret Recovery Methods (Fuzzy Encryption, Horcrux) | Documentation | Active | https://github.com/decentralized-identity/secret-recovery-methods<br> https://github.com/decentralized-identity/fuzzy-encryption<br> https://github.com/decentralized-identity/horcrux |
-| JavaScript DID Resolver | Code | Active | https://github.com/decentralized-identity/did-resolver<br> https://github.com/decentralized-identity/ethr-did-resolver<br> https://github.com/decentralized-identity/web-did-resolver |
-| JavaScript DID JWT | Code | Active | https://github.com/decentralized-identity/did-jwt<br> https://github.com/decentralized-identity/did-jwt-vc |
-| JSON-LD Document Loader | Specs | Active | https://github.com/decentralized-identity/jsonld-document-loader |
-| DID Spec Extensions | Specs | Active | https://github.com/decentralized-identity/did-spec-extensions |
+| Universal Resolver | Code | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/universal-resolver<br> https://github.com/decentralized-identity/universal-resolver-frontend<br> (various drivers) |
+| Universal Registrar | Code | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/universal-registrar<br> https://github.com/decentralized-identity/universal-registrar-frontend<br> (various drivers) |
+| did-common-java | Code | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/did-common-java |
+| did-common-dotnet | Code | [@juanfranblanco](https://github.com/juanfranblanco), [@veikkoeeva](https://github.com/veikkoeeva) | https://github.com/decentralized-identity/did-common-dotnet |
+| did:peer Method | Spec | [@dhh1128](https://github.com/dhh1128) | https://github.com/decentralized-identity/peer-did-method-spec |
+| .well-known DID Configuration | Spec | [@csuwildcat](https://github.com/csuwildcat), [@OR13](https://github.com/OR13) | https://github.com/decentralized-identity/.well-known |
+| KERI | Spec and Code | [@SmithSamuelM](https://github.com/SmithSamuelM), [@chunningham](https://github.com/chunningham) | https://github.com/decentralized-identity/keri<br> https://github.com/decentralized-identity/keriox<br> https://github.com/decentralized-identity/keripy<br> https://github.com/decentralized-identity/kerigo<br> https://github.com/decentralized-identity/kerijs |
+| Secret Recovery Methods (Fuzzy Encryption, Horcrux) | Documentation | [@TomCJones](https://github.com/TomCJones), [@csuwildcat](https://github.com/csuwildcat), [@johncallahan](https://github.com/johncallahan) | https://github.com/decentralized-identity/secret-recovery-methods<br> https://github.com/decentralized-identity/fuzzy-encryption<br> https://github.com/decentralized-identity/horcrux |
+| JavaScript DID Resolver | Code | [@pelle](https://github.com/pelle), [@mirceanis](https://github.com/mirceanis) | https://github.com/decentralized-identity/did-resolver<br> https://github.com/decentralized-identity/ethr-did-resolver<br> https://github.com/decentralized-identity/web-did-resolver |
+| JavaScript DID JWT | Code | [@pelle](https://github.com/pelle), [@mirceanis](https://github.com/mirceanis) | https://github.com/decentralized-identity/did-jwt<br> https://github.com/decentralized-identity/did-jwt-vc |
+| JSON-LD Document Loader | Code | [@OR13](https://github.com/OR13) | https://github.com/decentralized-identity/jsonld-document-loader |
+| DID Spec Extensions | Specs | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/did-spec-extensions |
 
 Former Work Items:
 
@@ -46,4 +46,4 @@ Former Work Items:
 | ----------- | -------------- | ---------------- | ----------------------- |
 | Sidetree | Specs and Code | Transitioned into separate Working Group | https://identity.foundation/working-groups/sidetree.html |
 | DIF Security Context | Specs | Transitioned into W3C DID Spec Registries | https://github.com/decentralized-identity/context |
-
+| Python DID Resolver | Specs | Abandoned | https://github.com/decentralized-identity/universal-resolver-python |
