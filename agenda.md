@@ -35,6 +35,20 @@ Password: 387317
 
 </details>
 
+## Meeting - 18 Jan 2021 - (1400 ET)
+ 
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Preparation for DIF F2F - https://docs.google.com/spreadsheets/d/1hVnwrnU7QOp_rA7AcK2NTQkflSAg0zvQ3-We2DqyRpk/
+5. Review of current work items
+
+
+### Attendees
+* 
+
 ## Meeting - 11 Jan 2021 - (1400 ET) 
 
 (Meeting cancelled)
