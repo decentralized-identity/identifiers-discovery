@@ -35,7 +35,7 @@ Password: 387317
 
 </details>
 
-## Meeting - 18 Jan 2021 - (1400 ET)
+## Meeting - 18 Jan 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/fgTeCqeuvI-vxnxacTHkJnBzCjIvZPNmoY2pHLMi0DFJv1VmKiFzifwU4hvnF_Ms.n_WcnMCqNVKXZnrj)
  
 ### Agenda
 
@@ -43,11 +43,23 @@ Password: 387317
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Preparation for DIF F2F - https://docs.google.com/spreadsheets/d/1hVnwrnU7QOp_rA7AcK2NTQkflSAg0zvQ3-We2DqyRpk/
-5. Review of current work items
+    * Created list of current work items: https://github.com/decentralized-identity/identifiers-discovery#work-items
+6. Review of current work items
+    * Discussed state of did:peer with regard to recent developments in DIDComm v2 and KERI
+    * KERI implementations are moving ahead in multiple programming languages.
+    * Thanks @tmarkovski for new contribution of did:key implementation in Rust! https://github.com/decentralized-identity/did-key.rs
+7. Use of colons in DID syntax
+    * E.g. in `did:ethr:testnet:1235426534`, you have a colon as part of the method-specific identifier. Does this mean you have to know about all DID methods in order to be able to parse DIDs?
+    * See reviews by W3C TAG about DID Core spec: https://github.com/w3ctag/design-reviews/issues/556
 
 
 ### Attendees
-* 
+* Markus Sabadello
+* Samuel Smith
+* Tom Jones
+* Balázs Nemethi
+* Juan Caballero
+* Tomislav Markovski
 
 ## Meeting - 11 Jan 2021 - (1400 ET) 
 
