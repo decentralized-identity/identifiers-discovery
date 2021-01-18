@@ -22,3 +22,22 @@ Members of the Working Group are engaged in development of protocols and systems
 ## Work Items
 
 - [All I&D WG Github repos](https://github.com/decentralized-identity?q=wg-id&type=&language=)
+
+Current Work Items:
+
+| Name | Type | Status | Link(s) |
+| ----------- | -------------- | ---------------- | ----------------------- |
+| Universal Resolver | Code | Active | https://github.com/decentralized-identity/universal-resolver<br> https://github.com/decentralized-identity/universal-resolver-frontend |
+| Universal Registrar | Code | Active | https://github.com/decentralized-identity/universal-registrar<br> https://github.com/decentralized-identity/universal-registrar-frontend |
+| did-common-java | Code | Active | https://github.com/decentralized-identity/did-common-java |
+| did:peer Method | Spec | Active | https://github.com/decentralized-identity/peer-did-method-spec |
+| .well-known DID Configuration | Spec | Active | https://github.com/decentralized-identity/.well-known |
+| KERI | Spec and Code | Active | https://github.com/decentralized-identity/keri<br> https://github.com/decentralized-identity/keriox<br> https://github.com/decentralized-identity/keripy<br> https://github.com/decentralized-identity/kerigo<br> https://github.com/decentralized-identity/kerijs |
+| Secret Recovery Methods | Documentation | Active | https://github.com/decentralized-identity/secret-recovery-methods |
+
+Former Work Items:
+
+| Name | Type | Status | Link(s) |
+| ----------- | -------------- | ---------------- | ----------------------- |
+| Sidetree | Specs and Code | Moved into separate Working Group | https://identity.foundation/working-groups/sidetree.html |
+
