@@ -39,6 +39,7 @@ Current Work Items:
 | JavaScript DID JWT | Code | [@pelle](https://github.com/pelle), [@mirceanis](https://github.com/mirceanis) | https://github.com/decentralized-identity/did-jwt<br> https://github.com/decentralized-identity/did-jwt-vc |
 | JSON-LD Document Loader | Code | [@OR13](https://github.com/OR13) | https://github.com/decentralized-identity/jsonld-document-loader |
 | DID Spec Extensions | Specs | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/did-spec-extensions |
+| Rust did:key Implementation | Code | [@tmarkovski](https://github.com/tmarkovski) | https://github.com/decentralized-identity/did-key.rs |
 
 Former Work Items:
 
