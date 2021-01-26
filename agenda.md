@@ -35,7 +35,7 @@ Password: 387317
 
 </details>
 
-## Meeting - 25 Jan 2021 - (1400 ET)
+## Meeting - 25 Jan 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/cVfJswk3SM_okp5iily6v8pjjd4dEQogBVXOtisvacLRy08D9q7AtWC5u0miEbOr.1jxxNcVn5PWcE21k)
 
 ### Agenda
 
@@ -46,7 +46,19 @@ Password: 387317
 5. State of [Universal Registrar](https://github.com/decentralized-identity/universal-registrar).
 
 ### Attendees
-* 
+* Troy Ronda
+* Ajay Jadhav
+* Alen Horvat
+* Andrei Mikhin
+* Artur Philipp
+* Charles Cunningham
+* Dmitri Zagidulin
+* Juan Caballero
+* Lionel LONKAP
+* Samuel Smith
+* Steve Todd
+* Tom Jones
+* Tomislav Markovski
 
 ## Meeting - 18 Jan 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/fgTeCqeuvI-vxnxacTHkJnBzCjIvZPNmoY2pHLMi0DFJv1VmKiFzifwU4hvnF_Ms.n_WcnMCqNVKXZnrj)
  
