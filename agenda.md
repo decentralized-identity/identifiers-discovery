@@ -43,7 +43,18 @@ Password: 387317
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Integration between [ACA-py](https://github.com/hyperledger/aries-cloudagent-python/)/[Veramo](https://github.com/uport-project/veramo)/[aries-framework-go](https://github.com/hyperledger/aries-framework-go/) and [Universal Resolver](https://github.com/decentralized-identity/universal-resolver/).
-5. State of [Universal Registrar](https://github.com/decentralized-identity/universal-registrar).
+    * DIDs in aries-framework-go:
+        * Supports did:web, did:key, did:peer, you can inject additional DID method support
+        * Ability to configure Universal Resolver
+        * For DID updates, you can pass in DID documents for doing updates (patches can be automatically constructed from the diff)
+        * Using WebKMS ("KeyRetriever" interface) for write operations
+    * DIDs in Veramo:
+        * Veramo acts as a store that links DIDs to their keys
+        * DID that needs to be updated need some crypto operations with those keys
+        * We tried to come up with an abstraction layer, including add and remove operations for keys and services
+    * Discussion around "trusted endpoints" for DID methods
+        * To add support for resolving a DID method, you could run a driver locally as part of the resolver, or configure a trusted remote endpoint
+        * This can help minimize the amount of code that has be implemented
 
 ### Attendees
 * Troy Ronda
