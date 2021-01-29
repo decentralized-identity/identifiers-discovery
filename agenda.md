@@ -35,6 +35,19 @@ Password: 387317
 
 </details>
 
+## Meeting - 01 Feb 2021 - (1400 ET) 
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Continue discussion on DID CRUD operations, including architectures, interfaces, implementations (such as Universal Resolver/Registrar, ACA-py, aries-framework-go, Veramo, DIDKit)
+5. Consider key management and proof-of-control
+
+### Attendees
+* 
+
 ## Meeting - 25 Jan 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/cVfJswk3SM_okp5iily6v8pjjd4dEQogBVXOtisvacLRy08D9q7AtWC5u0miEbOr.1jxxNcVn5PWcE21k)
 
 ### Agenda
