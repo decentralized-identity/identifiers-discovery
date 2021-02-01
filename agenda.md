@@ -43,10 +43,32 @@ Password: 387317
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Continue discussion on DID CRUD operations, including architectures, interfaces, implementations (such as Universal Resolver/Registrar, ACA-py, aries-framework-go, Veramo, DIDKit)
-5. Consider key management and proof-of-control
+    * Introduction to DIDKit:
+        * Support for Verifiable Credentials, LD Proofs, JSON-LD normalization, VC HTTP API, and more.
+        * Support for multiple DID methods in core, library can be extended with additional DID methods by implementing the same Rust trait.
+        * Rust traits match functionality in DID Core and DID Resolution.
+        * Support for did:doge (identical to did:btcr with better privacy characteristics)
+    * Discussion on architectures of DID registration software
+        * Security and trust issues if a hosted service is involved in DID write operations.
+        * User/client should not sign something they don't understand.
+        * Startups create new DID methods all the time, how can they all be supported?
+    * Discussion around government-approved cryptography, and adoption of DIDs.
+6. Consider proof-of-control
+    * Sam: We don't need DID documents, we only need to establish control authority, and then issue verifiable credentials.
 
 ### Attendees
-* 
+* Markus Sabadello
+* Alen Horvat
+* Balázs Nemethi
+* Charles Cunningham
+* Charles E. Lehner
+* Ian Yu
+* Juan Caballero
+* Martin Riedel
+* Rouven Heck
+* Samuel Smith
+* Tom Jones
+* Wayne Chang
 
 ## Meeting - 25 Jan 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/cVfJswk3SM_okp5iily6v8pjjd4dEQogBVXOtisvacLRy08D9q7AtWC5u0miEbOr.1jxxNcVn5PWcE21k)
 
