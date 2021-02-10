@@ -35,18 +35,58 @@ Password: 387317
 
 </details>
 
-## Meeting - 08 Feb 2021 - (1400 ET) 
+## Meeting - 15 Feb 2021 - (1400 ET)
 
 ### Agenda
 
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. Guidance on specifying a new DID method
+4. Dillo plugin for DID URLs
 5. Updates on Universal Resolver/Registrar
 
 ### Attendees
 * 
+
+## Meeting - 08 Feb 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/DVXYxEfR5oQnhoymvnAP9Yz62RHMaMiBywyDa7OCDnZkiuU0hTyOdNParUNMu7Am.0D-Xam-GWeDLI15s)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. News on [Fuzzy Encryption](https://github.com/decentralized-identity/fuzzy-encryption):
+    * Finished work on a C++ implementation
+    * Build script that generates WASM, can be consumed by JS
+    * When not in native C++ form, it needs a wrapper for input of random bytes
+    * Library can encrypt secrets, can decrypt with different inputs; technically different from Shamir, but has similar properties
+    * The encrypted secret can be a symmetric key seed
+5. News on [KERI](https://github.com/decentralized-identity/keri):
+    * KERI is about to become its own Working Group, charter has been approved
+7. Guidance on specifying a new DID method
+    * Interest in creating a new DID method for eos.io
+    * eos.io has existing concepts of "accounts" that could be used as a basis for DIDs
+    * How to write a DID method specification? (needs to define DID syntax, DID operations, Privacy&Security Considerations)
+    * DID method can be registered in [DID Spec Registries](https://w3c.github.io/did-spec-registries/)
+    * Driver implementation can be submitted to the [Universal Resolver](https://github.com/decentralized-identity/universal-resolver)
+    * Discussion around creating new DID methods and differences between methods
+    * Discussion around new DID methods that incorporate KERI principles
+
+### Attendees
+* Markus Sabadello
+* Alen Horvat
+* Daniel Buchner
+* Michael Herman
+* Adi (Entrustient)
+* Caspar Roelofs
+* Charles E. Lehner
+* Jack Tanner
+* Jeremie Miller
+* Juan Caballero
+* Rouven Heck
+* Samuel Smith
+* Tom Jones
+* Kaliya Identity Woman
 
 ## Meeting - 01 Feb 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/iQ7y5fKbflwQs4RoM2MN5OkKVzErtIoHNGKmngPDs1x5AUOhKakfIXaHkWl33Mxt.bADiEclU9oSAXFE7)
 
