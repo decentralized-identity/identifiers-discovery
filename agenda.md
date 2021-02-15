@@ -35,6 +35,18 @@ Password: 387317
 
 </details>
 
+## Meeting - 21 Feb 2021 - (1400 ET)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. TBD
+
+### Attendees
+* 
+
 ## Meeting - 15 Feb 2021 - (1400 ET)
 
 ### Agenda
@@ -43,10 +55,29 @@ Password: 387317
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Dillo plugin for DID URLs
-5. Updates on Universal Resolver/Registrar
+    * Can resolve DIDs inside a browser, using a local instance of DIDkit
+    * Can use Universal Resolver as a fallback
+    * Built-in DID resolution in browser is preferable to remote resolver service
+6. Updates on Universal Resolver/Registrar
+    * Working on a DIDComm interface for the Universal Resolver
+    * Alternative to using HTTP interface
+    * Chicken-and-egg problem (you first need to resolve DIDs to do DIDComm)
+7. Discussion on human-readable names and DIDs
+    * Existing specifications to link web addresses and domain names to DIDs: https://identity.foundation/specs/did-configuration/, https://datatracker.ietf.org/doc/draft-mayrhofer-did-dns/
+    * Pet names (can they be stored in the Universal Wallet?)
+    * Some DID methods may use human-readable identifiers
+8. Discussion on use of multiple keys for controlling a DID
+    * How can you express in a DID document that you want to use multiple keys to authenticate? Define a verification method that consists of multiple other verification methods?
 
 ### Attendees
-* 
+* Markus Sabadello
+* Jack Tanner
+* Juan Caballero
+* Kaliya Identity Woman
+* Samuel Smith
+* Tom Jones
+* Charles E. Lehner
+* Oliver Terbu
 
 ## Meeting - 08 Feb 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/DVXYxEfR5oQnhoymvnAP9Yz62RHMaMiBywyDa7OCDnZkiuU0hTyOdNParUNMu7Am.0D-Xam-GWeDLI15s)
 
