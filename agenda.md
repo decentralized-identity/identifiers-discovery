@@ -42,9 +42,9 @@ Password: 387317
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. DID Core support for multiple controllers
-    * [Jack] Support for multisig and delegation in EOSIO
-    * Related topics in other DID methods
+4. Controller, verification methods, authorization in DID Core
+5. [Jack] Support for multisig and delegation in EOSIO
+6. Related topics in other DID methods
 
 ### Attendees
 * 
