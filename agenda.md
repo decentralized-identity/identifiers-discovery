@@ -48,7 +48,7 @@ Password: 387317
 * 
 
 
-## Meeting - 22 Feb 2021 - (1400 ET)
+## Meeting - 22 Feb 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/iGQfodAgAQEy4Ll2Vftd0e5ZVVby70BVaSKPFTCWdd8Ht7M427qb-WnMnVo7Vgg3.Rjv0A-YaHfHKOXjC)
 
 ### Agenda
 
@@ -56,10 +56,16 @@ Password: 387317
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Updates on progress on DID Core in W3C DID WG
-5. (maybe) Modeling multiple controllers in a DID document
+    * Discussion around data model and representations, e.g. see: https://github.com/w3c/did-core/pull/679, https://github.com/w3c/did-core/pull/596, https://github.com/w3c/did-core/pull/597
 
 ### Attendees
-* 
+* Markus Sabadello
+* Samuel Smith
+* Charles E. Lehner
+* Dmitri Zagidulin
+* Jack Tanner
+* Juan Caballero
+* Tom Jones
 
 ## Meeting - 15 Feb 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/9a0qC4ia6MFxzkD69Z6D6b6OUDT8WvsmUa2JVmmyRs8Eg68T5vZ_tzzjzpMBXAZb.WXPHvqzg_oKMP4nh)
 
