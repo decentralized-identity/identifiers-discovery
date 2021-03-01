@@ -35,7 +35,7 @@ Password: 387317
 
 </details>
 
-## Meeting - 29 Feb 2021 - (1400 ET)
+## Meeting - 01 Mar 2021 - (1400 ET)
 
 ### Agenda
 
