@@ -35,7 +35,7 @@ Password: 387317
 
 </details>
 
-## Meeting - 01 Mar 2021 - (1400 ET)
+## Meeting - 01 Mar 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/Tl6mlvZkoAroBI1-N1m-F8OJBfkLqIn2367vEo9zl2K93rW7WW1S7m3lTUaXYtFb.trabiLuLAlg4FNl_)
 
 ### Agenda
 
@@ -43,11 +43,27 @@ Password: 387317
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Controller, verification methods, authorization in DID Core
-5. [Jack] Support for multisig and delegation in EOSIO
-6. Related topics in other DID methods
+   * See issues in DID Core: https://github.com/w3c/did-core/issues/697, https://github.com/w3c/did-core/issues/693, https://github.com/w3c/did-core/issues/694, https://github.com/w3c/did-core/issues/695
+6. [Jack] Support for multisig and delegation in EOSIO
+   * Presentation by Jack about EOS chain and larger EOSIO ecosystem
+   * EOS has an "account" concept as an abstraction layer; the account identifier is not derived from a key
+   * Detailed discussions about multi-sig verification methods and delegation methods
+   * There is a difference between 1. making a DID method that internally uses these features, and 2. exposing this in a DID document in a method-independent way. On the call, there was consensus that the latter would be highly desirable.
+   * Consensus that a new cryptosuite should be defined (as a work item in W3C CCG or DIF)
+   * If possible, the [`blockchainAccountId` property](https://w3c.github.io/did-spec-registries/#blockchainaccountid) should be re-used.
+8. Related topics in other DID methods
+   * Besides EOS, this is also relevant to did:indy, Ripple, and KERI-based DID methods
 
 ### Attendees
-* 
+* Markus Sabadello
+* Jack Tanner
+* Orie Steele
+* Caspar Roelofs
+* Jeremie Miller
+* Juan Caballero
+* Michael Herman
+* Samuel Smith
+* Tom Jones
 
 
 ## Meeting - 22 Feb 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/iGQfodAgAQEy4Ll2Vftd0e5ZVVby70BVaSKPFTCWdd8Ht7M427qb-WnMnVo7Vgg3.Rjv0A-YaHfHKOXjC)
