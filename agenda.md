@@ -35,6 +35,19 @@ Password: 387317
 
 </details>
 
+## Meeting - 08 Mar 2021 - (1400 ET) 
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. [Jack] Continue discussion on multisig and delegation in DID methods:
+    * https://docs.google.com/document/d/1hxEMQxfNuB6Elmd6V-9bEt0kZqSx-DULycn6CjOpMYs/
+
+### Attendees
+* 
+
 ## Meeting - 01 Mar 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/Tl6mlvZkoAroBI1-N1m-F8OJBfkLqIn2367vEo9zl2K93rW7WW1S7m3lTUaXYtFb.trabiLuLAlg4FNl_)
 
 ### Agenda
@@ -64,7 +77,6 @@ Password: 387317
 * Michael Herman
 * Samuel Smith
 * Tom Jones
-
 
 ## Meeting - 22 Feb 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/iGQfodAgAQEy4Ll2Vftd0e5ZVVby70BVaSKPFTCWdd8Ht7M427qb-WnMnVo7Vgg3.Rjv0A-YaHfHKOXjC)
 
