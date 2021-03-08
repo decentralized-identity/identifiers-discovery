@@ -18,7 +18,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 * Before your contribute - [**join DIF**](https://identity.foundation/join) and [sign the WG charter](https://bit.ly/DIF-WG-select1) (both are required!) 
 * Time: Every Monday, 14:00-15:00 ET
 * [Calendar entry](https://calendar.google.com/event?action=TEMPLATE&tmeid=OWtzNWZuanA4bWRnYmF0ZnVxaDR0MnQ2cGVfMjAyMDA5MjFUMTgwMDAwWiBkZWNlbnRyYWxpemVkLmlkZW50aXR5QG0&tmsrc=decentralized.identity%40gmail.com&scp=ALL)
-* [Zoom room](https://us02web.zoom.us/j/81145177291?pwd=NElWUEYycm4xdjAvcXhGS0V4aHNNdz09), Meeting ID: 811 4517 7291, 
+* [Zoom room](https://us02web.zoom.us/j/87498640502?pwd=WTN0SVJHSzZtdVFYd3JYT3JadjB1UT09), Meeting ID: 811 4517 7291, 
 Password: 387317
 </details>
 
