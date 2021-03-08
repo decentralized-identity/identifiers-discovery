@@ -44,6 +44,7 @@ Password: 387317
 3. Agenda creation/review/prioritization
 4. [Jack] Continue discussion on multisig and delegation in DID methods:
     * https://docs.google.com/document/d/1hxEMQxfNuB6Elmd6V-9bEt0kZqSx-DULycn6CjOpMYs/
+5. Other topics?
 
 ### Attendees
 * 
