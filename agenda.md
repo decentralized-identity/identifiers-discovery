@@ -18,7 +18,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 * Before your contribute - [**join DIF**](https://identity.foundation/join) and [sign the WG charter](https://bit.ly/DIF-WG-select1) (both are required!) 
 * Time: Every Monday, 14:00-15:00 ET
 * [Calendar entry](https://calendar.google.com/event?action=TEMPLATE&tmeid=OWtzNWZuanA4bWRnYmF0ZnVxaDR0MnQ2cGVfMjAyMDA5MjFUMTgwMDAwWiBkZWNlbnRyYWxpemVkLmlkZW50aXR5QG0&tmsrc=decentralized.identity%40gmail.com&scp=ALL)
-* [Zoom room](https://us02web.zoom.us/j/87498640502?pwd=WTN0SVJHSzZtdVFYd3JYT3JadjB1UT09), Meeting ID: 811 4517 7291, 
+* [Zoom room](https://us02web.zoom.us/j/87498640502?pwd=WTN0SVJHSzZtdVFYd3JYT3JadjB1UT09), Meeting ID: 87498640502, 
 Password: 387317
 </details>
 
@@ -57,10 +57,19 @@ Password: 387317
 3. Agenda creation/review/prioritization
 4. [Jack] Continue discussion on multisig and delegation in DID methods:
     * https://docs.google.com/document/d/1hxEMQxfNuB6Elmd6V-9bEt0kZqSx-DULycn6CjOpMYs/
-5. Other topics?
+    * Discussion of the document, and how it applies to different DID methods
+    * Discussion of advanced verification methods involving smart contracts, etc.
 
 ### Attendees
-* 
+* Markus Sabadello
+* Caspar Roelofs
+* Charles E. Lehner
+* David Waite
+* Jeremie Miller
+* Joel Thorstensson
+* Juan Caballero
+* Samuel Smith
+* Tom Jones
 
 ## Meeting - 01 Mar 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/Tl6mlvZkoAroBI1-N1m-F8OJBfkLqIn2367vEo9zl2K93rW7WW1S7m3lTUaXYtFb.trabiLuLAlg4FNl_)
 
