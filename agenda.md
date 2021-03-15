@@ -62,13 +62,13 @@ Password: 387317
    * Version 0.1, will still be changed/optimized
    * Simple CRUD approach to put DIDs on blockchain. Solana has the concept of an "account", that's what you pay rent for. It will serialize a document and store the byte array on chain.
    * Daniel+Jon have worked on a driver for both the Universal Resolver and Universal Registrar. An instance of the Universal Resolver is running at:
-       * https://did.civic.com/
+   * https://did.civic.com/
    * Some discussion around design of Universal Registrar, e.g. what are the inputs, who pays for the transactions, etc.
    * [CharlesEL] Spruce Systems has also worked on a DID method based on Solana, perhaps there is potential to collaborate.
    * Links:
-       * https://identity-com.github.io/solid-did/did-method-spec.html
-       * https://github.com/identity-com/solid-did
-       * https://www.npmjs.com/package/@identity.com/solid-did-client
+     * https://identity-com.github.io/solid-did/did-method-spec.html
+     * https://github.com/identity-com/solid-did
+     * https://www.npmjs.com/package/@identity.com/solid-did-client
 
 6. Other topics?
 
@@ -82,7 +82,7 @@ Password: 387317
 * Tom Jones
 * Orie Steele
 
-## Meeting - 08 Mar 2021 - (1400 ET) 
+## Meeting - 08 Mar 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/T6NYr7RH1JsH63wPzD01BjKUf20NvqJp0dgswyxDZwhM_Zh4qmbK7enkO9FMLwp6.l9rETyYF1Jt7p6JK)
 
 ### Agenda
 
