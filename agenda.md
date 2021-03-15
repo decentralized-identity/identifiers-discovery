@@ -49,19 +49,38 @@ Password: 387317
 ### Attendees
 * 
 
-## Meeting - 15 Mar 2021 - (1400 ET) 
+## Meeting - 15 Mar 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/d509RKfPpnlo53RsCn3gf8MxXJrWy4KzM-Nh40mCEmknRoRYja7d2PaGpPt79gGo.DtEYpzCVMcMW37uR)
 
 ### Agenda
 
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. [DanielK] Work on a driver for the Universal Registrar
-   * New DID method on the Solana blockchain
+4. [DanielK, JonC] New DID method on the Solana blockchain
+   * did:solid, but not related to Solid (Social Linked Data) project
+   * Solana blockchain is cheap and fast (1000s of transactions per dollar, but data storage is not as cheap). There is "rent", which can be decreased but never increased.
+   * Version 0.1, will still be changed/optimized
+   * Simple CRUD approach to put DIDs on blockchain. Solana has the concept of an "account", that's what you pay rent for. It will serialize a document and store the byte array on chain.
+   * Daniel+Jon have worked on a driver for both the Universal Resolver and Universal Registrar. An instance of the Universal Resolver is running at:
+       * https://did.civic.com/
+   * Some discussion around design of Universal Registrar, e.g. what are the inputs, who pays for the transactions, etc.
+   * [CharlesEL] Spruce Systems has also worked on a DID method based on Solana, perhaps there is potential to collaborate.
+   * Links:
+       * https://identity-com.github.io/solid-did/did-method-spec.html
+       * https://github.com/identity-com/solid-did
+       * https://www.npmjs.com/package/@identity.com/solid-did-client
+
 6. Other topics?
 
 ### Attendees
-* 
+* Markus Sabadello
+* Daniel Kelleher
+* Charles E. Lehner
+* Jeremie Miller
+* Jon Cinque
+* Samuel Smith
+* Tom Jones
+* Orie Steele
 
 ## Meeting - 08 Mar 2021 - (1400 ET) 
 
