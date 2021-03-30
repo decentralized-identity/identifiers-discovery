@@ -43,11 +43,23 @@ Password: 387317
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Review DID WG test suite: https://github.com/w3c/did-test-suite/
-5. Other news from W3C DID WG.
-6. Other topics?
+    * The repo has issues for each part of the DID Core spec. Some PRs exist already to implement the tests.
+    * Overall structure of test suite will probably still change (location of input files, re-use of test code, etc.)
+    * Discussion if implementers will simply submit their result data, or if the test suite will have a "dynamic" execution component that automatically tests implementations.
+6. Other news from W3C DID WG.
+    * Discussed timeline and what the current "CR" state means: https://docs.google.com/presentation/d/1nSLk3cwJ8CanDoMLsO_JS3-ltBEeM8HZVXSsAZbrIl4/
+    * Discussed policies of DID Spec Registries from last few DID WG calls:
+        * https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-03-11-did-topic
+        * https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-03-16-did-topic
+        * https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-03-23-did
+8. Other topics?
 
 ### Attendees
-* 
+* Markus Sabadello
+* Juan Caballero
+* Tom Jones
+* Charles E. Lehner
+* Balázs Nemethi
 
 ## Meeting - 22 Mar 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/d509RKfPpnlo53RsCn3gf8MxXJrWy4KzM-Nh40mCEmknRoRYja7d2PaGpPt79gGo.DtEYpzCVMcMW37uR)
 
