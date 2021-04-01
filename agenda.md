@@ -42,8 +42,9 @@ Password: 387317
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. TBD
-5. Other topics?
+4. [Markus, Niclas] Updates to Universal Resolver/Registrar configuration, and work on Helm charts:
+    * https://github.com/decentralized-identity/charts
+6. Other topics?
 
 ### Attendees
 * 
