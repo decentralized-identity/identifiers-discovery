@@ -44,6 +44,8 @@ Password: 387317
 3. Agenda creation/review/prioritization
 4. [Markus, Niclas] Updates to Universal Resolver/Registrar configuration, and work on Helm charts:
     * https://github.com/decentralized-identity/charts
+5. Breaking changes in DID Core JSON-LD context:
+    * https://github.com/w3c/did-spec-registries/pull/277
 6. Other topics?
 
 ### Attendees
