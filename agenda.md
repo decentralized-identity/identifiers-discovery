@@ -46,7 +46,8 @@ Password: 387317
     * https://github.com/decentralized-identity/charts
 5. Breaking changes in DID Core JSON-LD context:
     * https://github.com/w3c/did-spec-registries/pull/277
-6. Other topics?
+6. Universal Resolver policy questions about driver submission and maintenance
+7. Other topics?
 
 ### Attendees
 * 
