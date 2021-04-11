@@ -47,6 +47,7 @@ Password: 387317
 5. Breaking changes in DID Core JSON-LD context:
     * https://github.com/w3c/did-spec-registries/pull/277
 6. Universal Resolver policy questions about driver submission and maintenance
+    * https://github.com/decentralized-identity/universal-resolver/issues/186
 7. Other topics?
 
 ### Attendees
