@@ -59,12 +59,25 @@ Password: 387317
 3. Agenda creation/review/prioritization
 4. Breaking changes in DID Core JSON-LD context:
     * https://github.com/w3c/did-spec-registries/pull/277
+    * Strictly speaking, all UR DID method implementations are now broken.
+    * Discussion around changing JSON-LD contexts, caching, versioning, hashlinks
+    * UR could implement a "fixing layer" for a transitional period, and simultaneously try to motivate implementers to fix their drivers.
 5. Universal Resolver policy questions about driver submission and maintenance
     * https://github.com/decentralized-identity/universal-resolver/issues/186
+    * UR currently supports several DID methods that are not in the DID spec registries.
+    * Probably we should have stricter policies going forward (e.g. only accept drivers for DID methods in the W3C method registry)
+    * We will work on a proposal and present to the group.
 6. Other topics?
 
 ### Attendees
-* 
+* Markus Sabadello
+* Samuel Smith
+* Bernhard Fuchs
+* Charles E. Lehner
+* David Waite
+* Juan (DIF)
+* Philip Feairheller
+* Tom Jones
 
 ## Meeting - 05 Apr 2021 - (1400 ET) 
 
