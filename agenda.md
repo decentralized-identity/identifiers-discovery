@@ -35,7 +35,7 @@ Password: 387317
 
 </details>
 
-## Meeting - 12 Apr 2021 - (1400 ET) 
+## Meeting - 19 Apr 2021 - (1400 ET) 
 
 ### Agenda
 
@@ -44,11 +44,24 @@ Password: 387317
 3. Agenda creation/review/prioritization
 4. [Markus, Niclas] Updates to Universal Resolver/Registrar configuration, and work on Helm charts:
     * https://github.com/decentralized-identity/charts
-5. Breaking changes in DID Core JSON-LD context:
+5. TBD..
+6. Other topics?
+
+### Attendees
+* 
+
+## Meeting - 12 Apr 2021 - (1400 ET) 
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Breaking changes in DID Core JSON-LD context:
     * https://github.com/w3c/did-spec-registries/pull/277
-6. Universal Resolver policy questions about driver submission and maintenance
+5. Universal Resolver policy questions about driver submission and maintenance
     * https://github.com/decentralized-identity/universal-resolver/issues/186
-7. Other topics?
+6. Other topics?
 
 ### Attendees
 * 
