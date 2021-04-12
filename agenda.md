@@ -50,7 +50,7 @@ Password: 387317
 ### Attendees
 * 
 
-## Meeting - 12 Apr 2021 - (1400 ET) 
+## Meeting - 12 Apr 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/niTBa-OkQM8TKekIrGrSIToKeDpAAcWi-oyuYLnmw9pWh_AaI0BIOvpSkObAVrY.64bNtJZGZYPLchQ4)
 
 ### Agenda
 
