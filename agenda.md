@@ -44,7 +44,7 @@ Password: 387317
 3. Agenda creation/review/prioritization
 4. [Markus, Niclas] Updates to Universal Resolver/Registrar configuration, and work on Helm charts:
     * https://github.com/decentralized-identity/charts
-5. TBD..
+5. [Philip Feairheller, Sam Smith] KERI-based DID methods, and use of DID Resolution metadata
 6. Other topics?
 
 ### Attendees
