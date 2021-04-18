@@ -42,10 +42,14 @@ Password: 387317
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. [Markus, Bernhard, Niclas] Updates to Universal Resolver/Registrar configuration, and work on Helm charts:
+4. Plans for IIW
+    * Pre-Draft DID Registration spec: https://peacekeeper.github.io/did-registration/
+    * Topics around Universal Resolver
+    * others?
+6. [Markus, Bernhard, Niclas] Updates to Universal Resolver/Registrar configuration, and work on Helm charts:
     * https://github.com/decentralized-identity/charts
-5. [Philip Feairheller, Sam Smith] KERI-based DID methods, and use of DID Resolution metadata
-6. Other topics?
+7. [Philip Feairheller, Sam Smith] KERI-based DID methods, and use of DID Resolution metadata
+8. Other topics?
 
 ### Attendees
 * 
