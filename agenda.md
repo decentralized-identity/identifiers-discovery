@@ -35,6 +35,22 @@ Password: 387317
 
 </details>
 
+## Meeting - 26 Apr 2021 - (1400 ET) 
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Report-out from IIW
+5. Organizational topics in ID WG
+6. Pre-Draft for "DID Registration"
+   * https://peacekeeper.github.io/did-registration/
+7. Other topics?
+
+### Attendees
+* 
+
 ## Meeting - 19 Apr 2021 - (1400 ET) 
 
 ### Agenda
