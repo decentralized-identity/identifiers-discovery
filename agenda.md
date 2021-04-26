@@ -51,7 +51,9 @@ Password: 387317
     * SIOP Chooser: https://docs.google.com/presentation/d/1OaMecHecTUexv1skJZoYzJoHKYH8H03REFpFstLRjPg/
     * Universal Resolver Driver Policy Discussion: https://docs.google.com/document/d/1LFl38lcJc1keadiyVUC-Q1Nm5vqPp8XjZFifyKcx9hg/
     * DID resolution over DIDComm to a Universal Resolver: https://docs.google.com/document/d/178qwAlv2nnRRtm7UcKUoo4NWOrYa1q_DAoE1Lq5VqHc/
-7. Other topics?
+6. Discussion around .well-known and did:web
+    * Dmitri is willing to give an update on 
+8. Other topics?
 
 ### Attendees
 * Markus Sabadello
