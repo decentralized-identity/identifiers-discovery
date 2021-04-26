@@ -42,14 +42,25 @@ Password: 387317
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. Report-out from IIW
-5. Organizational topics in ID WG
-6. Pre-Draft for "DID Registration"
-   * https://peacekeeper.github.io/did-registration/
+4. Organizational topics in ID WG
+    * Sam Smith will step down as co-chair
+    * Alen Horvat proposed as new co-chair
+    * If there are any other proposals for co-chairs, or questions/feedback from the WG, please ask in our Slack channel
+    * Consider changing the schedule of future calls (e.g. bi-weekly regular calls, with Special Topic calls)
+6. Report-out from IIW
+    * SIOP Chooser: https://docs.google.com/presentation/d/1OaMecHecTUexv1skJZoYzJoHKYH8H03REFpFstLRjPg/
+    * Universal Resolver Driver Policy Discussion: https://docs.google.com/document/d/1LFl38lcJc1keadiyVUC-Q1Nm5vqPp8XjZFifyKcx9hg/
+    * DID resolution over DIDComm to a Universal Resolver: https://docs.google.com/document/d/178qwAlv2nnRRtm7UcKUoo4NWOrYa1q_DAoE1Lq5VqHc/
 7. Other topics?
 
 ### Attendees
-* 
+* Markus Sabadello
+* Dmitri Zagidulin
+* Juan Caballero
+* Samuel Smith
+* Alen Horvat
+* Balázs Némethi
+* Tom Jones
 
 ## Meeting - 19 Apr 2021 - (1400 ET) 
 
