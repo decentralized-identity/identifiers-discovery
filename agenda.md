@@ -52,7 +52,7 @@ Password: 387317
     * Universal Resolver Driver Policy Discussion: https://docs.google.com/document/d/1LFl38lcJc1keadiyVUC-Q1Nm5vqPp8XjZFifyKcx9hg/
     * DID resolution over DIDComm to a Universal Resolver: https://docs.google.com/document/d/178qwAlv2nnRRtm7UcKUoo4NWOrYa1q_DAoE1Lq5VqHc/
 6. Discussion around .well-known and did:web
-    * Dmitri is willing to give an update on 
+    * Dmitri is willing to give an update on latest developments
 8. Other topics?
 
 ### Attendees
