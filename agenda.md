@@ -52,7 +52,7 @@ Password: 387317
 ### Attendees
 * 
 
-## Meeting - 26 Apr 2021 - (1400 ET) 
+## Meeting - 26 Apr 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/L4-ouKq8Ow6vr_iBXpSAzIBViBcsMgn8ONvSN1LjP5HvrWh1zH_88xQJEfQo5vEt.jCK8KBXTGWP5SYNA)
 
 ### Agenda
 
@@ -81,7 +81,7 @@ Password: 387317
 * Balázs Némethi
 * Tom Jones
 
-## Meeting - 19 Apr 2021 - (1400 ET) 
+## Meeting - 19 Apr 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/WBSb2xTZrQUHDIcZxT6DCwsR3PoFaC8NchwkDuiD69afFmb-ppq5ikfxHWHlzUiv.JBgNWYJ2c1cvmmT4)
 
 ### Agenda
 
