@@ -35,7 +35,7 @@ Password: 387317
 
 </details>
 
-## Meeting - 3 May 2021 - (1400 ET) 
+## Meeting - 3 May 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/FI1LnLubRA5gVQSDpuHMeNFAODHIplUeHmkw4dAtQYfHhlFmI5KnokUJQ5PsItX6.qUcloI7IEcaaWCOF)
 
 ### Agenda
 
