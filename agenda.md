@@ -42,15 +42,20 @@ Password: 387317
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. Continue with organizational topics in ID 
-    * New co-chair
-    * Regular call schedule
-    * Go over work items
-    * Special topic calls
-5. Other topics?
+4. Continue with organizational topics in ID WG
+    * New co-chair Alen Horvat
+    * Discussed regular call schedule, work items, special topic calls
+5. Discussion around persistence and versioning of JSON-LD contexts, and implications on Linked Data Signatures
+6. Discussion around data structures and other topics in the CCG's [Universal Wallet 2020 specification](https://w3c-ccg.github.io/universal-wallet-interop-spec/)
+7. Other topics?
 
 ### Attendees
-* 
+* Markus Sabadello
+* Orie Steele (Transmute)
+* Samuel Smith
+* Alen Horvat
+* Balázs Némethi
+* Tom Jones
 
 ## Meeting - 26 Apr 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/L4-ouKq8Ow6vr_iBXpSAzIBViBcsMgn8ONvSN1LjP5HvrWh1zH_88xQJEfQo5vEt.jCK8KBXTGWP5SYNA)
 
