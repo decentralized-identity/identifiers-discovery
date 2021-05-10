@@ -46,8 +46,9 @@ Password: 387317
     * https://github.com/danubetech/uni-registrar-driver-did-web
     * https://github.com/danubetech/uni-registrar-driver-did-ion
     * https://github.com/peacekeeper/did-registration/
-5. ...TBD...
-6. Other topics?
+5. Special topic calls
+6. [Boris Mann] Overview of Fission proposed approach to DID resolve / discovery in signing up for an account / linking DIDs
+7. Other topics?
 
 ### Attendees
 * 
