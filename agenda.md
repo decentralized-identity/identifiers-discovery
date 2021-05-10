@@ -24,15 +24,37 @@ Password: 387317
 
  
 
-#### Future topics: 
+### Special Topic Calls:
+
+In addition to the regular I&D WG meetings, we also hold Special Topic Calls dedicated to individual
+work items. Any work item lead can organize Special Topic Calls about their work item.
 
 <details>
-<summary> Topics for upcoming meetings</summary>
+<summary> Universal Resolver Special Topic Call - <b>Wednesdays 0900 ET</b></summary>
 
-* topic 1 (to be discussed on this date) 
-* topic 2 (to be discussed on this date)
-* topic n. (tbd)
+<br>This weekly Special Topic Call is dedicated to the [Universal Resolver](github.com/decentralized-identity/universal-resolver) work item.
+We discuss policy and governance topics (e.g. when to add/remove drivers), as well
+as technical topics (e.g. integration with the W3C DID test suite, monitoring, analytics, etc.).
 
+* **Special Topic Call - 19 May 2021 - (0900ET)**
+* **Special Topic Call - 26 May 2021 - (0900ET)**
+* **Special Topic Call - 02 Jun 2021 - (0900ET)**
+* **Special Topic Call - 09 Jun 2021 - (0900ET)**
+* ...
+</details>
+
+<details>
+<summary> DID Registration Special Topic Call - <b>Wednesdays 1000 ET</b></summary>
+
+<br>This weekly Special Topic Call is dedicated to the [DID Registration](https://identity.foundation/credential-manifest/) work item.
+We discuss scope and high-level architectural questions, work on the specification, and
+analyze other, related initiatives and specifications.
+
+* **Special Topic Call - 19 May 2021 - (1000ET)**
+* **Special Topic Call - 26 May 2021 - (1000ET)**
+* **Special Topic Call - 02 Jun 2021 - (1000ET)**
+* **Special Topic Call - 09 Jun 2021 - (1000ET)**
+* ...
 </details>
 
 ## Meeting - 10 May 2021 - (1400 ET)
