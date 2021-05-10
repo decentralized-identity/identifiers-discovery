@@ -46,7 +46,7 @@ Password: 387317
     * https://github.com/danubetech/uni-registrar-driver-did-web
     * https://github.com/danubetech/uni-registrar-driver-did-ion
     * https://github.com/peacekeeper/did-registration/
-5. Special topic calls
+5. Special Topic Calls: https://github.com/decentralized-identity/identifiers-discovery/pull/1
 6. [Boris Mann] Overview of Fission proposed approach to DID resolve / discovery in signing up for an account / linking DIDs
 7. Other topics?
 
