@@ -60,11 +60,33 @@ Password: 387317
     * https://github.com/danubetech/uni-registrar-driver-did-ion
     * https://github.com/peacekeeper/did-registration/
 5. Special Topic Calls: https://github.com/decentralized-identity/identifiers-discovery/pull/1
+    * Will discuss and find appropriate times via Slack/email.
 6. [Boris Mann] Overview of Fission proposed approach to DID resolve / discovery in signing up for an account / linking DIDs
-7. Other topics?
+    * Fission's entire account system is built around DIDs
+    * App publishing platform and SDK
+    * Giving every user an end-to-end encrypted data store, using IPFS heavily
+    * In the account system, people select a username in a Fission namespace (e.g. boris.fission.name). The human-readable can be used to discover a DID (using https://datatracker.ietf.org/doc/draft-mayrhofer-did-dns/). A did:key is created for users. The Fission server also has a DID.
+    * Are there privacy issues with using domain names as user identifiers?
+    * How can the auth system accept "remote" DIDs, i.e. interoperate with other DID methods (e.g. did:ion)? The "remote" DID could then "control" the Fission-internal DID.
+    * How can the auth system advertise to someone that they can enter a DID to connect to the system?
+    * Considering Webfinger discovery based on email-like identifiers; want to avoid NASCAR problem.
+    * OIDC SIOP work seems relevant (ongoing at OpenID Foundation)
+    * IIW had a session about SIOP Chooser (see https://docs.google.com/presentation/d/1OaMecHecTUexv1skJZoYzJoHKYH8H03REFpFstLRjPg/). Tom Jones is one of the people leading this effort.
+8. Other topics?
 
 ### Attendees
-* 
+* Markus Sabadello
+* Alen Horvat
+* Boris Mann
+* Ezequiel
+* Balázs Némethi
+* Brooklyn Zelenka
+* Charles E. Lehner
+* Jeff Griffiths
+* Jeremie Miller
+* Juan (DIF/Spruce)
+* Samuel Smith
+* Tom Jones
 
 ## Meeting - 3 May 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/FI1LnLubRA5gVQSDpuHMeNFAODHIplUeHmkw4dAtQYfHhlFmI5KnokUJQ5PsItX6.qUcloI7IEcaaWCOF)
 
