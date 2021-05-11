@@ -48,7 +48,7 @@ Password: 387317
 ### Attendees
 * 
 
-## Meeting - 10 May 2021 - (1400 ET)
+## Meeting - 10 May 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/dJB5z_Ra_l1EKZ4x-eX6eOD4EW9L-ujryCiaRkWKqUl9Y5qnOv4Y8F2NL4FBycMx.eag8Y9U_d4186l1o)
 
 ### Agenda
 
