@@ -32,7 +32,7 @@ work items. Any work item lead can organize Special Topic Calls about their work
 <details>
 <summary> DID Registration Special Topic Call - <b>Wednesdays 0900 ET</b></summary>
 
-<br>This weekly Special Topic Call is dedicated to the [DID Registration](https://identity.foundation/credential-manifest/) work item.
+<br>This weekly Special Topic Call is dedicated to the [DID Registration](https://github.com/decentralized-identity/did-registration/) work item.
 We discuss scope and high-level architectural questions, work on the specification, and
 analyze other, related initiatives and specifications.
 
