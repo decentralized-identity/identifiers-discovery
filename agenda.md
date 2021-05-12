@@ -30,11 +30,11 @@ In addition to the regular I&D WG meetings, we also hold Special Topic Calls ded
 work items. Any work item lead can organize Special Topic Calls about their work item.
 
 <details>
-<summary> Universal Resolver Special Topic Call - <b>Wednesdays 0900 ET</b></summary>
+<summary> DID Registration Special Topic Call - <b>Wednesdays 0900 ET</b></summary>
 
-<br>This weekly Special Topic Call is dedicated to the [Universal Resolver](github.com/decentralized-identity/universal-resolver) work item.
-We discuss policy and governance topics (e.g. when to add/remove drivers), as well
-as technical topics (e.g. integration with the W3C DID test suite, monitoring, analytics, etc.).
+<br>This weekly Special Topic Call is dedicated to the [DID Registration](https://identity.foundation/credential-manifest/) work item.
+We discuss scope and high-level architectural questions, work on the specification, and
+analyze other, related initiatives and specifications.
 
 * **Special Topic Call - 19 May 2021 - (0900ET)**
 * **Special Topic Call - 26 May 2021 - (0900ET)**
@@ -44,11 +44,11 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 </details>
 
 <details>
-<summary> DID Registration Special Topic Call - <b>Wednesdays 1000 ET</b></summary>
+<summary> Universal Resolver Special Topic Call - <b>Wednesdays 1000 ET</b></summary>
 
-<br>This weekly Special Topic Call is dedicated to the [DID Registration](https://identity.foundation/credential-manifest/) work item.
-We discuss scope and high-level architectural questions, work on the specification, and
-analyze other, related initiatives and specifications.
+<br>This weekly Special Topic Call is dedicated to the [Universal Resolver](github.com/decentralized-identity/universal-resolver) work item.
+We discuss policy and governance topics (e.g. when to add/remove drivers), as well
+as technical topics (e.g. integration with the W3C DID test suite, monitoring, analytics, etc.).
 
 * **Special Topic Call - 19 May 2021 - (1000ET)**
 * **Special Topic Call - 26 May 2021 - (1000ET)**
