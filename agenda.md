@@ -13,7 +13,7 @@ _This document is live-edited DURING each call, or shortly after the call, and s
 Please note that we might not notice a pullrequest in time, but you are free to propose agenda items for future meetings via hackmd._
 
 <details>
-<summary> Meeting information </summary>
+<summary> Meeting information - <b>Mondays 1400 ET</b></summary>
 
 * Before your contribute - [**join DIF**](https://identity.foundation/join) and [sign the WG charter](https://bit.ly/DIF-WG-select1) (both are required!) 
 * Time: Every Monday, 14:00-15:00 ET
