@@ -30,7 +30,7 @@ In addition to the regular I&D WG meetings, we also hold Work Item Calls dedicat
 work items. Any work item lead can organize Work Item Calls about their work item.
 
 <details>
-<summary> DID Registration Special Topic Call - <b>Wednesdays 1000 ET</b></summary>
+<summary> DID Registration Work Item Call - <b>Wednesdays 1000 ET</b></summary>
 
 <br>This weekly Work Item Call is dedicated to the [DID Registration](https://github.com/decentralized-identity/did-registration/) work item.
 We discuss scope and high-level architectural questions, work on the specification, and
