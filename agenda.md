@@ -24,36 +24,36 @@ Password: 387317
 
  
 
-### Special Topic Calls:
+### Special Work Item Calls:
 
-In addition to the regular I&D WG meetings, we also hold Special Topic Calls dedicated to individual
-work items. Any work item lead can organize Special Topic Calls about their work item.
+In addition to the regular I&D WG meetings, we also hold Work Item Calls dedicated to individual
+work items. Any work item lead can organize Work Item Calls about their work item.
 
 <details>
 <summary> DID Registration Special Topic Call - <b>Wednesdays 1000 ET</b></summary>
 
-<br>This weekly Special Topic Call is dedicated to the [DID Registration](https://github.com/decentralized-identity/did-registration/) work item.
+<br>This weekly Work Item Call is dedicated to the [DID Registration](https://github.com/decentralized-identity/did-registration/) work item.
 We discuss scope and high-level architectural questions, work on the specification, and
 analyze other, related initiatives and specifications.
 
-* **Special Topic Call - 19 May 2021 - (1000ET)**
-* **Special Topic Call - 26 May 2021 - (1000ET)**
-* **Special Topic Call - 02 Jun 2021 - (1000ET)**
-* **Special Topic Call - 09 Jun 2021 - (1000ET)**
+* **Work Item Call - 19 May 2021 - (1000ET)**
+* **Work Item Call - 26 May 2021 - (1000ET)**
+* **Work Item Call - 02 Jun 2021 - (1000ET)**
+* **Work Item Call - 09 Jun 2021 - (1000ET)**
 * ...
 </details>
 
 <details>
-<summary> Universal Resolver Special Topic Call - <b>Wednesdays 1300 ET</b></summary>
+<summary> Universal Resolver Work Item Call - <b>Wednesdays 1300 ET</b></summary>
 
-<br>This weekly Special Topic Call is dedicated to the [Universal Resolver](github.com/decentralized-identity/universal-resolver) work item.
+<br>This weekly Work Item Call is dedicated to the [Universal Resolver](github.com/decentralized-identity/universal-resolver) work item.
 We discuss policy and governance topics (e.g. when to add/remove drivers), as well
 as technical topics (e.g. integration with the W3C DID test suite, monitoring, analytics, etc.).
 
-* **Special Topic Call - 19 May 2021 - (1300ET)**
-* **Special Topic Call - 26 May 2021 - (1300ET)**
-* **Special Topic Call - 02 Jun 2021 - (1300ET)**
-* **Special Topic Call - 09 Jun 2021 - (1300ET)**
+* **Work Item Call - 19 May 2021 - (1300ET)**
+* **Work Item Call - 26 May 2021 - (1300ET)**
+* **Work Item Call - 02 Jun 2021 - (1300ET)**
+* **Work Item Call - 09 Jun 2021 - (1300ET)**
 * ...
 </details>
 
