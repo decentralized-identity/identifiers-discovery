@@ -36,6 +36,8 @@ work items. Any work item lead can organize Work Item Calls about their work ite
 We discuss scope and high-level architectural questions, work on the specification, and
 analyze other, related initiatives and specifications.
 
+[Meeting invite](https://us02web.zoom.us/meeting/tZUvcO-trjkiEtfXTpjJRAjA-HO9Q14nqqD0/ics?icsToken=98tyKuGprDwsH9SXuBGERpwcAI_CM-_ziHpHj7dbpCv1CQphQwnXe8pta4MuRNbB) | [Zoom room](https://us02web.zoom.us/j/81276502883?pwd=T0xjbFJBOGt5a1AwT2g1UEdjWkYrUT09)
+
 * **Work Item Call - 19 May 2021 - (1000ET)**
 * **Work Item Call - 26 May 2021 - (1000ET)**
 * **Work Item Call - 02 Jun 2021 - (1000ET)**
@@ -49,6 +51,8 @@ analyze other, related initiatives and specifications.
 <br>This weekly Work Item Call is dedicated to the [Universal Resolver](github.com/decentralized-identity/universal-resolver) work item.
 We discuss policy and governance topics (e.g. when to add/remove drivers), as well
 as technical topics (e.g. integration with the W3C DID test suite, monitoring, analytics, etc.).
+
+[Meeting invite](https://us02web.zoom.us/meeting/tZctdeCsrTMvHNVkehg_n1IuJbR3cspDo7hc/ics?icsToken=98tyKuGrrjkjHtedtR-GRpwqAojoXejztlxYgo1rlxrtBB9dMyrjHOBwYbFsAPzf) | [Zoom room](https://us02web.zoom.us/j/83029438561?pwd=dzZpYzMySGdpQnRncTFxbFg1ZjJUQT09)
 
 * **Work Item Call - 19 May 2021 - (1300ET)**
 * **Work Item Call - 26 May 2021 - (1300ET)**
