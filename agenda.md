@@ -70,7 +70,7 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 3. Agenda creation/review/prioritization
 4. Special Work Item Calls
 5. [ezequiel] "controller" property in DID documents and verification methods.
-6. TBD
+6. [Samuel Gómez Escalante] DID Key rotation/revocation
 7. Other topics?
 
 ### Attendees
