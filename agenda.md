@@ -13,7 +13,7 @@ _This document is live-edited DURING each call, or shortly after the call, and s
 Please note that we might not notice a pullrequest in time, but you are free to propose agenda items for future meetings via hackmd._
 
 <details>
-<summary> Meeting information </summary>
+<summary> Meeting information - <b>Mondays 1400 ET</b></summary>
 
 * Before your contribute - [**join DIF**](https://identity.foundation/join) and [sign the WG charter](https://bit.ly/DIF-WG-select1) (both are required!) 
 * Time: Every Monday, 14:00-15:00 ET
@@ -24,15 +24,37 @@ Password: 387317
 
  
 
-#### Future topics: 
+### Special Work Item Calls:
+
+In addition to the regular I&D WG meetings, we also hold Work Item Calls dedicated to individual
+work items. Any work item lead can organize Work Item Calls about their work item.
 
 <details>
-<summary> Topics for upcoming meetings</summary>
+<summary> DID Registration Work Item Call - <b>Wednesdays 1000 ET</b></summary>
 
-* topic 1 (to be discussed on this date) 
-* topic 2 (to be discussed on this date)
-* topic n. (tbd)
+<br>This weekly Work Item Call is dedicated to the [DID Registration](https://github.com/decentralized-identity/did-registration/) work item.
+We discuss scope and high-level architectural questions, work on the specification, and
+analyze other, related initiatives and specifications.
 
+* **Work Item Call - 19 May 2021 - (1000ET)**
+* **Work Item Call - 26 May 2021 - (1000ET)**
+* **Work Item Call - 02 Jun 2021 - (1000ET)**
+* **Work Item Call - 09 Jun 2021 - (1000ET)**
+* ...
+</details>
+
+<details>
+<summary> Universal Resolver Work Item Call - <b>Wednesdays 1300 ET</b></summary>
+
+<br>This weekly Work Item Call is dedicated to the [Universal Resolver](github.com/decentralized-identity/universal-resolver) work item.
+We discuss policy and governance topics (e.g. when to add/remove drivers), as well
+as technical topics (e.g. integration with the W3C DID test suite, monitoring, analytics, etc.).
+
+* **Work Item Call - 19 May 2021 - (1300ET)**
+* **Work Item Call - 26 May 2021 - (1300ET)**
+* **Work Item Call - 02 Jun 2021 - (1300ET)**
+* **Work Item Call - 09 Jun 2021 - (1300ET)**
+* ...
 </details>
 
 ## Meeting - 17 May 2021 - (1400 ET)
