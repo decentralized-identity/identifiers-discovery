@@ -72,7 +72,7 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 
 -
 
-## Meeting - 17 May 2021 - (1400 ET)
+## Meeting - 17 May 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/o4p5VJXfy4lxQSiw7U3XOkX7HpsW0d-azFbnjrDVbKCqPXNa3jjH2HMG5tUhq-jv.kPnkOZWdACjkbhKx)
 
 ### Agenda
 
