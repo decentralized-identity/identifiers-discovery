@@ -33,7 +33,7 @@ analyze other, related initiatives and specifications.
 
 [Meeting invite](https://us02web.zoom.us/meeting/tZUvcO-trjkiEtfXTpjJRAjA-HO9Q14nqqD0/ics?icsToken=98tyKuGprDwsH9SXuBGERpwcAI_CM-_ziHpHj7dbpCv1CQphQwnXe8pta4MuRNbB) | [Zoom room](https://us02web.zoom.us/j/81276502883?pwd=T0xjbFJBOGt5a1AwT2g1UEdjWkYrUT09)
 
-- **Work Item Call - 19 May 2021 - (1000ET)**
+- **Work Item Call - 19 May 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/ee3b1CqZgI4bfA8ZvmddODatOPtWeqIYFbvHj310qldOT_E8frALAeWUk6Up_l_P.agVflxq2SmlqYVy_)
 - **Work Item Call - 26 May 2021 - (1000ET)**
 - **Work Item Call - 02 Jun 2021 - (1000ET)**
 - **Work Item Call - 09 Jun 2021 - (1000ET)**
@@ -49,7 +49,7 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 
 [Meeting invite](https://us02web.zoom.us/meeting/tZctdeCsrTMvHNVkehg_n1IuJbR3cspDo7hc/ics?icsToken=98tyKuGrrjkjHtedtR-GRpwqAojoXejztlxYgo1rlxrtBB9dMyrjHOBwYbFsAPzf) | [Zoom room](https://us02web.zoom.us/j/83029438561?pwd=dzZpYzMySGdpQnRncTFxbFg1ZjJUQT09)
 
-- **Work Item Call - 19 May 2021 - (1300ET)**
+- **Work Item Call - 19 May 2021 - (1300ET)** [recording](https://us02web.zoom.us/rec/share/gU4S2ZRjfKxHNw4xSiylM9qlD5Lnf65useyJUEs5Jy4q8CP1c98TRPvmfMIMoVVQ.PBhEO6h_Fju-G9kN)
 - **Work Item Call - 26 May 2021 - (1300ET)**
 - **Work Item Call - 02 Jun 2021 - (1300ET)**
 - **Work Item Call - 09 Jun 2021 - (1300ET)**
