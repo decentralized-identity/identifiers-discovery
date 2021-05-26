@@ -34,7 +34,7 @@ analyze other, related initiatives and specifications.
 [Meeting invite](https://us02web.zoom.us/meeting/tZUvcO-trjkiEtfXTpjJRAjA-HO9Q14nqqD0/ics?icsToken=98tyKuGprDwsH9SXuBGERpwcAI_CM-_ziHpHj7dbpCv1CQphQwnXe8pta4MuRNbB) | [Zoom room](https://us02web.zoom.us/j/81276502883?pwd=T0xjbFJBOGt5a1AwT2g1UEdjWkYrUT09)
 
 - **Work Item Call - 19 May 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/ee3b1CqZgI4bfA8ZvmddODatOPtWeqIYFbvHj310qldOT_E8frALAeWUk6Up_l_P.agVflxq2SmlqYVy_)
-- **Work Item Call - 26 May 2021 - (1000ET)**
+- **Work Item Call - 26 May 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/L_olCmrip_yPuljh4-x-abgb6M2tcoq8J7X7XGBhd4VX7ijMhXGZIO6FsScwIydJ.8df1mvh5CVRqboaD)
 - **Work Item Call - 02 Jun 2021 - (1000ET)**
 - **Work Item Call - 09 Jun 2021 - (1000ET)**
 - ...
