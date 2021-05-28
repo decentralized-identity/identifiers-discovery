@@ -56,7 +56,24 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 - ...
 </details>
 
-## Meeting - 24 May 2021 - (1400 ET)
+## Meeting - 31 May 2021 - (1400 ET)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Special Work Item Calls
+5. DID key rotation
+* https://us02st1.zoom.us/web_client/f3jfhf/html/externalLinkPage.html?ref=https://github.com/w3c/did-core/pull/741/
+6. DID key revocation
+* https://us02st1.zoom.us/web_client/f3jfhf/html/externalLinkPage.html?ref=https://github.com/w3c/did-core/pull/742
+7. Other topics?
+
+
+### Attendees
+
+## Meeting - 24 May 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/fyXKUjtLFNWNpYWIm9NOih_dC0JoBM2ejudh-hhGgAs2edZ0Dx7VCiPMrmb_-fY.N3TeuQtCei20N8Tg)
 
 ### Agenda
 
@@ -65,12 +82,69 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 3. Agenda creation/review/prioritization
 4. Special Work Item Calls
 5. [ezequiel] "controller" property in DID documents and verification methods.
+    * Ezequiel did not attend and the topic was skipped.
 6. [Samuel Gómez Escalante] DID Key rotation/revocation
 7. Other topics?
 
+
+*Discussion topic*: DID Document signatures
+Samuel G.:
+
+* DID Document owner signs the DID Document to protect the DID Document integrity.
+* Purpose: to abstract the DID Registry implementation.
+* The proof is static.
+* The computation proof is automated.
+
+Markus:
+
+* The topic has been discussed many times.
+* Outcome: DID Document signature by itself does not prove control of the DID.
+* Only DID Document signature and anchoring (in a registry) can prove the actual ownership of the DID Document.
+
+Alen: What is the added value of having a signature?
+
+Samuel G.:
+
+* DID Document integrity protection.
+* Minimizing the technology dependence (of the registries).
+
+Markus: 
+
+* DID Document signature only assures the DID Document integrity and not the link between the DID and DID Document.
+Ideally, you should run your own universal resolver and perform the full resolution.
+
+*Discussion outcomes*:
+
+* DID Documents may or may not require a signature, depending on the registry design.
+* DID Document signature only proves the DID Document integrity.
+* Only DID Document signature and anchoring (in a registry) can prove the actual ownership of the DID.
+* Reliable DID resolution is important.
+
+*Discussion topic*: DID key rotation and revocation
+
+Open PRs
+* https://us02st1.zoom.us/web_client/f3jfhf/html/externalLinkPage.html?ref=https://github.com/w3c/did-core/pull/741/
+* https://us02st1.zoom.us/web_client/f3jfhf/html/externalLinkPage.html?ref=https://github.com/w3c/did-core/pull/742
+
+Samuel Smith clarifies the authorisation models
+
+https://github.com/SmithSamuelM/Papers/blob/master/whitepapers/IdentifierTheory_web.pdf
+
+Tom points out the importance of machine-readable format for verification/validation.
+
+*Discussion outcome*: Rotation/revocation topics should be addressed in the following meeting
+
 ### Attendees
 
--
+* Samuel Gomez - Gataca
+* Juan Caballero
+* Markus Sabadello
+* Tom Jones
+* David Waite
+* Charles E. Lehner
+* Balazs Nemethi
+* Samuel Smith
+* Alen Horvat
 
 ## Meeting - 17 May 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/o4p5VJXfy4lxQSiw7U3XOkX7HpsW0d-azFbnjrDVbKCqPXNa3jjH2HMG5tUhq-jv.kPnkOZWdACjkbhKx)
 
