@@ -64,14 +64,14 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Special Work Item Calls
-5. DID key rotation
-* https://us02st1.zoom.us/web_client/f3jfhf/html/externalLinkPage.html?ref=https://github.com/w3c/did-core/pull/741/
-6. DID key revocation
-* https://us02st1.zoom.us/web_client/f3jfhf/html/externalLinkPage.html?ref=https://github.com/w3c/did-core/pull/742
-7. Other topics?
-
+5. [ezequiel] "controller" property in DID documents and verification methods.
+6. DID key rotation - https://github.com/w3c/did-core/pull/741/
+7. DID key revocation - https://github.com/w3c/did-core/pull/742/
+8. Other topics?
 
 ### Attendees
+
+*
 
 ## Meeting - 24 May 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/fyXKUjtLFNWNpYWIm9NOih_dC0JoBM2ejudh-hhGgAs2edZ0Dx7VCiPMrmb_-fY.N3TeuQtCei20N8Tg)
 
@@ -123,8 +123,8 @@ Ideally, you should run your own universal resolver and perform the full resolut
 *Discussion topic*: DID key rotation and revocation
 
 Open PRs
-* https://us02st1.zoom.us/web_client/f3jfhf/html/externalLinkPage.html?ref=https://github.com/w3c/did-core/pull/741/
-* https://us02st1.zoom.us/web_client/f3jfhf/html/externalLinkPage.html?ref=https://github.com/w3c/did-core/pull/742
+* https://github.com/w3c/did-core/pull/741/
+* https://github.com/w3c/did-core/pull/742
 
 Samuel Smith clarifies the authorisation models
 
