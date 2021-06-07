@@ -56,7 +56,7 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 - ...
 </details>
 
-## Meeting - 07 June 2021 - (1400 ET)
+## Meeting - 07 June 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/KTcOkeVl2Sk1qHmhAOgL6APFWn3wtfnFUd8qmqAr0547g3wdht0IHdEUwQwxCbTe.g1gNt5eLVvQ8xwH5)
 
 ### Agenda
 
@@ -64,13 +64,24 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Special Work Item Calls
+   * Markus gave a quick update from the Special Work Item Calls about DID Registration and the Universal Resolver
 5. [ezequiel] "controller" property in DID documents and verification methods.
+   * "controller" on the top level seems clear, but on the "verificationMethod" is less clear.
+   * "verificationMethod" can only have a single "controller", but verification methods can in fact be "controlled" by multiple entities (e.g. see the next topic - Verifiable Conditions)
+   * See e.g. https://github.com/w3c/did-core/issues/697
+   * Seems like in practice we always have `did_document.id === did_document.verificationMethod[N].controller`
 6. [Jack] Updates from Verifiable Conditions - https://github.com/w3c-ccg/verifiable-conditions
+   * We discussed https://github.com/w3c-ccg/verifiable-conditions/issues/3
+   * Preference for second option ("Manu's proposal")
 8. Other topics?
 
 ### Attendees
 
-*
+* Markus Sabadello
+* Ezequiel
+* Jack Tanner
+* Ajay Jadhav
+* Samuel Smith
 
 ## Meeting - 31 May 2021 - (1400 ET) canceled
 
