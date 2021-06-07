@@ -65,8 +65,7 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 3. Agenda creation/review/prioritization
 4. Special Work Item Calls
 5. [ezequiel] "controller" property in DID documents and verification methods.
-6. DID key rotation - https://github.com/w3c/did-core/pull/741/
-7. DID key revocation - https://github.com/w3c/did-core/pull/742/
+6. [Jack] Updates from Verifiable Conditions - https://github.com/w3c-ccg/verifiable-conditions
 8. Other topics?
 
 ### Attendees
