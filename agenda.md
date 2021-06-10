@@ -40,7 +40,7 @@ analyze other, related initiatives and specifications.
 - **Work Item Call - 16 Jun 2021 - (1000ET)**
 - **Work Item Call - 23 Jun 2021 - (1000ET)**
 - **Work Item Call - 30 Jun 2021 - (1000ET)**
-- **Work Item Call - 07 Jun 2021 - (1000ET)**
+- **Work Item Call - 07 Jul 2021 - (1000ET)**
 - ...
 </details>
 
@@ -60,7 +60,7 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 - **Work Item Call - 16 Jun 2021 - (1300ET)**
 - **Work Item Call - 23 Jun 2021 - (1300ET)**
 - **Work Item Call - 30 Jun 2021 - (1300ET)**
-- **Work Item Call - 07 Jun 2021 - (1300ET)**
+- **Work Item Call - 07 Jul 2021 - (1300ET)**
 - ...
 </details>
 
