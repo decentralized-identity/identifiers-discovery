@@ -64,6 +64,21 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 - ...
 </details>
 
+## Meeting - 14 June 2021 - (1400 ET)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Special Work Item Calls
+5. TBD
+6. Other topics?
+
+### Attendees
+
+* 
+
 ## Meeting - 07 June 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/KTcOkeVl2Sk1qHmhAOgL6APFWn3wtfnFUd8qmqAr0547g3wdht0IHdEUwQwxCbTe.g1gNt5eLVvQ8xwH5)
 
 ### Agenda
