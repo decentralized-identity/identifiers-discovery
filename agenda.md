@@ -64,7 +64,7 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 - ...
 </details>
 
-## Meeting - 14 June 2021 - (1400 ET)
+## Meeting - 21 June 2021 - (1400 ET)
 
 ### Agenda
 
@@ -78,6 +78,8 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 ### Attendees
 
 * 
+
+## Meeting - 14 June 2021 - (1400 ET) canceled
 
 ## Meeting - 07 June 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/KTcOkeVl2Sk1qHmhAOgL6APFWn3wtfnFUd8qmqAr0547g3wdht0IHdEUwQwxCbTe.g1gNt5eLVvQ8xwH5)
 
