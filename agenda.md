@@ -36,7 +36,7 @@ analyze other, related initiatives and specifications.
 - **Work Item Call - 19 May 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/ee3b1CqZgI4bfA8ZvmddODatOPtWeqIYFbvHj310qldOT_E8frALAeWUk6Up_l_P.agVflxq2SmlqYVy_)
 - **Work Item Call - 26 May 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/L_olCmrip_yPuljh4-x-abgb6M2tcoq8J7X7XGBhd4VX7ijMhXGZIO6FsScwIydJ.8df1mvh5CVRqboaD)
 - **Work Item Call - 02 Jun 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/uA3AIY-WaNpqFKFfivWxBSqiDaFrCR1aT5f-5PP-dRXjABdb0kCTbWS-guWhQEYL.LHVq1O_IIwjKZvW3)
-- **Work Item Call - 09 Jun 2021 - (1000ET)** (canceled)
+- ~~**Work Item Call - 09 Jun 2021 - (1000ET)**~~ canceled
 - **Work Item Call - 16 Jun 2021 - (1000ET)**
 - **Work Item Call - 23 Jun 2021 - (1000ET)**
 - **Work Item Call - 30 Jun 2021 - (1000ET)**
@@ -54,7 +54,7 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 [Meeting invite](https://us02web.zoom.us/meeting/tZctdeCsrTMvHNVkehg_n1IuJbR3cspDo7hc/ics?icsToken=98tyKuGrrjkjHtedtR-GRpwqAojoXejztlxYgo1rlxrtBB9dMyrjHOBwYbFsAPzf) | [Zoom room](https://us02web.zoom.us/j/83029438561?pwd=dzZpYzMySGdpQnRncTFxbFg1ZjJUQT09)
 
 - **Work Item Call - 19 May 2021 - (1300ET)** [recording](https://us02web.zoom.us/rec/share/gU4S2ZRjfKxHNw4xSiylM9qlD5Lnf65useyJUEs5Jy4q8CP1c98TRPvmfMIMoVVQ.PBhEO6h_Fju-G9kN)
-- **Work Item Call - 26 May 2021 - (1300ET)** (cancelled)
+- ~~**Work Item Call - 26 May 2021 - (1300ET)**~~ cancelled
 - **Work Item Call - 02 Jun 2021 - (1300ET)** [recording](https://us02web.zoom.us/rec/share/m30LrqPdUe03VAM1fIGDHoZztTT2MEMySZOKkEUjYtXSjWhvlLvibWQnROd9udzH.Df6Rw9_uu-b-0NHP)
 - **Work Item Call - 09 Jun 2021 - (1300ET)** [recording](https://us02web.zoom.us/rec/share/SsfLWoGWIdPZoNW054NOMnrTuBSloqyWY25f_lG0SmoI-LavAjTur4-hkArV4Nw8.R53smQhMCqE1yeaf)
 - **Work Item Call - 16 Jun 2021 - (1300ET)**
@@ -79,7 +79,7 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 
 * 
 
-## Meeting - 14 June 2021 - (1400 ET) canceled
+## ~~Meeting - 14 June 2021 - (1400 ET)~~ canceled
 
 ## Meeting - 07 June 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/KTcOkeVl2Sk1qHmhAOgL6APFWn3wtfnFUd8qmqAr0547g3wdht0IHdEUwQwxCbTe.g1gNt5eLVvQ8xwH5)
 
@@ -108,7 +108,7 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 * Ajay Jadhav
 * Samuel Smith
 
-## Meeting - 31 May 2021 - (1400 ET) canceled
+## ~~Meeting - 31 May 2021 - (1400 ET)~~ canceled
 
 ## Meeting - 24 May 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/fyXKUjtLFNWNpYWIm9NOih_dC0JoBM2ejudh-hhGgAs2edZ0Dx7VCiPMrmb_-fY.N3TeuQtCei20N8Tg)
 
@@ -366,7 +366,7 @@ Tom points out the importance of machine-readable format for verification/valida
 - Philip Feairheller
 - Tom Jones
 
-## Meeting - 05 Apr 2021 - (1400 ET)
+## ~~Meeting - 05 Apr 2021 - (1400 ET)~~ canceled
 
 (Canceled due to Easter holidays)
 
@@ -706,9 +706,7 @@ Tom points out the importance of machine-readable format for verification/valida
 - Juan Caballero
 - Tomislav Markovski
 
-## Meeting - 11 Jan 2021 - (1400 ET)
-
-(Meeting cancelled)
+## ~~Meeting - 11 Jan 2021 - (1400 ET)~~ canceled
 
 ## Meeting - 04 Jan 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/IJU-p3DVIUzJ3jfivjP5mxUXhDMTkPijg6gaD8wUCJfIc6dpQMnRj5zmrHl5PdaU.6e2mMb1HRN54R1ie)
 
