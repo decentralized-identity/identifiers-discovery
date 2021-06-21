@@ -80,7 +80,7 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 
 * 
 
-## Meeting - 21 June 2021 - (1400 ET)
+## Meeting - 21 June 2021 - (1400 ET) - [recording](https://us02web.zoom.us/rec/share/XnEyQCebJiJFiuG4CiEqMF61aN1f5iytuAyDPbvwAkxOxBMWNtyEInIIimvSUQ_Q.1hhmopd2A1gPXFB3)
 
 ### Agenda
 
