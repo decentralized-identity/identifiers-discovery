@@ -38,7 +38,7 @@ analyze other, related initiatives and specifications.
 - **Work Item Call - 02 Jun 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/uA3AIY-WaNpqFKFfivWxBSqiDaFrCR1aT5f-5PP-dRXjABdb0kCTbWS-guWhQEYL.LHVq1O_IIwjKZvW3)
 - ~~**Work Item Call - 09 Jun 2021 - (1000ET)**~~ canceled
 - ~~**Work Item Call - 16 Jun 2021 - (1000ET)**~~ rescheduled to 18 Jun 2021 - (0800ET)
-- **Work Item Call - 18 Jun 2021 - (0800ET)**
+- **Work Item Call - 18 Jun 2021 - (0800ET)** [recording](https://us02web.zoom.us/rec/share/qagCATFF_inys86jiGJ5GuWnY9RKa8Q5tAKPTi5Xf85ydo5VDR0CTPnW6yQxNrmC.qOH6wkLHWKCpAlFs)
 - **Work Item Call - 23 Jun 2021 - (1000ET)**
 - **Work Item Call - 30 Jun 2021 - (1000ET)**
 - **Work Item Call - 07 Jul 2021 - (1000ET)**
