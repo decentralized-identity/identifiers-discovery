@@ -65,7 +65,7 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 - ...
 </details>
 
-## Meeting - 21 June 2021 - (1400 ET)
+## Meeting - 28 June 2021 - (1400 ET)
 
 ### Agenda
 
@@ -73,12 +73,38 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Special Work Item Calls
-5. TBD
+5. EBSI Ledger and Trust Registries
 6. Other topics?
 
 ### Attendees
 
 * 
+
+## Meeting - 21 June 2021 - (1400 ET)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Short update on [Verifiable Conditions](https://github.com/w3c-ccg/verifiable-conditions)
+5. Review of [transform-keys DID parameter](https://github.com/decentralized-identity/did-spec-extensions/blob/master/parameters/transform-keys.md)
+   * Outdated in various ways (e.g. matrix parameters, "publicKey" property), needs to be updated to match latest DID Core
+6. Discussion on DHS request for comments on mDL:
+   * https://www.federalregister.gov/documents/2021/04/19/2021-07957/minimum-standards-for-drivers-licenses-and-identification-cards-acceptable-by-federal-agencies-for
+   * https://www.govinfo.gov/content/pkg/FR-2021-04-19/pdf/2021-07957.pdf
+   * Update: https://www.federalregister.gov/documents/2021/06/16/2021-12616/public-meeting-and-extension-of-comment-period-on-request-for-information-minimum-standards-for
+7. Discussion on various eID projects in US and EU
+6. Other topics?
+
+### Attendees
+
+* Markus Sabadello
+* Alen Horvat
+* Tom Jones
+* Juan Caballero
+* Balázs Nemethi
+
 
 ## ~~Meeting - 14 June 2021 - (1400 ET)~~ canceled
 
@@ -180,7 +206,7 @@ Tom points out the importance of machine-readable format for verification/valida
 * Tom Jones
 * David Waite
 * Charles E. Lehner
-* Balazs Nemethi
+- Balázs Nemethi
 * Samuel Smith
 * Alen Horvat
 
@@ -1130,7 +1156,7 @@ No meeting.
 - Tom Jones
 - Wayne Chang
 - Kaliya
-- Balazs Nemethi
+- Balázs Nemethi
 
 ## Old meeting page (before October 2020)
 
