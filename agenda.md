@@ -73,8 +73,9 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Special Work Item Calls
-5. EBSI Ledger and Trust Registries
-6. Other topics?
+5. EBSI Ledger and Trust 
+6. [Daniel] Historical key resolution
+7. Other topics?
 
 ### Attendees
 
