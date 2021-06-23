@@ -59,7 +59,7 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 - **Work Item Call - 02 Jun 2021 - (1300ET)** [recording](https://us02web.zoom.us/rec/share/m30LrqPdUe03VAM1fIGDHoZztTT2MEMySZOKkEUjYtXSjWhvlLvibWQnROd9udzH.Df6Rw9_uu-b-0NHP)
 - **Work Item Call - 09 Jun 2021 - (1300ET)** [recording](https://us02web.zoom.us/rec/share/SsfLWoGWIdPZoNW054NOMnrTuBSloqyWY25f_lG0SmoI-LavAjTur4-hkArV4Nw8.R53smQhMCqE1yeaf)
 - **Work Item Call - 16 Jun 2021 - (1300ET)** [recording](https://us02web.zoom.us/rec/share/k7LXFvoDdbcAtk_ez9jzJinxv07GDF6vbXfjlueaXsSNKosNCBgaDnkQGpa1U7o1.qUwQkl_8-nwSQE_R)
-- **Work Item Call - 23 Jun 2021 - (1300ET)**
+- **Work Item Call - 23 Jun 2021 - (1300ET)** [recording](https://us02web.zoom.us/rec/share/yHB0xVwh212ZPl-hv9bJ0tDn5nVlGZbbwSNmmO2Q9cBz0KJHMN5j8pDPnLohOpOF.CAu2fXyMPboKrYO-)
 - **Work Item Call - 30 Jun 2021 - (1300ET)**
 - **Work Item Call - 07 Jul 2021 - (1300ET)**
 - ...
