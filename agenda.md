@@ -72,7 +72,7 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. TBD
+4. [Daniel] Historical key resolution
 5. Other topics?
 
 ### Attendees
@@ -88,12 +88,24 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 3. Agenda creation/review/prioritization
 4. Special Work Item Calls
 5. [Alen] EBSI Ledger and Trust 
-6. [Daniel] Historical key resolution
+    * European Blockchain Service Infrastructure
+    * List of Trusted Registries
+    * Registry Properties
+    * Discussion about "Onboarding Service"
+    * Discussion LoA, key security, eIDAS
+    * Current Status of EBSI
 7. Other topics?
 
 ### Attendees
 
-* 
+* Markus Sabadello
+* Alen Horvat
+* Christoph (OYD)
+* Juan Caballero (DIF)
+* Kaliya Identity Woman
+* Nikos Fotiou
+* Steve Todd
+* Tom Jones
 
 ## Meeting - 21 June 2021 - (1400 ET) - [recording](https://us02web.zoom.us/rec/share/XnEyQCebJiJFiuG4CiEqMF61aN1f5iytuAyDPbvwAkxOxBMWNtyEInIIimvSUQ_Q.1hhmopd2A1gPXFB3)
 
