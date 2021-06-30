@@ -40,8 +40,12 @@ analyze other, related initiatives and specifications.
 - ~~**Work Item Call - 16 Jun 2021 - (1000ET)**~~ rescheduled to 18 Jun 2021 - (0800ET)
 - **Work Item Call - 18 Jun 2021 - (0800ET)** [recording](https://us02web.zoom.us/rec/share/qagCATFF_inys86jiGJ5GuWnY9RKa8Q5tAKPTi5Xf85ydo5VDR0CTPnW6yQxNrmC.qOH6wkLHWKCpAlFs)
 - **Work Item Call - 23 Jun 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/bAzJx8mSadr5z9x0tHiXmBRuzHp9fjsc4RaSo8F4UCgxO16mQ014VJHVDsp0bJGl.p64_47VKZRUvkMRf)
-- **Work Item Call - 30 Jun 2021 - (1000ET)**
+- ~~**Work Item Call - 30 Jun 2021 - (1000ET)**~~ canceled
 - **Work Item Call - 07 Jul 2021 - (1000ET)**
+- **Work Item Call - 14 Jul 2021 - (1000ET)**
+- **Work Item Call - 21 Jul 2021 - (1000ET)**
+- **Work Item Call - 28 Jul 2021 - (1000ET)**
+- **Work Item Call - 04 Aug 2021 - (1000ET)**
 - ...
 </details>
 
@@ -60,8 +64,12 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 - **Work Item Call - 09 Jun 2021 - (1300ET)** [recording](https://us02web.zoom.us/rec/share/SsfLWoGWIdPZoNW054NOMnrTuBSloqyWY25f_lG0SmoI-LavAjTur4-hkArV4Nw8.R53smQhMCqE1yeaf)
 - **Work Item Call - 16 Jun 2021 - (1300ET)** [recording](https://us02web.zoom.us/rec/share/k7LXFvoDdbcAtk_ez9jzJinxv07GDF6vbXfjlueaXsSNKosNCBgaDnkQGpa1U7o1.qUwQkl_8-nwSQE_R)
 - **Work Item Call - 23 Jun 2021 - (1300ET)** [recording](https://us02web.zoom.us/rec/share/yHB0xVwh212ZPl-hv9bJ0tDn5nVlGZbbwSNmmO2Q9cBz0KJHMN5j8pDPnLohOpOF.CAu2fXyMPboKrYO-)
-- **Work Item Call - 30 Jun 2021 - (1300ET)**
-- **Work Item Call - 07 Jul 2021 - (1300ET)**
+- **Work Item Call - 30 Jun 2021 - (1300ET)** [recording](https://us02web.zoom.us/rec/share/8au79lxjKT7dnpsUhR2ad8WTP0qXpo9YbUwzip-waCYD4p89x0Bdm9MA2GIdvKc.JcjvtJvkCJ5GTiOC)
+- ~~**Work Item Call - 07 Jul 2021 - (1300ET)**~~ canceled
+- **Work Item Call - 14 Jul 2021 - (1300ET)**
+- **Work Item Call - 21 Jul 2021 - (1300ET)**
+- **Work Item Call - 28 Jul 2021 - (1300ET)**
+- **Work Item Call - 04 Aug 2021 - (1300ET)**
 - ...
 </details>
 
