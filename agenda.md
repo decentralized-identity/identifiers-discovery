@@ -2,7 +2,7 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/b-x6jEpMSOm5HiILrkC1oA/badge)](https://hackmd.io/b-x6jEpMSOm5HiILrkC1oA)
 
-[**WG projects** ](https://github.com/search?p=2&q=topic%3Awg-id+org%3Adecentralized-identity+fork%3Atrue&type=Repositories) | [ DIF page ](https://identity.foundation/working-groups/identifiers-discovery.html) | [Mailing list and Wiki ](https://lists.identity.foundation/g/id-wg)
+[**WG projects** ](https://github.com/search?p=2&q=topic%3Awg-id+org%3Adecentralized-identity+fork%3Atrue&type=Repositories) | [ DIF page ](https://identity.foundation/working-groups/identifiers-discovery.html) | [Mailing list and Wiki ](https://lists.identity.foundation/g/id-wg) | [Recordings](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit#gid=111226877)
 
 _For this call, you are encouraged to turn your video on. This is a good way to build rapport given we are a large, disparate group experiencing a lot of churn._
 
@@ -73,7 +73,7 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 - ...
 </details>
 
-## Meeting - 05 July 2021 - (1400 ET)
+## Meeting - 12 July 2021 - (1400 ET)
 
 ### Agenda
 
@@ -86,6 +86,8 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 ### Attendees
 
 * 
+
+## ~~Meeting - 05 July 2021 - (1400 ET)~~ canceled
 
 ## Meeting - 28 June 2021 - (1400 ET)
 
