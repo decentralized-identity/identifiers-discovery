@@ -89,7 +89,7 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 
 ## ~~Meeting - 05 July 2021 - (1400 ET)~~ canceled
 
-## Meeting - 28 June 2021 - (1400 ET)
+## Meeting - 28 June 2021 - (1400 ET) - [Recording](https://us02web.zoom.us/rec/share/w9rAMFSguSY1XdzbxiMe24NyF9YO7Ufo4F8v5CXEL6LSr2Y4e4i9hflgZcVMlU2t.sEbz-h-R8x7ux4r4)
 
 ### Agenda
 
