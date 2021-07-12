@@ -80,8 +80,10 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. [Daniel] Historical key resolution
-5. Other topics?
+4. Update on DID Core
+5. Update on ID WG Work Items
+6. [Daniel] Historical key resolution
+7. Other topics?
 
 ### Attendees
 
