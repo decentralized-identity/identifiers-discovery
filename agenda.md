@@ -73,25 +73,39 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 - ...
 </details>
 
-## Meeting - 12 July 2021 - (1400 ET)
+## Meeting - 12 July 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/PrLAdGRAzu69kZfC6Q5wFhihryHoW-iR8cnoWFOPEk_2lZsvWDWNuNZ0RT3ZD4pg.N79eU3gruEfvSIfo)
 
 ### Agenda
 
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. Update on DID Core
-5. Update on ID WG Work Items
-6. [Daniel] Historical key resolution
-7. Other topics?
+4. [Daniel] Historical key resolution
+   * A DID document could point to a hub, which contains a list of historical keys associated with the DID. This list is signed by a current DID controller key.
+   * Using DID URLs, it should be possible to point to a specific historical key at a specific point in time, and it can be dereferences publicly by anyone.
+   * Maybe similar to this: `did:example:123?service=IdentityHub&relativeRef=/CollectionsQuery?uri=https://identity.foundatio/KeyHistory#key-32`
+   * See https://identity.foundation/identity-hub/spec/#did-relative-urls
+   * Discussion around how can this be trusted, since it's in your identity hub and you can change it at any time, and this information is separate from the underlying DID verifiable data registry.
+   * Advantage: This is method-independent.
+   * Discussion on relation between this approach and KERI's Key Event Logs.
+   * Discussion on implementing this in the Universal Resolver. This could be supported as an extension of the UR; individual DID method drivers don't have to do anything.
+   * The ID WG could start a new work item which defines the data structure of historical keys, as well as the format of DID URls that point to them.
+6. Other topics?
 
 ### Attendees
 
-* 
+* Markus Sabadello
+* Daniel Buchner
+* Alen
+* Juan Caballero
+* Ezequiel
+* Tom Jones
+* Bradley Hinson
+* Balázs Nemethi
 
 ## ~~Meeting - 05 July 2021 - (1400 ET)~~ canceled
 
-## Meeting - 28 June 2021 - (1400 ET) - [Recording](https://us02web.zoom.us/rec/share/w9rAMFSguSY1XdzbxiMe24NyF9YO7Ufo4F8v5CXEL6LSr2Y4e4i9hflgZcVMlU2t.sEbz-h-R8x7ux4r4)
+## Meeting - 28 June 2021 - (1400 ET) - [recording](https://us02web.zoom.us/rec/share/w9rAMFSguSY1XdzbxiMe24NyF9YO7Ufo4F8v5CXEL6LSr2Y4e4i9hflgZcVMlU2t.sEbz-h-R8x7ux4r4)
 
 ### Agenda
 
