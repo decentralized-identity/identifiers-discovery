@@ -83,7 +83,8 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 4. Update on W3C DID Core
 5. Update on ID WG Work Items
 6. Discuss ID WG call schedule
-7. Other topics?
+7. Universal Resolver returning a key in a given format (e.g., JWK(S))
+8. Other topics?
 
 ### Attendees
 
