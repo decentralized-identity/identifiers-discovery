@@ -73,23 +73,34 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 - ...
 </details>
 
-## Meeting - 19 July 2021 - (1400 ET)
+## Meeting - 19 July 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/Ej0o-3LoCPGBeaZh5xGh_A__kB2Eety1UpIKBLg8hW6TJyh05MyJUFb1z1oGzv4D.TehsRxiRTBmbRBkY)
 
 ### Agenda
 
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. Update on W3C DID Core
-5. Update on ID WG Work Items
-6. Discuss ID WG call schedule
-7. Universal Resolver returning a key in a given format (e.g., JWK(S))
-8. Continue work on historical key resolution
-9. Other topics?
+4. Discuss ID WG call schedule
+    * Proposal to move Universal Resolver Work Item Call to 0800ET instead of 1300ET.
+    * Proposal to suspend main ID WG calls during August.
+5. Short discussion around Solid and DIDs.
+6. Universal Resolver returning a key in a given format (e.g., JWK(S))
+    * Discussions on [transform-keys DID URL parameter](https://github.com/decentralized-identity/did-spec-extensions/blob/master/parameters/transform-keys.md).
+    * Specification is incomplete and needs more work. PoC has been implemented in Universal Resolver.
+    * Parameter is registered in DID Spec Registries (which is a "note", not a "standard").
+    * Discussion on trust boundaries and security implications of transforming keys in a DID document (only public keys!)
+    * What are possible values? JWK, JWKS, base58, multibase, PEM, ...?
+    * Discussion on this approach vs. use media types as in https://did.key.transmute.industries/.
+7. Continue work on historical key resolution
+    * Draft example of a data formats and DID URL here: https://hackmd.io/P45mLCRHTSWJX1oL1tZXKw
+8. Other topics?
 
 ### Attendees
 
-* 
+* Markus Sabadello
+* Alen Horvat
+* Tom Jones
+* Daniel Buchner
 
 ## Meeting - 12 July 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/PrLAdGRAzu69kZfC6Q5wFhihryHoW-iR8cnoWFOPEk_2lZsvWDWNuNZ0RT3ZD4pg.N79eU3gruEfvSIfo)
 
