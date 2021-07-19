@@ -73,6 +73,22 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 - ...
 </details>
 
+## Meeting - 19 July 2021 - (1400 ET)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Update on W3C DID Core
+5. Update on ID WG Work Items
+6. Discuss ID WG call schedule
+7. Other topics?
+
+### Attendees
+
+* 
+
 ## Meeting - 12 July 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/PrLAdGRAzu69kZfC6Q5wFhihryHoW-iR8cnoWFOPEk_2lZsvWDWNuNZ0RT3ZD4pg.N79eU3gruEfvSIfo)
 
 ### Agenda
