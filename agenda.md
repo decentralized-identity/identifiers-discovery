@@ -43,14 +43,13 @@ analyze other, related initiatives and specifications.
 - ~~**Work Item Call - 30 Jun 2021 - (1000ET)**~~ canceled
 - ~~**Work Item Call - 07 Jul 2021 - (1000ET)**~~ canceled
 - **Work Item Call - 14 Jul 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/B6JuiLhZiFzvBPkNJuf6rjo2YxkdukzDJLKYMSTxCJF3MNpKyFjV_RJXTUgkmrOz.V7l9p9orwUxLvLPS)
-- **Work Item Call - 21 Jul 2021 - (1000ET)**
+- ~~**Work Item Call - 21 Jul 2021 - (1000ET)**~~ canceled
 - **Work Item Call - 28 Jul 2021 - (1000ET)**
-- **Work Item Call - 04 Aug 2021 - (1000ET)**
 - ...
 </details>
 
 <details>
-<summary> Universal Resolver Work Item Call - <b>Wednesdays 1300 ET</b></summary>
+<summary> Universal Resolver Work Item Call - <b>Wednesdays 0800 ET</b></summary>
 
 <br>This weekly Work Item Call is dedicated to the [Universal Resolver](github.com/decentralized-identity/universal-resolver) work item.
 We discuss policy and governance topics (e.g. when to add/remove drivers), as well
@@ -67,9 +66,8 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 - **Work Item Call - 30 Jun 2021 - (1300ET)** [recording](https://us02web.zoom.us/rec/share/8au79lxjKT7dnpsUhR2ad8WTP0qXpo9YbUwzip-waCYD4p89x0Bdm9MA2GIdvKc.JcjvtJvkCJ5GTiOC)
 - ~~**Work Item Call - 07 Jul 2021 - (1300ET)**~~ canceled
 - **Work Item Call - 14 Jul 2021 - (1300ET)** [recording](https://us02web.zoom.us/rec/share/ZTTv75NlrhIGbcOmpS8JEvtMP67wZm5k1U3XeZvRdtL_3qtBT3V8zCQB-HMqKIhj.obNppUIwXbcFMhYI)
-- **Work Item Call - 21 Jul 2021 - (1300ET)**
-- **Work Item Call - 28 Jul 2021 - (1300ET)**
-- **Work Item Call - 04 Aug 2021 - (1300ET)**
+- **Work Item Call - 21 Jul 2021 - (0800ET)**
+- **Work Item Call - 28 Jul 2021 - (0800ET)**
 - ...
 </details>
 
