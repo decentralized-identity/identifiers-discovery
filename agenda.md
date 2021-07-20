@@ -71,6 +71,29 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 - ...
 </details>
 
+## ~~Meeting - 30 August 2021 - (1400 ET)~~ summer break
+
+## ~~Meeting - 23 August 2021 - (1400 ET)~~ summer break
+
+## ~~Meeting - 16 August 2021 - (1400 ET)~~ summer break
+
+## ~~Meeting - 09 August 2021 - (1400 ET)~~ summer break
+
+## ~~Meeting - 02 August 2021 - (1400 ET)~~ summer break
+
+## Meeting - 26 July 2021 - (1400 ET)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. TBD
+
+### Attendees
+
+*
+
 ## Meeting - 19 July 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/Ej0o-3LoCPGBeaZh5xGh_A__kB2Eety1UpIKBLg8hW6TJyh05MyJUFb1z1oGzv4D.TehsRxiRTBmbRBkY)
 
 ### Agenda
