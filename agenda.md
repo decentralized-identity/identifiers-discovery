@@ -66,7 +66,7 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 - **Work Item Call - 30 Jun 2021 - (1300ET)** [recording](https://us02web.zoom.us/rec/share/8au79lxjKT7dnpsUhR2ad8WTP0qXpo9YbUwzip-waCYD4p89x0Bdm9MA2GIdvKc.JcjvtJvkCJ5GTiOC)
 - ~~**Work Item Call - 07 Jul 2021 - (1300ET)**~~ canceled
 - **Work Item Call - 14 Jul 2021 - (1300ET)** [recording](https://us02web.zoom.us/rec/share/ZTTv75NlrhIGbcOmpS8JEvtMP67wZm5k1U3XeZvRdtL_3qtBT3V8zCQB-HMqKIhj.obNppUIwXbcFMhYI)
-- **Work Item Call - 21 Jul 2021 - (0800ET)**
+- **Work Item Call - 21 Jul 2021 - (0800ET)** [recording](https://us02web.zoom.us/rec/share/LcXVEBOkOHWkia3NcLdYYL7NGK57hhPVAbMUmasQDh8YKFiqPntYiK80ae7nyRHs.xwBFCmONkg5YunoV)
 - **Work Item Call - 28 Jul 2021 - (0800ET)**
 - ...
 </details>
@@ -101,7 +101,8 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. TBD
+4. Updates to meeting schedule
+5. TBD
 
 ### Attendees
 
