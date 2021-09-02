@@ -49,7 +49,7 @@ analyze other, related initiatives and specifications.
 - ~~**Work Item Call - 11 Aug 2021 - (1000ET)**~~ summer break
 - ~~**Work Item Call - 18 Aug 2021 - (1000ET)**~~ summer break
 - ~~**Work Item Call - 25 Aug 2021 - (1000ET)**~~ summer break
-- **Work Item Call - 01 Sep 2021 - (1000ET)**
+- **Work Item Call - 01 Sep 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/MY3QmDLDlrzVho_9drCqE3tVZxA1Yc_O7L9jBhiSqAPb61XNAdoudCncrSXvB0Co.m6Fzos_exL_ceebw)
 - **Work Item Call - 08 Sep 2021 - (1000ET)**
 - ...
 </details>
@@ -78,7 +78,7 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 - ~~**Work Item Call - 11 Aug 2021 - (0800ET)**~~ summer break
 - ~~**Work Item Call - 18 Aug 2021 - (0800ET)**~~ summer break
 - ~~**Work Item Call - 25 Aug 2021 - (0800ET)**~~ summer break
-- **Work Item Call - 01 Sep 2021 - (0800ET)**
+- **Work Item Call - 01 Sep 2021 - (0800ET)** [recording](https://us02web.zoom.us/rec/share/LifNSL7-djkkS6qGoINB9a8a6aNqOaCJxa-1dxAS8jFCaAWu2PDjnu2Q_-TgSE9M.H4eqZSH95ifHl2TS)
 - **Work Item Call - 08 Sep 2021 - (0800ET)**
 - ...
 </details>
