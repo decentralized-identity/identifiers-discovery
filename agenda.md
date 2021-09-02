@@ -25,36 +25,6 @@ In addition to the regular I&D WG meetings, we also hold Work Item Calls dedicat
 work items. Any work item lead can organize Work Item Calls about their work item.
 
 <details>
-<summary> DID Registration Work Item Call - <b>Wednesdays 1000 ET</b></summary>
-
-<br>This weekly Work Item Call is dedicated to the [DID Registration](https://github.com/decentralized-identity/did-registration/) work item.
-We discuss scope and high-level architectural questions, work on the specification, and
-analyze other, related initiatives and specifications.
-
-[Meeting invite](https://us02web.zoom.us/meeting/tZUvcO-trjkiEtfXTpjJRAjA-HO9Q14nqqD0/ics?icsToken=98tyKuGprDwsH9SXuBGERpwcAI_CM-_ziHpHj7dbpCv1CQphQwnXe8pta4MuRNbB) | [Zoom room](https://us02web.zoom.us/j/81276502883?pwd=T0xjbFJBOGt5a1AwT2g1UEdjWkYrUT09)
-
-- **Work Item Call - 19 May 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/ee3b1CqZgI4bfA8ZvmddODatOPtWeqIYFbvHj310qldOT_E8frALAeWUk6Up_l_P.agVflxq2SmlqYVy_)
-- **Work Item Call - 26 May 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/L_olCmrip_yPuljh4-x-abgb6M2tcoq8J7X7XGBhd4VX7ijMhXGZIO6FsScwIydJ.8df1mvh5CVRqboaD)
-- **Work Item Call - 02 Jun 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/uA3AIY-WaNpqFKFfivWxBSqiDaFrCR1aT5f-5PP-dRXjABdb0kCTbWS-guWhQEYL.LHVq1O_IIwjKZvW3)
-- ~~**Work Item Call - 09 Jun 2021 - (1000ET)**~~ canceled
-- ~~**Work Item Call - 16 Jun 2021 - (1000ET)**~~ rescheduled to 18 Jun 2021 - (0800ET)
-- **Work Item Call - 18 Jun 2021 - (0800ET)** [recording](https://us02web.zoom.us/rec/share/qagCATFF_inys86jiGJ5GuWnY9RKa8Q5tAKPTi5Xf85ydo5VDR0CTPnW6yQxNrmC.qOH6wkLHWKCpAlFs)
-- **Work Item Call - 23 Jun 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/bAzJx8mSadr5z9x0tHiXmBRuzHp9fjsc4RaSo8F4UCgxO16mQ014VJHVDsp0bJGl.p64_47VKZRUvkMRf)
-- ~~**Work Item Call - 30 Jun 2021 - (1000ET)**~~ canceled
-- ~~**Work Item Call - 07 Jul 2021 - (1000ET)**~~ canceled
-- **Work Item Call - 14 Jul 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/B6JuiLhZiFzvBPkNJuf6rjo2YxkdukzDJLKYMSTxCJF3MNpKyFjV_RJXTUgkmrOz.V7l9p9orwUxLvLPS)
-- ~~**Work Item Call - 21 Jul 2021 - (1000ET)**~~ canceled
-- ~~**Work Item Call - 28 Jul 2021 - (1000ET)**~~ canceled
-- ~~**Work Item Call - 04 Aug 2021 - (1000ET)**~~ summer break
-- ~~**Work Item Call - 11 Aug 2021 - (1000ET)**~~ summer break
-- ~~**Work Item Call - 18 Aug 2021 - (1000ET)**~~ summer break
-- ~~**Work Item Call - 25 Aug 2021 - (1000ET)**~~ summer break
-- **Work Item Call - 01 Sep 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/MY3QmDLDlrzVho_9drCqE3tVZxA1Yc_O7L9jBhiSqAPb61XNAdoudCncrSXvB0Co.m6Fzos_exL_ceebw)
-- **Work Item Call - 08 Sep 2021 - (1000ET)**
-- ...
-</details>
-
-<details>
 <summary> Universal Resolver Work Item Call - <b>Wednesdays 0800 ET</b></summary>
 
 <br>This weekly Work Item Call is dedicated to the [Universal Resolver](github.com/decentralized-identity/universal-resolver) work item.
@@ -80,6 +50,36 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 - ~~**Work Item Call - 25 Aug 2021 - (0800ET)**~~ summer break
 - **Work Item Call - 01 Sep 2021 - (0800ET)** [recording](https://us02web.zoom.us/rec/share/LifNSL7-djkkS6qGoINB9a8a6aNqOaCJxa-1dxAS8jFCaAWu2PDjnu2Q_-TgSE9M.H4eqZSH95ifHl2TS)
 - **Work Item Call - 08 Sep 2021 - (0800ET)**
+- ...
+</details>
+
+<details>
+<summary> DID Registration Work Item Call - <b>Wednesdays 1000 ET</b></summary>
+
+<br>This weekly Work Item Call is dedicated to the [DID Registration](https://github.com/decentralized-identity/did-registration/) work item.
+We discuss scope and high-level architectural questions, work on the specification, and
+analyze other, related initiatives and specifications.
+
+[Meeting invite](https://us02web.zoom.us/meeting/tZUvcO-trjkiEtfXTpjJRAjA-HO9Q14nqqD0/ics?icsToken=98tyKuGprDwsH9SXuBGERpwcAI_CM-_ziHpHj7dbpCv1CQphQwnXe8pta4MuRNbB) | [Zoom room](https://us02web.zoom.us/j/81276502883?pwd=T0xjbFJBOGt5a1AwT2g1UEdjWkYrUT09)
+
+- **Work Item Call - 19 May 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/ee3b1CqZgI4bfA8ZvmddODatOPtWeqIYFbvHj310qldOT_E8frALAeWUk6Up_l_P.agVflxq2SmlqYVy_)
+- **Work Item Call - 26 May 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/L_olCmrip_yPuljh4-x-abgb6M2tcoq8J7X7XGBhd4VX7ijMhXGZIO6FsScwIydJ.8df1mvh5CVRqboaD)
+- **Work Item Call - 02 Jun 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/uA3AIY-WaNpqFKFfivWxBSqiDaFrCR1aT5f-5PP-dRXjABdb0kCTbWS-guWhQEYL.LHVq1O_IIwjKZvW3)
+- ~~**Work Item Call - 09 Jun 2021 - (1000ET)**~~ canceled
+- ~~**Work Item Call - 16 Jun 2021 - (1000ET)**~~ rescheduled to 18 Jun 2021 - (0800ET)
+- **Work Item Call - 18 Jun 2021 - (0800ET)** [recording](https://us02web.zoom.us/rec/share/qagCATFF_inys86jiGJ5GuWnY9RKa8Q5tAKPTi5Xf85ydo5VDR0CTPnW6yQxNrmC.qOH6wkLHWKCpAlFs)
+- **Work Item Call - 23 Jun 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/bAzJx8mSadr5z9x0tHiXmBRuzHp9fjsc4RaSo8F4UCgxO16mQ014VJHVDsp0bJGl.p64_47VKZRUvkMRf)
+- ~~**Work Item Call - 30 Jun 2021 - (1000ET)**~~ canceled
+- ~~**Work Item Call - 07 Jul 2021 - (1000ET)**~~ canceled
+- **Work Item Call - 14 Jul 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/B6JuiLhZiFzvBPkNJuf6rjo2YxkdukzDJLKYMSTxCJF3MNpKyFjV_RJXTUgkmrOz.V7l9p9orwUxLvLPS)
+- ~~**Work Item Call - 21 Jul 2021 - (1000ET)**~~ canceled
+- ~~**Work Item Call - 28 Jul 2021 - (1000ET)**~~ canceled
+- ~~**Work Item Call - 04 Aug 2021 - (1000ET)**~~ summer break
+- ~~**Work Item Call - 11 Aug 2021 - (1000ET)**~~ summer break
+- ~~**Work Item Call - 18 Aug 2021 - (1000ET)**~~ summer break
+- ~~**Work Item Call - 25 Aug 2021 - (1000ET)**~~ summer break
+- **Work Item Call - 01 Sep 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/MY3QmDLDlrzVho_9drCqE3tVZxA1Yc_O7L9jBhiSqAPb61XNAdoudCncrSXvB0Co.m6Fzos_exL_ceebw)
+- **Work Item Call - 08 Sep 2021 - (1000ET)**
 - ...
 </details>
 
