@@ -105,7 +105,9 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. If you receive a message from a DID, what are approaches to information discovery on that DID?
+4. Discuss Mozilla's Formal Objection against DID Core, and response by DIF:
+   * https://lists.w3.org/Archives/Public/public-new-work/2021Sep/0000.html
+6. Discussion in Slack: If you receive a message from a DID, what are approaches to information discovery on that DID?
 
 ### Attendees
 
