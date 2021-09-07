@@ -88,30 +88,33 @@ analyze other, related initiatives and specifications.
 ### Agenda
 
 1. Welcome and introductions
-2. [ID WG participation tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. [Liam McCarty, Bradley Hinson, Unum ID] Bridging the Digital and Physical to Make Identifiers That Identify
     * Identifiers are only useful if they identify, which requires them to be reliably associated with people and things. In this talk, Liam McCarty of Unum ID will explain how to make such associations by leveraging the modern infrastructure of secure hardware and device biometrics. But he will also show that there’s currently a wide gap between how available this infrastructure is to different types of applications, and he will argue that this has been a significant barrier to adoption of decentralized identity systems. Finally, he will outline a path toward closing the gap and stress the importance of public advocacy in achieving that goal, which will finally make possible identifiers that identify.
+5. Discuss Mozilla's Formal Objection against DID Core, and response by DIF:
+   * https://lists.w3.org/Archives/Public/public-new-work/2021Sep/0000.html
 6. Other topics?
 
 ### Attendees
 
 *
 
-## Meeting - 06 September 2021 - (1400 ET)
+## Meeting - 06 September 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/IjTFnGLIGDYgxkMUMNNcURIm0xGXfeqN1cL7-0wdCBwO2_953ZVQ06gRcl-6ZI26.GN9THYf393X6ZZ5p)
 
 ### Agenda
 
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. Discuss Mozilla's Formal Objection against DID Core, and response by DIF:
-   * https://lists.w3.org/Archives/Public/public-new-work/2021Sep/0000.html
-6. Discussion in Slack: If you receive a message from a DID, what are approaches to information discovery on that DID?
+4. Discussion in Slack: If you receive a message from a DID, what are approaches to information discovery on that DID?
 
 ### Attendees
 
-*
+* Chris Kelly
+* Cristopher Fabianek
+* Tom Jones
+* Alen Horvat
 
 ## ~~Meeting - 30 August 2021 - (1400 ET)~~ summer break
 
