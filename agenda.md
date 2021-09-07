@@ -88,7 +88,7 @@ analyze other, related initiatives and specifications.
 ### Agenda
 
 1. Welcome and introductions
-2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
 3. Agenda creation/review/prioritization
 4. [Liam McCarty, Bradley Hinson, Unum ID] Bridging the Digital and Physical to Make Identifiers That Identify
     * Identifiers are only useful if they identify, which requires them to be reliably associated with people and things. In this talk, Liam McCarty of Unum ID will explain how to make such associations by leveraging the modern infrastructure of secure hardware and device biometrics. But he will also show that there’s currently a wide gap between how available this infrastructure is to different types of applications, and he will argue that this has been a significant barrier to adoption of decentralized identity systems. Finally, he will outline a path toward closing the gap and stress the importance of public advocacy in achieving that goal, which will finally make possible identifiers that identify.
