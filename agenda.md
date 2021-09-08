@@ -79,7 +79,7 @@ analyze other, related initiatives and specifications.
 - ~~**Work Item Call - 18 Aug 2021 - (1000ET)**~~ summer break
 - ~~**Work Item Call - 25 Aug 2021 - (1000ET)**~~ summer break
 - **Work Item Call - 01 Sep 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/MY3QmDLDlrzVho_9drCqE3tVZxA1Yc_O7L9jBhiSqAPb61XNAdoudCncrSXvB0Co.m6Fzos_exL_ceebw)
-- **Work Item Call - 08 Sep 2021 - (1000ET)**
+- ~~**Work Item Call - 08 Sep 2021 - (1000ET)**~~ canceled
 - ...
 </details>
 
