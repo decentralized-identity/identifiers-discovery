@@ -49,7 +49,7 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 - ~~**Work Item Call - 18 Aug 2021 - (0800ET)**~~ summer break
 - ~~**Work Item Call - 25 Aug 2021 - (0800ET)**~~ summer break
 - **Work Item Call - 01 Sep 2021 - (0800ET)** [recording](https://us02web.zoom.us/rec/share/LifNSL7-djkkS6qGoINB9a8a6aNqOaCJxa-1dxAS8jFCaAWu2PDjnu2Q_-TgSE9M.H4eqZSH95ifHl2TS)
-- **Work Item Call - 08 Sep 2021 - (0800ET)**
+- **Work Item Call - 08 Sep 2021 - (0800ET)** [recording](https://us02web.zoom.us/rec/share/QJUFRzjgb9L7GdPBQUHwdwd3wTbofKrmkiG1_3JZeWAgvFqrUuUr8pmOrd4mj0zt.hZa4IkYLWBw4f8qJ)
 - ...
 </details>
 
