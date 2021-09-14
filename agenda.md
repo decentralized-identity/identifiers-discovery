@@ -97,7 +97,7 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## Meeting - 13 September 2021 - (1400 ET)
+## Meeting - 13 September 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/BVc7JQmm2GXuY4HbHSXwk_gA_nVLV4GH42d19URVxIe6Q3S-LuUWszFSWLwH2uza.x7K2nTmpwSw-yjKO)
 
 ### Agenda
 
@@ -106,15 +106,32 @@ analyze other, related initiatives and specifications.
 3. Agenda creation/review/prioritization
 4. Change call schedule to bi-weekly?
 5. [Liam McCarty, Unum ID] Bridging the Digital and Physical to Make Identifiers That Identify
+    * **Summary:**
     * Identifiers are only useful if they identify, which requires them to be reliably associated with people and things. In this talk, Liam McCarty of Unum ID will explain how to make such associations by leveraging the modern infrastructure of secure hardware and device biometrics. But he will also show that there’s currently a wide gap between how available this infrastructure is to different types of applications, and he will argue that this has been a significant barrier to adoption of decentralized identity systems. Finally, he will outline a path toward closing the gap and stress the importance of public advocacy in achieving that goal, which will finally make possible identifiers that identify.
-6. Discuss Mozilla's Formal Objection against DID Core, and response by DIF:
-   * https://lists.w3.org/Archives/Public/public-new-work/2021Sep/0000.html
-7. Look through work item issues: https://github.com/decentralized-identity/identifiers-discovery/issues
-8. Other topics?
+    * **Notes:**
+    * Association between physical world and digital identity
+    * In the physical world, we have "built-in private keys", we "are" a wallet
+    * There is a difference between access to hardware crypto mobile vs. web
+    * Wallets in browsers are really hard, e.g. Safari deletes everything ter 1 week
+    * Standards exist, but are of limited use
+        * WebAuthn allows access to hardware crypto, but only for authentication (no generic crypto operations): https://www.w3.org/TR/webauthn-2/
+        * Web Crypto doesn't allow access to hardware crypto: https://www.w3.org/TR/WebCryptoAPI/
+    * There is a need for generic hardware backed cryptographic signatures on the web
+    * Calling for community action to support this, e.g. see these issues:
+        * https://github.com/w3c/webauthn/issues/1608
+        * https://github.com/w3c/webcrypto/issues/263
+    * Some abandoned work on hardware based secure services:
+        * https://www.w3.org/community/hb-secure-services/
+        * https://rawgit.com/w3c/websec/gh-pages/hbss.html
 
 ### Attendees
 
-*
+* Markus Sabadello
+* Alen Horvat
+* Liam McCarty
+* Chris Kelly
+* Charles E. Lehner
+* Tom Jones
 
 ## Meeting - 06 September 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/IjTFnGLIGDYgxkMUMNNcURIm0xGXfeqN1cL7-0wdCBwO2_953ZVQ06gRcl-6ZI26.GN9THYf393X6ZZ5p)
 
