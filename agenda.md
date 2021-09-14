@@ -10,11 +10,11 @@ _This document is live-edited DURING each call, or shortly after the call, and s
 Please note that we might not notice a pullrequest in time, but you are free to propose agenda items for future meetings via hackmd._
 
 <details>
-<summary> Meeting information - <b>Mondays 1400 ET</b></summary>
+<summary> Meeting information - <b>Bi-weekly Mondays 1400 ET</b></summary>
 
 - Before your contribute - [**join DIF**](https://identity.foundation/join) and [sign the WG charter](https://bit.ly/DIF-WG-select1) (both are required!)
-- Time: Every Monday, 14:00-15:00 ET
-- [Calendar entry](https://calendar.google.com/event?action=TEMPLATE&tmeid=OWtzNWZuanA4bWRnYmF0ZnVxaDR0MnQ2cGVfMjAyMDA5MjFUMTgwMDAwWiBkZWNlbnRyYWxpemVkLmlkZW50aXR5QG0&tmsrc=decentralized.identity%40gmail.com&scp=ALL)
+- Time: Every second Monday, 14:00-15:00 ET
+- [Calendar entry](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWwzYmI3Y2c0aG9qdmt1Z2kxYzRtM2hsbjNfMjAyMTA5MjdUMTgwMDAwWiBkZWNlbnRyYWxpemVkLmlkZW50aXR5QG0&tmsrc=decentralized.identity%40gmail.com&scp=ALL)
 - [Zoom room](https://us02web.zoom.us/j/87498640502?pwd=WTN0SVJHSzZtdVFYd3JYT3JadjB1UT09), Meeting ID: 87498640502,
 Password: 387317
 </details>
@@ -96,6 +96,32 @@ analyze other, related initiatives and specifications.
 - **Work Item Call - 27 Oct 2021 - (1000ET)**
 - ...
 </details>
+
+## Meeting - 11 October 2021 - (1400 ET)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. TBD
+
+### Attendees
+
+* 
+
+## Meeting - 27 September 2021 - (1400 ET)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. TBD
+
+### Attendees
+
+* 
 
 ## Meeting - 13 September 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/BVc7JQmm2GXuY4HbHSXwk_gA_nVLV4GH42d19URVxIe6Q3S-LuUWszFSWLwH2uza.x7K2nTmpwSw-yjKO)
 
