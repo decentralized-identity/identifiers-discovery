@@ -105,24 +105,26 @@ analyze other, related initiatives and specifications.
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Change call schedule to bi-weekly?
-5. [Liam McCarty, Unum ID] Bridging the Digital and Physical to Make Identifiers That Identify
+5. [Liam McCarty, Unum ID] Bridging Digital and Physical: Make Identifiers Identify
     * **Summary:**
-    * Identifiers are only useful if they identify, which requires them to be reliably associated with people and things. In this talk, Liam McCarty of Unum ID will explain how to make such associations by leveraging the modern infrastructure of secure hardware and device biometrics. But he will also show that there’s currently a wide gap between how available this infrastructure is to different types of applications, and he will argue that this has been a significant barrier to adoption of decentralized identity systems. Finally, he will outline a path toward closing the gap and stress the importance of public advocacy in achieving that goal, which will finally make possible identifiers that identify.
+    * Identifiers are only useful if they identify, which requires them to be reliably associated with people and things. In this talk, Liam McCarty of [Unum ID](https://www.Unum.ID) will explain how to make such associations by leveraging the modern infrastructure of secure hardware and device biometrics. But he will also show that there’s currently a wide gap between how available this infrastructure is to different types of applications, and he will argue that this has been a significant barrier to adoption of decentralized identity systems. Finally, he will outline a path toward closing the gap and stress the importance of public advocacy in achieving that goal, which will finally make possible identifiers that identify.
     * **Notes:**
-    * Association between physical world and digital identity
-    * In the physical world, we have "built-in private keys", we "are" a wallet
-    * There is a difference between access to hardware crypto mobile vs. web
-    * Wallets in browsers are really hard, e.g. Safari deletes everything ter 1 week
-    * Standards exist, but are of limited use
+    * Association between physical world and digital identity is important.
+    * In the physical world, we have "built-in private keys", we "are" a wallet.
+    * There is a difference between access to hardware crypto on mobile vs. web.
+    * Wallets in browsers are really hard, e.g. Safari deletes everything ter 1 week.
+    * There is a need for generic hardware backed cryptographic signatures on the web.
+    * Standards exist, but are of limited use:
         * WebAuthn allows access to hardware crypto, but only for authentication (no generic crypto operations): https://www.w3.org/TR/webauthn-2/
         * Web Crypto doesn't allow access to hardware crypto: https://www.w3.org/TR/WebCryptoAPI/
-    * There is a need for generic hardware backed cryptographic signatures on the web
     * Calling for community action to support this, e.g. see these issues:
         * https://github.com/w3c/webauthn/issues/1608
         * https://github.com/w3c/webcrypto/issues/263
     * Some abandoned work on hardware based secure services:
         * https://www.w3.org/community/hb-secure-services/
         * https://rawgit.com/w3c/websec/gh-pages/hbss.html
+    * **Call to Action:**
+    * We need community action to advocate for general, hardware backed cryptographic signatures on the web! This would make it possible to build decentralized identity wallet web apps, not just mobile ones, dramatically improving odds of adoption. Please help the cause by commenting on the WebAuthn and WebCrypto GitHub issues pages, supporting my proposals there, and generally increasing awareness around this topic. This is a technical change that requires a decidedly nontechnical solution: community advocacy. Thanks for your help!
 
 ### Attendees
 
