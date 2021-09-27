@@ -117,7 +117,9 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. TBD
+4. US mobile driver's license comment period: https://www.regulations.gov/commenton/DHS-2020-0028-0001
+5. Status of work items: https://github.com/decentralized-identity/identifiers-discovery/issues
+6. Other topics?
 
 ### Attendees
 
