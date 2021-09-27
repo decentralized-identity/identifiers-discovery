@@ -110,7 +110,7 @@ analyze other, related initiatives and specifications.
 
 * 
 
-## Meeting - 27 September 2021 - (1400 ET)
+## Meeting - 27 September 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/_lyRt01Z9Zzyol2wvzy2TA2L5ysVNRY8LXs0iFc5AYqE9_E7vYVXI5Bf5LmXRo9T.HAXkmCWOQJUOm7pZ)
 
 ### Agenda
 
@@ -118,12 +118,26 @@ analyze other, related initiatives and specifications.
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. US mobile driver's license comment period: https://www.regulations.gov/commenton/DHS-2020-0028-0001
-5. Status of work items: https://github.com/decentralized-identity/identifiers-discovery/issues
-6. Other topics?
+    * Discussion on RealID and ISO 18013-5: https://www.iso.org/standard/69084.html
+    * Introduction to mDL technology
+        * Hashes of each data element, bundle is signed
+        * Age over X, selective disclosure is "clunky" but supported
+        * No trust in user hardware, all calculation is done by issuer
+    * Discussion on difference between ISO mDL and W3C VC standards
+        * Competition or coexistence? Both have some support.
+        * mDL written by issuers for issuers, more work needed on user and verifier perspectives.
+        * mDL is not decentralized.
+    * Digital wallets in Europe vs US
+        * Who will isse the wallets? Centrally by the state, or free market with certification?
 
 ### Attendees
 
-* 
+* Markus Sabadello
+* Alen Horvat
+* Chris Kelly
+* Andrew Hughes
+* Tom Jones
+* Kaliya Identity Woman
 
 ## Meeting - 13 September 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/BVc7JQmm2GXuY4HbHSXwk_gA_nVLV4GH42d19URVxIe6Q3S-LuUWszFSWLwH2uza.x7K2nTmpwSw-yjKO)
 
