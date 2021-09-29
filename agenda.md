@@ -52,7 +52,7 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 - **Work Item Call - 08 Sep 2021 - (0800ET)** [recording](https://us02web.zoom.us/rec/share/QJUFRzjgb9L7GdPBQUHwdwd3wTbofKrmkiG1_3JZeWAgvFqrUuUr8pmOrd4mj0zt.hZa4IkYLWBw4f8qJ)
 - ~~**Work Item Call - 15 Sep 2021 - (0800ET)**~~ canceled
 - ~~**Work Item Call - 22 Sep 2021 - (0800ET)**~~ canceled
-- **Work Item Call - 29 Sep 2021 - (0800ET)**
+- **Work Item Call - 29 Sep 2021 - (0800ET)** [recording](https://us02web.zoom.us/rec/share/In8L_5iaOeWU4GJKCl4KgBs_LYAMtXEtN_wVGbXWMnT2f2JzWwuxuacJUQimoL58.mTVSUmkvTMrK1Dc2)
 - **Work Item Call - 06 Oct 2021 - (0800ET)**
 - **Work Item Call - 13 Oct 2021 - (0800ET)**
 - **Work Item Call - 20 Oct 2021 - (0800ET)**
@@ -89,7 +89,7 @@ analyze other, related initiatives and specifications.
 - ~~**Work Item Call - 08 Sep 2021 - (1000ET)**~~ canceled
 - ~~**Work Item Call - 15 Sep 2021 - (1000ET)**~~ canceled
 - **Work Item Call - 22 Sep 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/YjqsSZvNt6K51AhxxCYbTih18TlCuNbkDTpOk51tD-TVjjjKOybVl_pVax9Hs2B3.w0-JUY0a__ajY8be)
-- **Work Item Call - 29 Sep 2021 - (1000ET)**
+- **Work Item Call - 29 Sep 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/5Tj-JXlDl2Q9zsg5OZzOKvbGmb_OxVXEoV-ADuHDavywIxYbnJeJwYVEEEg0fKT2.ahsmZIzZCd5s4UDu)
 - **Work Item Call - 06 Oct 2021 - (1000ET)**
 - **Work Item Call - 13 Oct 2021 - (1000ET)**
 - **Work Item Call - 20 Oct 2021 - (1000ET)**
@@ -1312,7 +1312,7 @@ No meeting.
    - At IIW there were sessions about WebID and its relation to CHAPI and SIOP
    - CHAPI is a "dumb pipe" that can be used for sending get() and store() requests. Wallets are registered via a polyfill (uses localStorage). There are some privacy/confidentiality/usability issues with polyfill.
    - Volunteers to collaborate on a statement from DIF about WebID?
-8. [Daniel] Implementation updates
+8. [Daniel] Implementation updates
    - Implementing .well-known now, wallets that will connect to it by the end of the year
    - Python implementation of Fuzzy Vault is available now: https://github.com/decentralized-identity/fuzzy-encryption/tree/master/src/python
    - Implementing WASM bundle now in ~2 months, then publish a blog post?
