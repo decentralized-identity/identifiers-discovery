@@ -54,7 +54,7 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 - ~~**Work Item Call - 22 Sep 2021 - (0800ET)**~~ canceled
 - **Work Item Call - 29 Sep 2021 - (0800ET)** [recording](https://us02web.zoom.us/rec/share/In8L_5iaOeWU4GJKCl4KgBs_LYAMtXEtN_wVGbXWMnT2f2JzWwuxuacJUQimoL58.mTVSUmkvTMrK1Dc2)
 - **Work Item Call - 06 Oct 2021 - (0800ET)** [recording](https://us02web.zoom.us/rec/share/YxkMHdhOESfxpl9bSr7EgQFa5_ss-CdYzAChxnsCtRJ9Mr9_kfDZps2sXKavjXx9._XOQSKcD8R5ITBmj)
-- **Work Item Call - 13 Oct 2021 - (0800ET)**
+- ~~**Work Item Call - 13 Oct 2021 - (0800ET)~~ canceled
 - **Work Item Call - 20 Oct 2021 - (0800ET)**
 - **Work Item Call - 27 Oct 2021 - (0800ET)**
 - ...
@@ -91,13 +91,13 @@ analyze other, related initiatives and specifications.
 - **Work Item Call - 22 Sep 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/YjqsSZvNt6K51AhxxCYbTih18TlCuNbkDTpOk51tD-TVjjjKOybVl_pVax9Hs2B3.w0-JUY0a__ajY8be)
 - **Work Item Call - 29 Sep 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/5Tj-JXlDl2Q9zsg5OZzOKvbGmb_OxVXEoV-ADuHDavywIxYbnJeJwYVEEEg0fKT2.ahsmZIzZCd5s4UDu)
 - ~~**Work Item Call - 06 Oct 2021 - (1000ET)**~~ canceled
-- **Work Item Call - 13 Oct 2021 - (1000ET)**
+- ~~**Work Item Call - 13 Oct 2021 - (1000ET)**~~ canceled
 - **Work Item Call - 20 Oct 2021 - (1000ET)**
 - **Work Item Call - 27 Oct 2021 - (1000ET)**
 - ...
 </details>
 
-## Meeting - 11 October 2021 - (1400 ET)
+## Meeting - 25 October 2021 - (1400 ET) canceled
 
 ### Agenda
 
@@ -109,6 +109,8 @@ analyze other, related initiatives and specifications.
 ### Attendees
 
 * 
+
+## ~~Meeting - 11 October 2021 - (1400 ET)~~ canceled
 
 ## Meeting - 27 September 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/_lyRt01Z9Zzyol2wvzy2TA2L5ysVNRY8LXs0iFc5AYqE9_E7vYVXI5Bf5LmXRo9T.HAXkmCWOQJUOm7pZ)
 
