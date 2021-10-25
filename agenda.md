@@ -54,7 +54,7 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 - ~~**Work Item Call - 22 Sep 2021 - (0800ET)**~~ canceled
 - **Work Item Call - 29 Sep 2021 - (0800ET)** [recording](https://us02web.zoom.us/rec/share/In8L_5iaOeWU4GJKCl4KgBs_LYAMtXEtN_wVGbXWMnT2f2JzWwuxuacJUQimoL58.mTVSUmkvTMrK1Dc2)
 - **Work Item Call - 06 Oct 2021 - (0800ET)** [recording](https://us02web.zoom.us/rec/share/YxkMHdhOESfxpl9bSr7EgQFa5_ss-CdYzAChxnsCtRJ9Mr9_kfDZps2sXKavjXx9._XOQSKcD8R5ITBmj)
-- ~~**Work Item Call - 13 Oct 2021 - (0800ET)~~ canceled
+- ~~**Work Item Call - 13 Oct 2021 - (0800ET)**~~ canceled
 - ~~**Work Item Call - 20 Oct 2021 - (0800ET)**~~ canceled
 - **Work Item Call - 27 Oct 2021 - (0800ET)**
 - ...
