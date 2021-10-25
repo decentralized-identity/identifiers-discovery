@@ -92,8 +92,15 @@ analyze other, related initiatives and specifications.
 - **Work Item Call - 29 Sep 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/5Tj-JXlDl2Q9zsg5OZzOKvbGmb_OxVXEoV-ADuHDavywIxYbnJeJwYVEEEg0fKT2.ahsmZIzZCd5s4UDu)
 - ~~**Work Item Call - 06 Oct 2021 - (1000ET)**~~ canceled
 - ~~**Work Item Call - 13 Oct 2021 - (1000ET)**~~ canceled
-- ~~**Work Item Call - 20 Oct 2021 - (1000ET)**~~
+- ~~**Work Item Call - 20 Oct 2021 - (1000ET)**~~ canceled
 - **Work Item Call - 27 Oct 2021 - (1000ET)**
+- **Work Item Call - 03 Nov 2021 - (1000ET)**
+- **Work Item Call - 10 Nov 2021 - (1000ET)**
+- **Work Item Call - 17 Nov 2021 - (1000ET)**
+- **Work Item Call - 24 Nov 2021 - (1000ET)**
+- **Work Item Call - 01 Dec 2021 - (1000ET)**
+- **Work Item Call - 08 Dec 2021 - (1000ET)**
+- **Work Item Call - 15 Dec 2021 - (1000ET)**
 - ...
 </details>
 
