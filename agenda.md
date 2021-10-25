@@ -104,7 +104,7 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## Meeting - 25 October 2021 - (1400 ET) canceled
+## Meeting - 25 October 2021 - (1400 ET)
 
 ### Agenda
 
