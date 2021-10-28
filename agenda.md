@@ -104,6 +104,20 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
+## Meeting - 08 November 2021 - (1400 ET)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. DIDs as personal data: https://hackmd.io/krdcNluqSnyv-hFdqpVRXQ
+7. Other topics?
+
+### Attendees
+
+* 
+
 ## Meeting - 25 October 2021 - (1400 ET)
 
 ### Agenda
@@ -118,7 +132,11 @@ analyze other, related initiatives and specifications.
 
 ### Attendees
 
-* 
+* Markus Sabadello
+* Alen Horvat
+* Kaliya
+* Tom Jones
+* Charles Lehner
 
 ## ~~Meeting - 11 October 2021 - (1400 ET)~~ canceled
 
