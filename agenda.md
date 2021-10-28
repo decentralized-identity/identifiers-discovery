@@ -118,7 +118,7 @@ analyze other, related initiatives and specifications.
 
 * 
 
-## Meeting - 25 October 2021 - (1400 ET)
+## Meeting - 25 October 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/2ZFSWdT_zr3mDkTjrkix1hUOFedffPPBIVy8_gMSl72NWjJdrhJnhBw0ElVHRJJE.nJ0YhL3CL7QAwkNz)
 
 ### Agenda
 
