@@ -25,7 +25,7 @@ In addition to the regular I&D WG meetings, we also hold Work Item Calls dedicat
 work items. Any work item lead can organize Work Item Calls about their work item.
 
 <details>
-<summary> Universal Resolver Work Item Call - <b>Wednesdays 0800 ET</b></summary>
+<summary> Universal Resolver Work Item Call - <b>Wednesdays 0800 ET (discontinued)</b></summary>
 
 <br>This weekly Work Item Call is dedicated to the [Universal Resolver](github.com/decentralized-identity/universal-resolver) work item.
 We discuss policy and governance topics (e.g. when to add/remove drivers), as well
