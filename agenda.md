@@ -104,7 +104,7 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## Meeting - 08 November 2021 - (1400 ET)
+## Meeting - 22 November 2021 - (1400 ET)
 
 ### Agenda
 
@@ -117,6 +117,8 @@ analyze other, related initiatives and specifications.
 ### Attendees
 
 * 
+
+## ~~Meeting - 08 November 2021 - (1400 ET)~~ canceled
 
 ## Meeting - 25 October 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/2ZFSWdT_zr3mDkTjrkix1hUOFedffPPBIVy8_gMSl72NWjJdrhJnhBw0ElVHRJJE.nJ0YhL3CL7QAwkNz)
 
