@@ -132,7 +132,7 @@ analyze other, related initiatives and specifications.
 
 * 
 
-## Meeting - 22 November 2021 - (1400 ET)
+## Meeting - 22 November 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/ZKlF60Mhejoa86trp8hpfj1lJJJ0-vQvaGEobbVhK5UbYgV-cSCY90wb5K8b-EQF.wY5vykbc5Zm_UqLH)
 
 ### Agenda
 
