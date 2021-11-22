@@ -135,13 +135,13 @@ analyze other, related initiatives and specifications.
     * Current status of did:keri 
         * Previously there was did:un, some features were not yet supported. Jolocom had an implementation of direct mode, the intention was to use it on mobile wallets.
         * Then the intention was to switch from did:un to a more robust implementation of did:keri, using some good learnings from the initial experimentation work.
-        * Some work it split across different environments, so besides a documentation effort there also needs to be some alignment.
+        * Some work is split across different environments, so besides a documentation effort there also needs to be some alignment.
         * The goal is to continue and further expand the work on the DID method specification, to figure out how all the KERI building blocks can be utilized together in a method spec.
         * In the future, the roadmap also includes globally resolvable (anywise) identifiers.
         * Some questions are still open, e.g.: How is a did:keri globally resolvable? How do I know what are the witnesses? How exactly do you contact the witness? How are different key purposes mapped to a key event log? How can additional metadata be associated with a DID? How do you implement discoverability?
-        * Does did:keri by itself make sense, or only "KERI in the context of an existing DID method (e.g. did:indy:keri)?
+        * Does did:keri by itself make sense, or only "KERI in the context of an existing DID method" (e.g. did:indy:keri)?
     * Next steps
-        * The work in the [KERI WG](https://github.com/decentralized-identity/keri) is in a special state. The goal is to "wrap" that current status of KERI so that the KERI spec work goes into a "sleep" state". There are two communities, one working in the Trust-over-IP Foundation (ToIP), one working at DIF.
+        * The work in the [KERI WG](https://github.com/decentralized-identity/keri) is in a special state. The goal is to "wrap" that current status of KERI so that the KERI spec work goes into a "sleep" state. There are two communities, one working in the Trust-over-IP Foundation (ToIP), one working at DIF.
         * The proposal is to contribute the KERI work itself to the [Applied Cryptography Working Group](https://github.com/decentralized-identity/crypto-wg/), and the did:keri work to the [Identifiers & Discovery Working Group](https://github.com/decentralized-identity/identifiers-discovery/) (this group).
 6. Other topics?
 
