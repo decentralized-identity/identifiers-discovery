@@ -111,7 +111,7 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. TBD
+4. (TBD) DIDs as personal data: https://hackmd.io/krdcNluqSnyv-hFdqpVRXQ
 5. Other topics?
 
 ### Attendees
@@ -125,7 +125,7 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. (TBD) DIDs as personal data: https://hackmd.io/krdcNluqSnyv-hFdqpVRXQ
+4. Continued discussion of `did:keri`
 5. `did:oyd` method introduction: content-based addressing, does not rely on a blockchain, using event log for updates
 6. Other topics?
 
