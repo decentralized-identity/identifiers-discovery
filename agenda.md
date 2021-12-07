@@ -118,21 +118,49 @@ analyze other, related initiatives and specifications.
 
 * 
 
-## Meeting - 06 December 2021 - (1400 ET)
+## Meeting - 06 December 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/aKMKVZC4MRSjxqdf9usYeU2mKpjJBDdutZ0SDdeINUzcRm2llb7Yo2dfynbdTb76.CajVWgByFicjN82s)
 
 ### Agenda
 
 1. Welcome and introductions
+    - Christoph (OwnYourData)
+    - Wolfgang Kampichler (OwnYourData)
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Vacation schedule?
 5. Continued discussion of `did:keri` and relation to other DID methods
+    * Work item: Type of identifiers this method supports and their intended use-cases (e.g., did:key)
+    * Other work items: How to incept KERI-based DIDs and DID Documents with multiple keys associated with them
+    * How to use events and how to use the KERI structure
+    * Independent KERI key rotation
+    * KERI and did:peer - efforts to align
+    * Q: Open topic: How does the method prove uniquness?
+    * KERI is described in a whitepaper. Goal: to summarise the core concepts and processing rules
+    * https://github.com/decentralized-identity/keri/tree/master/kids
+    * Q: Implementation maturity?
+      * Implementation by Jolocom (in Rust) - implements the core
+      * Other implementations - GO, Javascript
+    * Q: KERI resolution
+      * Multiple witnesses
+      * Direct/indirect approach
+      * Open question: how witnesses are defined? (public keys)
 6. `did:oyd` method introduction: content-based addressing, does not rely on a blockchain, using event log for updates
-7. Other topics?
+    * did:oyd (https://github.com/OwnYourData/did-cmd/blob/main/docs/did-spec.md)
+    * content-based addressing (verifiable mapping between DID and DID Document)
+    * Present 3 artefacts of did:oyd: DID, DID Document, Log (events)
+    * Presentation of the Create/Update/Deactivate methods
+    * Presentation of the cloning method
 
 ### Attendees
 
-* 
+* Eugeniu Rusu
+* Alen Horvat
+* Juan Caballero
+* Christoph Fabianek
+* Wolfgang Kampichler
+* David Waite
+* Joachim
+* Tom Jones
 
 ## Meeting - 22 November 2021 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/ZKlF60Mhejoa86trp8hpfj1lJJJ0-vQvaGEobbVhK5UbYgV-cSCY90wb5K8b-EQF.wY5vykbc5Zm_UqLH)
 
