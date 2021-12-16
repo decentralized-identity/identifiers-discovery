@@ -103,12 +103,12 @@ analyze other, related initiatives and specifications.
 - ~~**Work Item Call - 15 Dec 2021 - (1000ET)**~~ winter break
 - ~~**Work Item Call - 22 Dec 2021 - (1000ET)**~~ winter break
 - ~~**Work Item Call - 29 Dec 2021 - (1000ET)**~~ winter break
-- **Work Item Call - 05 Dec 2021 - (1000ET)**
-- **Work Item Call - 12 Dec 2021 - (1000ET)**
+- **Work Item Call - 05 Jan 2022 - (1000ET)**
+- **Work Item Call - 12 Jan 2022 - (1000ET)**
 - ...
 </details>
 
-## Meeting - 20 December 2021 - (1400 ET)
+## Meeting - 03 January 2022 - (1400 ET)
 
 ### Agenda
 
@@ -117,6 +117,24 @@ analyze other, related initiatives and specifications.
 3. Agenda creation/review/prioritization
 4. (TBD) DIDs as personal data: https://hackmd.io/krdcNluqSnyv-hFdqpVRXQ
 5. Other topics?
+
+### Attendees
+
+* 
+
+## Meeting - 20 December 2021 - (1400 ET)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Short updates regarding Universal Resolver
+    * CVE-2021-44228 log4j vulnerability
+    * Migration to Spring Boot: https://github.com/decentralized-identity/universal-resolver/issues/259
+5. Continued discussion of `did:keri`
+    * Witnesses and resolution
+6. Other topics?
 
 ### Attendees
 
