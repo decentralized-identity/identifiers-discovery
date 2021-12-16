@@ -100,7 +100,11 @@ analyze other, related initiatives and specifications.
 - ~~**Work Item Call - 24 Nov 2021 - (1000ET)**~~ canceled
 - ~~**Work Item Call - 01 Dec 2021 - (1000ET)**~~ canceled
 - **Work Item Call - 08 Dec 2021 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/_m722uOkFtanxQEusE97aKJHDnjqN4Cf0w-yqE9YxW2L8poLi_KvJNVOiq8YFSRM.oFQDB26PUGdlWpGP)
-- **Work Item Call - 15 Dec 2021 - (1000ET)**
+- ~~**Work Item Call - 15 Dec 2021 - (1000ET)**~~ winter break
+- ~~**Work Item Call - 22 Dec 2021 - (1000ET)**~~ winter break
+- ~~**Work Item Call - 29 Dec 2021 - (1000ET)**~~ winter break
+- **Work Item Call - 05 Dec 2021 - (1000ET)**
+- **Work Item Call - 12 Dec 2021 - (1000ET)**
 - ...
 </details>
 
