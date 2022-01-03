@@ -39,6 +39,7 @@ Current Work Items:
 | JSON-LD Document Loader | Code | [@OR13](https://github.com/OR13) | https://github.com/decentralized-identity/jsonld-document-loader |
 | DID Spec Extensions | Specs | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/did-spec-extensions |
 | Rust did:key Implementation | Code | [@tmarkovski](https://github.com/tmarkovski) | https://github.com/decentralized-identity/did-key.rs |
+| did:keri Method | Specs | [@Exulansis](https://github.com/Exulansis), [@chunningham](https://github.com/chunningham) | https://github.com/decentralized-identity/keri/tree/master/did_methods |
 
 Former Work Items:
 
