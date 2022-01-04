@@ -136,7 +136,7 @@ analyze other, related initiatives and specifications.
 
 * 
 
-## ~~Meeting - 20 December 2021 - (1400 ET)~~ winter break
+## ~~Meeting - 20 December 2021 - (1400 ET)~~ canceled
 
 ### Agenda
 
