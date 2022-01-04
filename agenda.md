@@ -108,7 +108,7 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## Meeting - 03 January 2022 - (1400 ET)
+## Meeting - 17 January 2022 - (1400 ET)
 
 ### Agenda
 
@@ -122,7 +122,21 @@ analyze other, related initiatives and specifications.
 
 * 
 
-## ~~Meeting - 20 December 2021 - (1400 ET)~~ canceled
+## ~~Meeting - 03 January 2022 - (1400 ET)~~ winter break
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. (TBD) DIDs as personal data: https://hackmd.io/krdcNluqSnyv-hFdqpVRXQ
+5. Other topics?
+
+### Attendees
+
+* 
+
+## ~~Meeting - 20 December 2021 - (1400 ET)~~ winter break
 
 ### Agenda
 
