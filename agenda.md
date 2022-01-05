@@ -103,8 +103,10 @@ analyze other, related initiatives and specifications.
 - ~~**Work Item Call - 15 Dec 2021 - (1000ET)**~~ winter break
 - ~~**Work Item Call - 22 Dec 2021 - (1000ET)**~~ winter break
 - ~~**Work Item Call - 29 Dec 2021 - (1000ET)**~~ winter break
-- **Work Item Call - 05 Jan 2022 - (1000ET)**
+- ~~**Work Item Call - 05 Jan 2022 - (1000ET)**~~ winter break
 - **Work Item Call - 12 Jan 2022 - (1000ET)**
+- **Work Item Call - 19 Jan 2022 - (1000ET)**
+- **Work Item Call - 26 Jan 2022 - (1000ET)**
 - ...
 </details>
 
