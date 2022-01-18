@@ -117,8 +117,9 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. (TBD) DIDs as personal data: https://hackmd.io/krdcNluqSnyv-hFdqpVRXQ
-5. Other topics?
+4. (TBD) Continue last week's discussion?
+5. (TBD) DIDs as personal data?: https://hackmd.io/krdcNluqSnyv-hFdqpVRXQ
+6. Other topics?
 
 ### Attendees
 
@@ -131,12 +132,29 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. [Daniel] Begin work on DID Authn and Authz DOM APIs as a first contribution to a set of Web platform enhancements
-5. Other topics?
+4. [Markus] Short update on W3C DID Core formal objections
+5. [Oliver] Short introduction to https://github.com/idp2p/idp2p
+6. [Daniel] Begin work on DID Authn and Authz DOM APIs as a first contribution to a set of Web platform enhancements
+    * Identity on the web is not great if you don't have an extension.
+    * It doesn't make sense to repeat the identity extension layer over and over again.
+    * Generic methods should be available to pages, e.g. a "navigator.did.\*" namespace
+    * Functions such as what DID methods are supported, does the user have a wallet, directed DID Auth support, key management, signing
+    * Overarching goal: Can we as a community ship a single extension? Enable vendors to have different UIs, but not constantly repeat the same thing over and over again. Vendors can differentiate and innovate on top of that.
+    * Community-maintained extension, ships with some basic UI, which can be replaced by vendors.
+    * Is this like Web3 Ethereum wallets, e.g. Metamask with snaps?
+    * For the ethereum ecosystem, this might be related: VC: https://github.com/veramolabs/credential-provider-eip, DID: https://eips.ethereum.org/EIPS/eip-2844.
+    * Make some things modular to allow for innovation, e.g. integrate with hardware, eIDAS, etc.
+    * Overlap with other projects, e.g. Universal Wallet, CHAPI.
+    * Also see presentation by Liam McCarty on 13 September 2021 about "Bridging Digital and Physical".
 
 ### Attendees
 
-* 
+* Markus Sabadello
+* Daniel Buchner
+* Brian Richter
+* Oliver Terbu
+* Tom Jones
+* Alen Horvat
 
 ## ~~Meeting - 03 January 2022 - (1400 ET)~~ winter break
 
