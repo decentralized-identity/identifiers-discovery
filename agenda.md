@@ -125,7 +125,7 @@ analyze other, related initiatives and specifications.
 
 * 
 
-## Meeting - 17 January 2022 - (1400 ET)
+## Meeting - 17 January 2022 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/8b1gYVIeCMccDnE0pDXWB-Qar4RWrhyxfr6CgoYFyJQDIh6G6TxFtV-vW-63zl4W.1nqBHo34Ggyi7M0G)
 
 ### Agenda
 
