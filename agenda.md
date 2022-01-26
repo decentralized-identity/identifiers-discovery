@@ -105,8 +105,13 @@ analyze other, related initiatives and specifications.
 - ~~**Work Item Call - 29 Dec 2021 - (1000ET)**~~ winter break
 - ~~**Work Item Call - 05 Jan 2022 - (1000ET)**~~ winter break
 - ~~**Work Item Call - 12 Jan 2022 - (1000ET)**~~ canceled
-- **Work Item Call - 19 Jan 2022 - (1000ET)**
-- **Work Item Call - 26 Jan 2022 - (1000ET)**
+- ~~**Work Item Call - 19 Jan 2022 - (1000ET)**~~ canceled
+- **Work Item Call - 26 Jan 2022 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/t-GgzYdUOVMymQCt3NVsySUJ9AdOhm6AL2eab2Kav0PlCV7jV2lkdipC9giri7_o.DkHPvwYJmkcxBWg4)
+- **Work Item Call - 02 Feb 2022 - (1000ET)**
+- **Work Item Call - 09 Feb 2022 - (1000ET)**
+- **Work Item Call - 16 Feb 2022 - (1000ET)**
+- **Work Item Call - 23 Feb 2022 - (1000ET)**
+- **Work Item Call - 30 Feb 2022 - (1000ET)**
 - ...
 </details>
 
