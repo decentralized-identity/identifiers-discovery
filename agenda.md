@@ -115,7 +115,7 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## Meeting - 31 January 2022 - (1400 ET)
+## Meeting - 31 January 2022 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/Znzkdg-N4zpNpzgV1_0fZdeh5ahGd2zY-Wul8sB83-hrQyryMnCw4QKgpCw46nDM.xPbqrABz8iw1c5uh)
 
 ### Agenda
 
@@ -123,11 +123,20 @@ analyze other, related initiatives and specifications.
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Community browser extension and abstract wallet architecture (continued topic from last week)
-5. Other topics?
+    * Discussion mobile wallet app vs. extension
+    * Extension comes with default, but other modules can replace certain parts, e.g. present a better dashboard
+    * Community defines the (sets of) basic functions, then we define an extensibility model, e.g. what modules can you plug in
+5. Presentations at DIFCON
+    * https://docs.google.com/spreadsheets/d/1iX-JgpPdJMRm_Ie62oicKgFNU21zbPAI8Xix4MuyCjE/
+    * https://docs.google.com/forms/d/e/1FAIpQLScvLp96rple1UaYp4LpGOGOjvoh-_KwuhIZjA7mtBaB8iOWqw/viewform
+7. Other topics?
 
 ### Attendees
 
-* 
+* Markus Sabadello
+* Chris Kelly
+* Daniel Buchner
+* Alen Horvat
 
 ## Meeting - 17 January 2022 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/8b1gYVIeCMccDnE0pDXWB-Qar4RWrhyxfr6CgoYFyJQDIh6G6TxFtV-vW-63zl4W.1nqBHo34Ggyi7M0G)
 
