@@ -108,7 +108,7 @@ analyze other, related initiatives and specifications.
 - ~~**Work Item Call - 19 Jan 2022 - (1000ET)**~~ canceled
 - **Work Item Call - 26 Jan 2022 - (1000ET)** [recording](https://us02web.zoom.us/rec/share/t-GgzYdUOVMymQCt3NVsySUJ9AdOhm6AL2eab2Kav0PlCV7jV2lkdipC9giri7_o.DkHPvwYJmkcxBWg4)
 - ~~**Work Item Call - 02 Feb 2022 - (1000ET)**~~ canceled
-- **Work Item Call - 09 Feb 2022 - (1100CET)**
+- **Work Item Call - 09 Feb 2022 - (1100CET)** [recording](https://us02web.zoom.us/rec/share/t-QjAnQoD1aQmRM5EHpfadhlUpgVuVUXTSs2MFAh3H7wzXrh91lFlYBKi0kRbJWH.zaIAjuf9P_hg8ouS)
 - **Work Item Call - 16 Feb 2022 - (1100CET)**
 - **Work Item Call - 23 Feb 2022 - (1100CET)**
 - **Work Item Call - 30 Feb 2022 - (1100CET)**
