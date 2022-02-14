@@ -115,7 +115,7 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## Meeting - 14 February 2022 - (1400 ET)
+## Meeting - 28 February 2022 - (1400 ET)
 
 ### Agenda
 
@@ -128,6 +128,8 @@ analyze other, related initiatives and specifications.
 ### Attendees
 
 * 
+
+## ~~Meeting - 14 February 2022 - (1400 ET)~~ - canceled
 
 ## Meeting - 31 January 2022 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/Znzkdg-N4zpNpzgV1_0fZdeh5ahGd2zY-Wul8sB83-hrQyryMnCw4QKgpCw46nDM.xPbqrABz8iw1c5uh)
 
