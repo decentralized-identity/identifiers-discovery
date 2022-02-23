@@ -110,7 +110,7 @@ analyze other, related initiatives and specifications.
 - ~~**Work Item Call - 02 Feb 2022 - (1000ET)**~~ canceled
 - **Work Item Call - 09 Feb 2022 - (1100CET)** [recording](https://us02web.zoom.us/rec/share/t-QjAnQoD1aQmRM5EHpfadhlUpgVuVUXTSs2MFAh3H7wzXrh91lFlYBKi0kRbJWH.zaIAjuf9P_hg8ouS)
 - **Work Item Call - 16 Feb 2022 - (1100CET)** [recording](https://us02web.zoom.us/rec/share/M6rPqP1mFmtbOhImhqYSSXU7wktGDfCBcUpi1K-ZO7PMLkerHmEHnPRGxoDJ425H.n9aJSQ3wcDMu2Dn6)
-- **Work Item Call - 23 Feb 2022 - (1100CET)**
+- ~~**Work Item Call - 23 Feb 2022 - (1100CET)**~~ canceled
 - **Work Item Call - 30 Feb 2022 - (1100CET)**
 - ...
 </details>
