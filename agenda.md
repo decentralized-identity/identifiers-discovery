@@ -119,7 +119,7 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## Meeting - 14 March 2022 - (1400 ET)
+## Meeting - 28 March 2022 - (1400 ET)
 
 ### Agenda
 
@@ -132,6 +132,28 @@ analyze other, related initiatives and specifications.
 ### Attendees
 
 * 
+
+## Meeting - 14 March 2022 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/IKRs_Xqvky8HVvMl_4TnydItPutAmO0_CP4PspsCpzdmIzwPBIyIVWxtUGrWtjIk.7YEbBWXRyekHWMqS)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. How to move from one DID method to another?
+    * Demonstation by Christoph of `did:oydid`
+    * Discussion of DID document (metadata) properties: `alsoKnownAs`, `equivalentId`, `canonicalId`
+    * Discussion of signing DIDs and DID documents
+    * `alsoKnownAs` is also used by Mastodon when moving accounts: https://docs.joinmastodon.org/spec/activitypub/
+    * `did:peer` has the concept of "grafting": https://identity.foundation/peer-did-method-spec/#grafting
+    * KERI is designed to move identifiers between different underlying systems
+6. Other topics?
+
+### Attendees
+
+* Markus Sabadello
+* Christoph
+* Brian Richter
 
 ## Meeting - 28 February 2022 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/zt45EfQ6BwqTeCCKL40QfRBAgZbvXHr5kSNoiIeZWi5w95LrR9HPnQ-muFhSzy_Y.hC208OpHEUF58eVm)
 
