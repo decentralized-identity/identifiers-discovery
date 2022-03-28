@@ -119,7 +119,7 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## Meeting - 28 March 2022 - (1400 ET)
+## Meeting - 04 April 2022 - (1400 ET)
 
 ### Agenda
 
@@ -132,6 +132,25 @@ analyze other, related initiatives and specifications.
 ### Attendees
 
 * 
+
+## Meeting - 28 March 2022 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/nEM4Sq8Nfc6gqQQYaebsuoZt9syLApVfByFRjCzqqnKUSSkH7cG7DncA4zYOr6vh.fcUxhhyLmYLotxI4)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. did:oydid Universal Registrar driver: https://github.com/decentralized-identity/universal-registrar/pull/53
+5. DID Registration specification: https://identity.foundation/did-registration/
+6. DID spec extension error codes for security policies: https://github.com/decentralized-identity/did-spec-extensions/#extension-errors
+7. Other topics?
+
+### Attendees
+
+* Markus Sabadello
+* Christoph
+* Chris Kelly
+* Lance Byrd
 
 ## Meeting - 14 March 2022 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/IKRs_Xqvky8HVvMl_4TnydItPutAmO0_CP4PspsCpzdmIzwPBIyIVWxtUGrWtjIk.7YEbBWXRyekHWMqS)
 
