@@ -119,7 +119,7 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## Meeting - 04 April 2022 - (1400 ET)
+## Meeting - 11 April 2022 - (1400 ET)
 
 ### Agenda
 
