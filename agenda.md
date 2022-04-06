@@ -116,7 +116,7 @@ analyze other, related initiatives and specifications.
 - **Work Item Call - 16 Mar 2022 - (1100CET)** [recording](https://us02web.zoom.us/rec/share/RwWPrFMMYHSalkYn_DpCEUgVgeFuSmRh2U2byfyx25aYPS1vy1ukKIaQsunY4CG7.Rf8gDUyw8ZYvTxLM)
 - ~~**Work Item Call - 23 Mar 2022 - (1100CET)**~~ canceled
 - ~~**Work Item Call - 30 Mar 2022 - (1100CET)**~~ canceled
-- **Work Item Call - 06 Apr 2022 - (1100CET)** 
+- **Work Item Call - 06 Apr 2022 - (1100CET)** [recording](https://us02web.zoom.us/rec/share/rTrzOM_nxTlscUkpXSQAUyviUiyKQOzNnyNtFN9BUtcTwoY1N4bvowZuzTYH-6EW.gsq2HoY4unD2thHR)
 - **Work Item Call - 13 Apr 2022 - (1100CET)** 
 - **Work Item Call - 20 Apr 2022 - (1100CET)** 
 - ...
