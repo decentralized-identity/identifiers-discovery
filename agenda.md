@@ -127,6 +127,20 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
+## Meeting - 23 May 2022 - (1400 ET)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. TBD
+5. Other topics?
+
+### Attendees
+
+* 
+
 ## Meeting - 09 May 2022 - (1400 ET)
 
 ### Agenda
@@ -134,12 +148,19 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. DIF comment on identifiers in the new Ecodesign for Sustainable Products Regulation: https://docs.google.com/document/d/1yMmu92iPWr7zBGjXUlgQhn3gGOwEiE59Iei1Y4stf7g/
-7. Other topics?
+4. Discussion about EU "Proposal for Ecodesign for Sustainable Products Regulation" - https://ec.europa.eu/environment/publications/proposal-ecodesign-sustainable-products-regulation_en
+5. DIF comment on identifiers in above proposal: https://docs.google.com/document/d/1yMmu92iPWr7zBGjXUlgQhn3gGOwEiE59Iei1Y4stf7g/
+6. Discussion about DIDs and GDPR, non-blockchain-based DID methods, "ephemeral" DID methods such as did:key, situation in various communities such as EBSI, IDuion
+7. Discussion about key recovery
+8. Discussion about key types, FIPS
+9. Approaches to who can update a DID document, guardian use cases
 
 ### Attendees
 
-* 
+* Markus Sabadello
+* Tom Jones
+* Paul Grehan
+* Keith Kowal
 
 ## ~~Meeting - 25 April 2022 - (1400 ET)~~ - canceled (due to IIW)
 
