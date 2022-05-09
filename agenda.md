@@ -141,7 +141,7 @@ analyze other, related initiatives and specifications.
 
 * 
 
-## Meeting - 09 May 2022 - (1400 ET)
+## Meeting - 09 May 2022 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/tbFm82xYU3yRi9e9fprIuWQK1n0spzYyX0VK_knfdt8w5kF-0baZHFxxNH3sZNjj.6qHBLCmYcbzC9bh_)
 
 ### Agenda
 
