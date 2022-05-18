@@ -120,9 +120,9 @@ analyze other, related initiatives and specifications.
 - **Work Item Call - 13 Apr 2022 - (1100CET)** [recording](https://us02web.zoom.us/rec/share/dExlgV6eXqL7r0BMasopmaJ82w824vrYNs2D-QNWWq3KNbZ80HUJdafVAybG3n_7.t7lE0nbSDo7pFVF3)
 - **Work Item Call - 20 Apr 2022 - (1100CET)** [recording](https://us02web.zoom.us/rec/share/z_q8mkY1yPG3GzurYnGfh9y9h_oLMiTD8hJiRUhSQbpZmSlBxH-D3FoRrV66vo0Z.Fmg4r0ErBlTQtmhQ)
 - ~~**Work Item Call - 27 Apr 2022 - (1100CET)**~~ canceled (due to IIW)
-- ~~**Work Item Call - 04 May 2022 - (1100CET)**~~
-- **Work Item Call - 11 May 2022 - (1100CET)**
-- **Work Item Call - 18 May 2022 - (1100CET)**
+- ~~**Work Item Call - 04 May 2022 - (1100CET)**~~ canceled
+- ~~**Work Item Call - 11 May 2022 - (1100CET)**~~ canceled
+- ~~**Work Item Call - 18 May 2022 - (1100CET)**~~ canceled
 - **Work Item Call - 25 May 2022 - (1100CET)**
 - ...
 </details>
