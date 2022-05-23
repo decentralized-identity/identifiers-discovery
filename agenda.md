@@ -127,19 +127,45 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## Meeting - 23 May 2022 - (1400 ET)
+## Meeting - 06 June 2022 - (1400 ET)
 
 ### Agenda
 
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. [Christoph] Displaying / rendering the content of a DID document 
+4. TBD
 5. Other topics?
 
 ### Attendees
 
 * 
+
+## Meeting - 23 May 2022 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/MEvJovrbEhoN2dBMAZNfMh1vMRa2zzanti7xVqZcewnBj4P1CLwNBNeJectG0Jk6.LCf8gblvHctOOqPQ)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Short discussion about EU Digital Identity Wallet, EBSI/ESSIF, eIDAS 2.0, VCs, ISO mDL, etc.
+5. [Christoph] Displaying / rendering the content of a DID document 
+    * Presentation of Semantic Overlay Architecture (SOyA), work done together with IDunion
+    * Definition of a data model using a .yml file, then transformation to different representations
+    * Demo of command line tool, and automatically rendered UI
+    * Some discussion about JSON-LD, RDF, content-addressing
+    * Use of overlays, SHACL
+    * Discussion about DID document data model, and how it could be modeled/transformed with SOyA
+6. Other topics?
+
+### Attendees
+
+* Chris Kelly
+* Markus Sabadello
+* Dan Bachenheimer
+* Christoph Fabianek
+* Tom Jones
+* Kabir Maiga
 
 ## Meeting - 09 May 2022 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/tbFm82xYU3yRi9e9fprIuWQK1n0spzYyX0VK_knfdt8w5kF-0baZHFxxNH3sZNjj.6qHBLCmYcbzC9bh_)
 
