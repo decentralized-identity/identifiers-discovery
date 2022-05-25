@@ -61,7 +61,7 @@ as technical topics (e.g. integration with the W3C DID test suite, monitoring, a
 </details>
 
 <details>
-<summary> DID Registration Work Item Call - <b>Wednesdays 1100 CET</b></summary>
+<summary> DID Registration Work Item Call - <b>Wednesdays 1100 CET (discontinued)</b></summary>
 
 <br>This weekly Work Item Call is dedicated to the [DID Registration](https://github.com/decentralized-identity/did-registration/) work item.
 We discuss scope and high-level architectural questions, work on the specification, and
