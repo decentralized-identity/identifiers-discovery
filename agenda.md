@@ -127,7 +127,7 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## Meeting - 20 June 2022 - (1400 ET)
+## Meeting - 04 July 2022 - (1400 ET)
 
 ### Agenda
 
@@ -140,6 +140,8 @@ analyze other, related initiatives and specifications.
 ### Attendees
 
 * 
+
+## ~~Meeting - 20 June 2022 - (1400 ET)~~ - canceled (due to travel)
 
 ## ~~Meeting - 06 June 2022 - (1400 ET)~~ - canceled (due to holidays)
 
