@@ -127,21 +127,13 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## Meeting - 18 July 2022 - (1400 ET)
+## ~~Meeting - 15 August 2022 - (1400 ET)~~ summer break
 
-### Agenda
+## ~~Meeting - 01 August 2022 - (1400 ET)~~ summer break
 
-1. Welcome and introductions
-2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
-3. Agenda creation/review/prioritization
-4. TBD
-5. Other topics?
+## ~~Meeting - 18 July 2022 - (1400 ET)~~ summer break
 
-### Attendees
-
-* 
-
-## ~~Meeting - 04 July 2022 - (1400 ET)~~ - canceled (due to holidays)
+## ~~Meeting - 04 July 2022 - (1400 ET)~~ summer break
 
 ## ~~Meeting - 20 June 2022 - (1400 ET)~~ - canceled (due to travel)
 
