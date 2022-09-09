@@ -127,7 +127,7 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## Meeting - 12 Sep 2022 - (1400 ET)
+## Meeting - 10 October Sep 2022 - (1400 ET)
 
 ### Agenda
 
@@ -142,6 +142,10 @@ analyze other, related initiatives and specifications.
 ### Attendees
 
 * 
+
+## ~~Meeting - 26 September 2022 - (1400 ET)~~ summer break
+
+## ~~Meeting - 12 September 2022 - (1400 ET)~~ summer break
 
 ## ~~Meeting - 29 August 2022 - (1400 ET)~~ summer break
 
