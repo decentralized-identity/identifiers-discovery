@@ -143,9 +143,9 @@ analyze other, related initiatives and specifications.
 
 * 
 
-## ~~Meeting - 26 September 2022 - (1400 ET)~~ summer break
+## ~~Meeting - 26 September 2022 - (1400 ET)~~ canceled due to Rebooting-the-Web-of-Trust 11
 
-## ~~Meeting - 12 September 2022 - (1400 ET)~~ summer break
+## ~~Meeting - 12 September 2022 - (1400 ET)~~ canceled due to W3C TPAC
 
 ## ~~Meeting - 29 August 2022 - (1400 ET)~~ summer break
 
