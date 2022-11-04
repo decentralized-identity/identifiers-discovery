@@ -13,7 +13,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 <summary> Meeting information - <b>Bi-weekly Mondays 1400 ET</b></summary>
 
 - Before your contribute - [**join DIF**](https://identity.foundation/join) and [sign the WG charter](https://bit.ly/DIF-WG-select1) (both are required!)
-- Time: Every second Monday, 14:00-15:00 ET
+- Time: Every other Monday, 14:00-15:00 ET
 - [Calendar entry](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWwzYmI3Y2c0aG9qdmt1Z2kxYzRtM2hsbjNfMjAyMTA5MjdUMTgwMDAwWiBkZWNlbnRyYWxpemVkLmlkZW50aXR5QG0&tmsrc=decentralized.identity%40gmail.com&scp=ALL)
 - [Zoom room](https://us02web.zoom.us/j/81528204613?pwd=eStBK1cxNFpwWU9SaHcwMEVUbzNpZz09), Meeting ID: 81528204613,
 Passcode: 908914
