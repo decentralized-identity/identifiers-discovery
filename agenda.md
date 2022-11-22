@@ -139,7 +139,7 @@ analyze other, related initiatives and specifications.
     * https://github.com/w3c-ccg/did-method-web/pull/63
 5. Other topics?
 
-## Meeting - 21 November Sep 2022 - (1400 ET)
+## Meeting - 21 November Sep 2022 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/T0emEKPUYH5jofA8EApaPnNou4C7geE__hCxs2oGI1r1Vf46QJJNKLrZiHM0MfSj.iZ7XtSb94zwHkt0R)
 
 ### Agenda
 
@@ -150,7 +150,7 @@ analyze other, related initiatives and specifications.
 5. DIDs with public key as identifier 
 6. Other topics?
 
-## Meeting - 07 November Sep 2022 - (1400 ET)
+## Meeting - 07 November Sep 2022 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/dA1CvIo5V0o2VP5q-wMJOERjVFPhuMUma-kXQRGY77uYa0NL8DPTxATYrjTOjwyB.cIAQ3H1EYGNt04MC)
 
 ### Agenda
 
