@@ -127,7 +127,7 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## Meeting - 05 December Sep 2022 - (1400 ET)
+## Meeting - 19 December Sep 2022 - (1400 ET)
 
 ### Agenda
 
@@ -138,6 +138,8 @@ analyze other, related initiatives and specifications.
     * https://github.com/w3c-ccg/did-method-web/issues/20
     * https://github.com/w3c-ccg/did-method-web/pull/63
 5. Other topics?
+
+## ~~Meeting - 05 December Sep 2022 - (1400 ET)~~ canceled
 
 ## Meeting - 21 November Sep 2022 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/T0emEKPUYH5jofA8EApaPnNou4C7geE__hCxs2oGI1r1Vf46QJJNKLrZiHM0MfSj.iZ7XtSb94zwHkt0R)
 
