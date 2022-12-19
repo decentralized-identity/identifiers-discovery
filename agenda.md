@@ -127,7 +127,7 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## Meeting - 19 December Sep 2022 - (1400 ET)
+## Meeting - 16 January 2023 - (1400 ET)
 
 ### Agenda
 
@@ -139,9 +139,29 @@ analyze other, related initiatives and specifications.
     * https://github.com/w3c-ccg/did-method-web/pull/63
 5. Other topics?
 
-## ~~Meeting - 05 December Sep 2022 - (1400 ET)~~ canceled
+## Meeting - 02 January 2023 - (1400 ET)
 
-## Meeting - 21 November Sep 2022 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/T0emEKPUYH5jofA8EApaPnNou4C7geE__hCxs2oGI1r1Vf46QJJNKLrZiHM0MfSj.iZ7XtSb94zwHkt0R)
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. [Christoph] DID Lint service available here: https://didlint.ownyourdata.eu
+5. Other topics?
+
+## Meeting - 19 December 2022 - (1400 ET)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. General discussion, roadmap, plans for 2023
+5. Other topics?
+
+## ~~Meeting - 05 December 2022 - (1400 ET)~~ canceled
+
+## Meeting - 21 November 2022 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/T0emEKPUYH5jofA8EApaPnNou4C7geE__hCxs2oGI1r1Vf46QJJNKLrZiHM0MfSj.iZ7XtSb94zwHkt0R)
 
 ### Agenda
 
@@ -152,7 +172,7 @@ analyze other, related initiatives and specifications.
 5. DIDs with public key as identifier 
 6. Other topics?
 
-## Meeting - 07 November Sep 2022 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/dA1CvIo5V0o2VP5q-wMJOERjVFPhuMUma-kXQRGY77uYa0NL8DPTxATYrjTOjwyB.cIAQ3H1EYGNt04MC)
+## Meeting - 07 November 2022 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/dA1CvIo5V0o2VP5q-wMJOERjVFPhuMUma-kXQRGY77uYa0NL8DPTxATYrjTOjwyB.cIAQ3H1EYGNt04MC)
 
 ### Agenda
 
@@ -163,9 +183,9 @@ analyze other, related initiatives and specifications.
 5. [Nikos, Antonio, others] Off-chain DIDs, KILT "light DIDs", did:self, ...
 6. Other topics?
 
-## ~~Meeting - 24 October Sep 2022 - (1400 ET)~~ canceled
+## ~~Meeting - 24 October 2022 - (1400 ET)~~ canceled
 
-## ~~Meeting - 10 October Sep 2022 - (1400 ET)~~ canceled
+## ~~Meeting - 10 October 2022 - (1400 ET)~~ canceled
 
 ## ~~Meeting - 26 September 2022 - (1400 ET)~~ canceled due to Rebooting-the-Web-of-Trust 11
 
