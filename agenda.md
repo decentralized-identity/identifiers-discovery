@@ -127,7 +127,7 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## Meeting - 16 January 2023 - (1400 ET)
+## Meeting - 30 January 2023 - (1400 ET)
 
 ### Agenda
 
@@ -139,7 +139,7 @@ analyze other, related initiatives and specifications.
     * https://github.com/w3c-ccg/did-method-web/pull/63
 5. Other topics?
 
-## Meeting - 02 January 2023 - (1400 ET)
+## Meeting - 16 January 2023 - (1400 ET)
 
 ### Agenda
 
@@ -148,6 +148,23 @@ analyze other, related initiatives and specifications.
 3. Agenda creation/review/prioritization
 4. [Christoph] DID Lint service available here: https://didlint.ownyourdata.eu
 5. Other topics?
+
+## Meeting - 02 January 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/iNt4O4pN3Ul05pfcusvsIlaGijlLNebpBBeWTckBFEdlcFjKirncc89JM6kCw2vo.LO_m7tnAL4451v0E)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Short discussion about DID Lint service available here: https://didlint.ownyourdata.eu
+   * Relationship to W3C DID test suite (https://github.com/w3c/did-test-suite/) and DIF Universal Resolver (https://github.com/decentralized-identity/universal-resolver)
+   * We will have a presentation by Christoph Fabianek about the DID Lint service on the next call
+
+### Attendees
+
+* Christoph Fabianek
+* Markus Sabadello
+* Jan
+* Sebastian Haas
 
 ## Meeting - 19 December 2022 - (1400 ET)
 
