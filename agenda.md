@@ -146,8 +146,9 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. [Christoph] DID Lint service available here: https://didlint.ownyourdata.eu
-5. Other topics?
+4. Note about "Grand Unified Theory of Trust" presentation by Daniel Hardman on 9 January 2023: https://us02web.zoom.us/rec/share/3T2MqVs6gUCnAosPzcegAPq_6dFN8i3zkuKI04nSlPnTaHTDs0tWusbX5G_-FH-Y.pS40kM3zazC_MaYz
+5. [Christoph] DID Lint - The DID Validator: https://didlint.ownyourdata.eu
+6. Other topics?
 
 ## Meeting - 02 January 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/iNt4O4pN3Ul05pfcusvsIlaGijlLNebpBBeWTckBFEdlcFjKirncc89JM6kCw2vo.LO_m7tnAL4451v0E)
 
