@@ -139,7 +139,7 @@ analyze other, related initiatives and specifications.
     * https://github.com/w3c-ccg/did-method-web/pull/63
 5. Other topics?
 
-## Meeting - 16 January 2023 - (1400 ET)
+## Meeting - 16 January 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/du6dAcLezEk8rmt4aanB0nOSXSaPyuVa6WU1ufMHyyf98UEDcSaOTns1nwLx1NY1.UPo6qLhaqs1M5yFJ)
 
 ### Agenda
 
