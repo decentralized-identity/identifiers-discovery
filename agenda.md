@@ -148,8 +148,26 @@ analyze other, related initiatives and specifications.
 3. Agenda creation/review/prioritization
 4. Quick note about "Grand Unified Theory of Trust" presentation by Daniel Hardman: https://us02web.zoom.us/rec/share/3T2MqVs6gUCnAosPzcegAPq_6dFN8i3zkuKI04nSlPnTaHTDs0tWusbX5G_-FH-Y.pS40kM3zazC_MaYz
 5. [Christoph] DID Lint - The DID Validator: https://didlint.ownyourdata.eu
+   * Based on SOyA (Semantic Overlay Architecture - https://www.ownyourdata.eu/en/soya/)
+   * Start with a data structure description, then transform it to JSON-LD and SHACL to perform validation
+   * Generic approach, can also be applied to VC, VP, etc.
+   * Some discussion about resolvers, DID Lint could be integrated into a CI/CD pipeline
+   * Can be run as API, or locally as Docker container
+   * Discussion about relationship to DID test suite (https://github.com/w3c/did-test-suite/)
 6. Other topics?
 
+### Attendees
+
+* Christoph Fabianek
+* Sebastian Haas
+* Markus Sabadello
+* Bernhard Fuchs
+* Jan Lindquist
+* Rob Aaron
+* Tom Jones
+* Toni Akinjiola
+* Veikko E
+   
 ## Meeting - 02 January 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/iNt4O4pN3Ul05pfcusvsIlaGijlLNebpBBeWTckBFEdlcFjKirncc89JM6kCw2vo.LO_m7tnAL4451v0E)
 
 ### Agenda
