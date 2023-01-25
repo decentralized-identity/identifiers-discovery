@@ -140,7 +140,9 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. TBD
+4. Timing issues and guarantees
+   * Time of rotating and revoking keys in DID documents (versionId, versionTime, etc.)
+   * Time of credential issuance (validFrom, validUntil, iat, exp, etc.)
 5. Other topics?
 
 ## Meeting - 16 January 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/du6dAcLezEk8rmt4aanB0nOSXSaPyuVa6WU1ufMHyyf98UEDcSaOTns1nwLx1NY1.UPo6qLhaqs1M5yFJ)
