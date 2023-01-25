@@ -127,6 +127,12 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
+## Future Topics
+
+* Advanced did:web topics, e.g.:
+    * https://github.com/w3c-ccg/did-method-web/issues/20
+    * https://github.com/w3c-ccg/did-method-web/pull/63
+
 ## Meeting - 30 January 2023 - (1400 ET)
 
 ### Agenda
@@ -134,9 +140,7 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. Advanced did:web topics, e.g.:
-    * https://github.com/w3c-ccg/did-method-web/issues/20
-    * https://github.com/w3c-ccg/did-method-web/pull/63
+4. TBD
 5. Other topics?
 
 ## Meeting - 16 January 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/du6dAcLezEk8rmt4aanB0nOSXSaPyuVa6WU1ufMHyyf98UEDcSaOTns1nwLx1NY1.UPo6qLhaqs1M5yFJ)
