@@ -133,7 +133,7 @@ analyze other, related initiatives and specifications.
     * https://github.com/w3c-ccg/did-method-web/issues/20
     * https://github.com/w3c-ccg/did-method-web/pull/63
 
-## Meeting - 30 January 2023 - (1400 ET)
+## Meeting - 30 January 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/RoL3Ld5ifJ1Up8MLIFcLtabS-id0PNelCdevxuryub2Qow9w5HagGn-na1mYWqrS.C-SczwBNMk_xsjC8)
 
 ### Agenda
 
@@ -144,6 +144,14 @@ analyze other, related initiatives and specifications.
    * Time of rotating and revoking keys in DID documents (versionId, versionTime, etc.)
    * Time of credential issuance (validFrom, validUntil, iat, exp, etc.)
 5. Other topics?
+
+### Attendees
+
+* Alen Horvat
+* Christoph Fabianek
+* Toni Akinjiola
+* Salustiano Zavalía
+* Angeles Costarelli
 
 ## Meeting - 16 January 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/du6dAcLezEk8rmt4aanB0nOSXSaPyuVa6WU1ufMHyyf98UEDcSaOTns1nwLx1NY1.UPo6qLhaqs1M5yFJ)
 
