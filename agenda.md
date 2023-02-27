@@ -133,6 +133,20 @@ analyze other, related initiatives and specifications.
     * https://github.com/w3c-ccg/did-method-web/issues/20
     * https://github.com/w3c-ccg/did-method-web/pull/63
 
+## Meeting - 13 March 2023 - (1400 ET)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. [Cheqd] New Universal Registrar driver for did:cheqd: https://docs.cheqd.io/identity/architecture/adr-list/adr-004-did-registrar
+5. Other topics?
+
+### Attendees
+
+* 
+
 ## Meeting - 27 February 2023 - (1400 ET)
 
 ### Agenda
@@ -140,8 +154,9 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. [Daev Mithran from Cheqd] New Universal Registrar driver for did:cheqd: https://docs.cheqd.io/identity/architecture/adr-list/adr-004-did-registrar
-5. Other topics?
+4. New Universal Registrar driver for did:cheqd
+5. DID document validation
+6. Other topics?
 
 ### Attendees
 
