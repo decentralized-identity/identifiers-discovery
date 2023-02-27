@@ -145,9 +145,9 @@ analyze other, related initiatives and specifications.
 
 ### Attendees
 
-* 
+*
 
-## Meeting - 27 February 2023 - (1400 ET)
+## Meeting - 27 February 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/ekXoiTCtYPjEQA8wrNG3sIYk87WDuuk2j3YhQIi2f3X-hPf1nXFf4NhUhQgN9UoU.G5lO8XnZygkgkDIo)
 
 ### Agenda
 
@@ -155,12 +155,24 @@ analyze other, related initiatives and specifications.
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. New Universal Registrar driver for did:cheqd
-5. DID document validation
-6. Other topics?
+5. Driver development for Universal Resolver and Universal Registrar
+   * https://github.com/decentralized-identity/universal-resolver/blob/main/docs/driver-development.md
+   * https://github.com/decentralized-identity/universal-registrar/blob/main/docs/driver-development.md
+6. Continued discussion about versionTime parameter, in combination with timestamping service on a VC
+7. DID document validation with DID Lint
+   * Discussion about integrating DID Lint with Universal Resolver, to highlight problems with methods/drivers
+   * Use of Github actions and Github pages
+   * Structure of a .json file with DID Lint results
+   * https://didlint.ownyourdata.eu/
+8. Other topics?
 
 ### Attendees
 
-* 
+* Markus Sabadello
+* Toni Akinjiola
+* Angeles Costarelli
+* Christoph Fabianek
+* Fábio Pinheiro
 
 ## ~~Meeting - 13 February 2023 - (1400 ET)~~ canceled
 
