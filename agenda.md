@@ -147,19 +147,26 @@ analyze other, related initiatives and specifications.
 
 *
 
-## Meeting - 13 March 2023 - (1400 ET)
+## Meeting - 13 March 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/YFMe6yOdTSIZNCxo2g1zNGOBoz3hAMuMpqEGcmdIgf53em-zStkL-1NXeZxCsaox.OEwDYP0vrFABthNj)
 
 ### Agenda
 
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. [Cheqd] New Universal Registrar driver for did:cheqd: https://docs.cheqd.io/identity/architecture/adr-list/adr-004-did-registrar
-5. Other topics?
+4. [Cheqd] New Universal Registrar driver for did:cheqd:
+   * https://docs.cheqd.io/identity/architecture/adr-list/adr-004-did-registrar
+   * https://did-registrar.cheqd.net/api-docs/
+6. Other topics?
 
 ### Attendees
 
-*
+* Markus Sabadello
+* Tom Jones
+* Toni Akinjiola
+* Ankur Banerjee
+* Fábio Pinheiro
+* Angeles Costarelli
 
 ## Meeting - 27 February 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/ekXoiTCtYPjEQA8wrNG3sIYk87WDuuk2j3YhQIi2f3X-hPf1nXFf4NhUhQgN9UoU.G5lO8XnZygkgkDIo)
 
