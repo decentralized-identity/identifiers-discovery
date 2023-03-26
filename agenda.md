@@ -169,7 +169,7 @@ analyze other, related initiatives and specifications.
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. DIDs for legal entities and natural persons
-   * GDPR, unlinking VCs from DIDs, account abstraction, ZKs, 
+   * GDPR, unlinking VCs from DIDs, account abstraction, ZKs, etc.
 5. Other topics?
 
 ### Attendees
