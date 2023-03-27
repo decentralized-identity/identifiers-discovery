@@ -161,7 +161,7 @@ analyze other, related initiatives and specifications.
 
 *
 
-## Meeting - 27 March 2023 - (1400 ET)
+## Meeting - 27 March 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/jWzfajvOv6o1V91RaqO01Yknz7I4oRTt3PgWqYZJBWggoyK5nlVCr_uhzBSaTgw8.NDk1S-IUwxHCW7Jd)
 
 ### Agenda
 
@@ -170,11 +170,18 @@ analyze other, related initiatives and specifications.
 3. Agenda creation/review/prioritization
 4. DIDs for legal entities and natural persons
    * GDPR, unlinking VCs from DIDs, account abstraction, ZKs, etc.
-5. Other topics?
+5. Introduction of `did:polygonid` by Otto Mora
+6. Other topics?
 
 ### Attendees
 
-*
+* Markus Sabadello
+* Otto Mora
+* Christoph Fabianek
+* Clare Nelson
+* Juan Caballero
+* Limari Navarrete
+* Toni Akinjiola
 
 ## Meeting - 13 March 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/YFMe6yOdTSIZNCxo2g1zNGOBoz3hAMuMpqEGcmdIgf53em-zStkL-1NXeZxCsaox.OEwDYP0vrFABthNj)
 
