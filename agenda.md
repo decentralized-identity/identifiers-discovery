@@ -147,7 +147,7 @@ analyze other, related initiatives and specifications.
 
 *
 
-## Meeting - 10 April 2023 - (1400 ET)
+## ~~Meeting - 10 April 2023 - (1400 ET)~~ canceled due to vacation
 
 ### Agenda
 
