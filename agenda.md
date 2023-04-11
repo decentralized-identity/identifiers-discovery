@@ -299,7 +299,7 @@ analyze other, related initiatives and specifications.
 * Jan
 * Sebastian Haas
 
-## Meeting - 19 December 2022 - (1400 ET)
+## Meeting - 19 December 2022 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/wWqh5QeNY56uluQzB6XH4CRFcTk_f_I7nJPQxWruwhzem0vvFjdtnFORNOSfQLlB.xTRApx-MVpSumYPz)
 
 ### Agenda
 
