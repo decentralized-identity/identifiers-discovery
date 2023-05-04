@@ -140,7 +140,7 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. TBD
+4. [Brian Richter] Bitcoin Ordinals DID Method (did:btco)
 5. Other topics?
 
 ### Attendees
@@ -149,31 +149,7 @@ analyze other, related initiatives and specifications.
 
 ## ~~Meeting - 24 April 2023 - (1400 ET)~~ canceled
 
-### Agenda
-
-1. Welcome and introductions
-2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
-3. Agenda creation/review/prioritization
-4. TBD
-5. Other topics?
-
-### Attendees
-
-*
-
 ## ~~Meeting - 10 April 2023 - (1400 ET)~~ canceled due to vacation
-
-### Agenda
-
-1. Welcome and introductions
-2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
-3. Agenda creation/review/prioritization
-4. TBD
-5. Other topics?
-
-### Attendees
-
-*
 
 ## Meeting - 27 March 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/jWzfajvOv6o1V91RaqO01Yknz7I4oRTt3PgWqYZJBWggoyK5nlVCr_uhzBSaTgw8.NDk1S-IUwxHCW7Jd)
 
