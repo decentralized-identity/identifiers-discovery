@@ -133,7 +133,7 @@ analyze other, related initiatives and specifications.
     * https://github.com/w3c-ccg/did-method-web/issues/20
     * https://github.com/w3c-ccg/did-method-web/pull/63
 
-## Meeting - 19 Jun 2023 - (1400 ET)
+## Meeting - 19 Jun 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/c-ku5hzSmTsvJ9SH0Jo8w0F0UQIUAf5iiaVIzc7WGSN9kCjG0wd2rOZZXVsRhDev.FUVxB1qLgMAEIHBy)
 
 ### Agenda
 
@@ -142,11 +142,18 @@ analyze other, related initiatives and specifications.
 3. New work item proposal: Agenda creation/review/prioritization
 4. Conversation on DIDs and Nostr at 1500 ET: https://meet.jit.si/ImagineNostrAndDIDs
 5. JSON Schema for DID documents
-6. Other topics?
+6. Discussion about Proof of Humanity / Proof of Personhood
+7. Other topics?
 
 ### Attendees
 
-* 
+* Markus Sabadello
+* Andor Kesselman
+* Christoph Fabianek
+* Alen Horvat
+* Clare Nelson
+* Otto Mora
+* Toni Akinjiola
 
 ## ~~Meeting - 05 Jun 2023 - (1400 ET)~~ canceled
 
