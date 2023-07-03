@@ -133,15 +133,30 @@ analyze other, related initiatives and specifications.
     * https://github.com/w3c-ccg/did-method-web/issues/20
     * https://github.com/w3c-ccg/did-method-web/pull/63
 
+## Meeting - 03 Jul 2023 - (1400 ET)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Update on JSON Schema for DID documents?
+5. [Christoph] DID document validation approaches with SHACL, JSON Schema, JSOn-LD
+6. Other topics?
+
+### Attendees
+
+* 
+
 ## Meeting - 19 Jun 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/c-ku5hzSmTsvJ9SH0Jo8w0F0UQIUAf5iiaVIzc7WGSN9kCjG0wd2rOZZXVsRhDev.FUVxB1qLgMAEIHBy)
 
 ### Agenda
 
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
-3. New work item proposal: Agenda creation/review/prioritization
+3. Agenda creation/review/prioritization
 4. Conversation on DIDs and Nostr at 1500 ET: https://meet.jit.si/ImagineNostrAndDIDs
-5. JSON Schema for DID documents
+5. New work item proposal: JSON Schema for DID documents
 6. Discussion about Proof of Humanity / Proof of Personhood
 7. Other topics?
 
