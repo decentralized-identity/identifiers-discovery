@@ -133,20 +133,31 @@ analyze other, related initiatives and specifications.
     * https://github.com/w3c-ccg/did-method-web/issues/20
     * https://github.com/w3c-ccg/did-method-web/pull/63
 
-## Meeting - 03 Jul 2023 - (1400 ET)
+## Meeting - 03 Jul 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/K9jYJGmeLb7DQ3YmPDcjta5muxk9XpsyullDoYZDCNNGhw4srJP_hx2N9oT4Bfk.HK7GdRgqDQQE8aej)
 
 ### Agenda
 
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. Update on JSON Schema for DID documents?
+4. Update on JSON Schema for DID documents
 5. [Christoph] DID document validation approaches with SHACL, JSON Schema, JSON-LD
-6. Other topics?
+   * DID Document validation through API endpoints (interim solution):
+   * with SHACL: https://didlint.ownyourdata.eu/api/validate_shacl/did:oyd:zQmYc4PjcDZde9NmAb2WPFHZqt6WFdY4tSA37moJgtR3agj
+   * definition: https://soya.ownyourdata.eu/Did/yaml
+   * with JSON-Schema: https://didlint.ownyourdata.eu/api/validate_json-schema/did:oyd:zQmYc4PjcDZde9NmAb2WPFHZqt6WFdY4tSA37moJgtR3agj
+   * definition: https://github.com/w3c/did-spec-registries/blob/main/json_schemas/core.schema.json
+   * for JSON-LD compliance: https://didlint.ownyourdata.eu/api/validate_jsonld/did:algo:c93fdef1-8a0a-4c65-8c54-fd33117c9e82
+   * based on: https://json-ld.org/playground/
+   * YAML templating: https://www.json2yaml.com/
+7. Other topics?
 
 ### Attendees
 
-* 
+* Markus Sabadello
+* Andor Kesselman
+* Christoph Fabianek
+* Toni Akinjiola
 
 ## Meeting - 19 Jun 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/c-ku5hzSmTsvJ9SH0Jo8w0F0UQIUAf5iiaVIzc7WGSN9kCjG0wd2rOZZXVsRhDev.FUVxB1qLgMAEIHBy)
 
