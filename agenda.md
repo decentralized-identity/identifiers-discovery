@@ -141,7 +141,7 @@ analyze other, related initiatives and specifications.
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Update on JSON Schema for DID documents?
-5. [Christoph] DID document validation approaches with SHACL, JSON Schema, JSOn-LD
+5. [Christoph] DID document validation approaches with SHACL, JSON Schema, JSON-LD
 6. Other topics?
 
 ### Attendees
