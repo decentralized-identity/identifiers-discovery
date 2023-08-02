@@ -137,7 +137,23 @@ analyze other, related initiatives and specifications.
 
 ## Meeting - 14 Aug 2023 - (1400 ET)
 
-## Meeting - 31 Jul 2023 - (1400 ET)
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Special Topic: BlueSky and did:plc (Bryan Newbold)
+   * Opening up did:plc to more people (e.g. Universal Resolver or other ways)
+   * Improving the did:plc method to accommodate more use cases
+   * Better ways to alias a DID to things like handles
+   * Schema validation for DID documents (e.g. https://didlint.ownyourdata.eu/)
+5. Other topics?
+
+### Attendees
+
+* 
+
+## ~~Meeting - 31 Jul 2023 - (1400 ET)~~ canceled
 
 ## ~~Meeting - 17 Jul 2023 - (1400 ET)~~ canceled
 
