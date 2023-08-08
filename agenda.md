@@ -147,8 +147,8 @@ analyze other, related initiatives and specifications.
    * Improving the did:plc method to accommodate more use cases
    * Better ways to alias a DID to things like handles
    * Schema validation for DID documents (e.g. https://didlint.ownyourdata.eu/)
-   * legal/organizational structures for governing the did:plc directory service
-   * technical/organization methods to reduce the potential for abuse of the centralized service
+   * Legal/organizational structures for governing the did:plc directory service
+   * Technical/organization methods to reduce the potential for abuse of the centralized service
 5. Other topics?
 
 ### Attendees
