@@ -145,6 +145,7 @@ analyze other, related initiatives and specifications.
    * Integration with Universal Registrar
 5. (JC Ebersbach) Browser plugin that displays and verifies DIDs and VCs from .well-known
    * Started as a project during did:hack
+   * https://github.com/identinet/identinet-plugin
 7. Other topics?
 
 ### Attendees
