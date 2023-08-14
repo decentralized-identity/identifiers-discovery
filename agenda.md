@@ -152,7 +152,7 @@ analyze other, related initiatives and specifications.
 
 * 
 
-## Meeting - 14 Aug 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/lKcgDmA4C4ufmR-Fi-WnT1EwqDT80RXg8HcH5cUoPsolmVfJmWz609FHTI8D_HTo.RF-hr1eKj8A_qaK9)
+## Meeting - 14 Aug 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/fGLjVdDgqEdoa8uVFncE2B1WSWTYL3s-HBiZrj6EQ7lq2dJS7KXVfBYZ6mBppPKQ.JhKt-DhXkv3DzLDV)
 
 ### Agenda
 
