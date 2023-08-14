@@ -152,7 +152,7 @@ analyze other, related initiatives and specifications.
 
 * 
 
-## Meeting - 14 Aug 2023 - (1400 ET)
+## Meeting - 14 Aug 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/lKcgDmA4C4ufmR-Fi-WnT1EwqDT80RXg8HcH5cUoPsolmVfJmWz609FHTI8D_HTo.RF-hr1eKj8A_qaK9)
 
 ### Agenda
 
@@ -160,17 +160,25 @@ analyze other, related initiatives and specifications.
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Special Topic: BlueSky and did:plc (Bryan Newbold)
-   * Opening up did:plc to more people (e.g. Universal Resolver or other ways)
-   * Improving the did:plc method to accommodate more use cases
-   * Better ways to alias a DID to things like handles
-   * Schema validation for DID documents (e.g. https://didlint.ownyourdata.eu/)
-   * Legal/organizational structures for governing the did:plc directory service
-   * Technical/organization methods to reduce the potential for abuse of the centralized service
-5. Other topics?
+   * https://github.com/bluesky-social/did-method-plc
+   * https://plc.directory/did:plc:44ybard66vv44zksje25o7dz
+   * https://plc.directory/did:plc:44ybard66vv44zksje25o7dz/log/audit
+bryan@blueskyweb.xyz
+5. did:web Improvement Proposals (Dmitri Zagidulin)
+   * https://docs.google.com/presentation/d/1_Iy7W3ONnVUvunH6MTX13bup0Kiy5zC1XG8DGLCqX_I/
 
 ### Attendees
 
-* 
+* Markus Sabadello
+* Dmitri Zagidulin
+* Bryan Newbold
+* Benjamin Goering
+* Christoph Fabianek
+* Clare Nelson
+* Denver Naicker
+* Limari
+* Wendy Seltzer
+* bumblefudge
 
 ## ~~Meeting - 31 Jul 2023 - (1400 ET)~~ canceled
 
