@@ -133,6 +133,32 @@ analyze other, related initiatives and specifications.
     * https://github.com/w3c-ccg/did-method-web/issues/20
     * https://github.com/w3c-ccg/did-method-web/pull/63
 
+## Meeting - 25 Sep 2023 - (1400 ET)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. ...
+
+### Attendees
+
+* 
+
+## Meeting - 11 Sep 2023 - (1400 ET)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. ...
+
+### Attendees
+
+* 
+
 ## Meeting - 28 Aug 2023 - (1400 ET)
 
 ### Agenda
@@ -146,7 +172,7 @@ analyze other, related initiatives and specifications.
 5. (JC Ebersbach) Browser plugin that displays and verifies DIDs and VCs from .well-known
    * Started as a project during did:hack
    * https://github.com/identinet/identinet-plugin
-7. Other topics?
+6. Other topics?
 
 ### Attendees
 
