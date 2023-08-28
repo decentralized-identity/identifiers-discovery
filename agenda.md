@@ -244,6 +244,7 @@ bryan@blueskyweb.xyz
 * Andor Kesselman
 * Christoph Fabianek
 * Toni Akinjiola
+* Przemek
 
 ## Meeting - 19 Jun 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/c-ku5hzSmTsvJ9SH0Jo8w0F0UQIUAf5iiaVIzc7WGSN9kCjG0wd2rOZZXVsRhDev.FUVxB1qLgMAEIHBy)
 
