@@ -186,6 +186,7 @@ analyze other, related initiatives and specifications.
 * Sam Curren
 * DNaicker
 * Toni Akinjiola
+* Przemek Praszczalek
 
 ## Meeting - 14 Aug 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/fGLjVdDgqEdoa8uVFncE2B1WSWTYL3s-HBiZrj6EQ7lq2dJS7KXVfBYZ6mBppPKQ.JhKt-DhXkv3DzLDV)
 
