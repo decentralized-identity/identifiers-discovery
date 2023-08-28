@@ -157,13 +157,18 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. ...
+4. (JC Ebersbach) Lifecycle of did:web identifiers
+   * CRUD operations for did:web
+   * Integration with Universal Registrar
+5. (JC Ebersbach) Browser plugin that displays and verifies DIDs and VCs from .well-known
+   * Started as a project during did:hack
+   * https://github.com/identinet/identinet-plugin
 
 ### Attendees
 
 * 
 
-## Meeting - 28 Aug 2023 - (1400 ET)
+## Meeting - 28 Aug 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/GIXG6jGtX2DtWEieQdq0FgX9QiorMWN2E0fwOTqzCVBKMBcTZwnjQEVP4Y_bTIIn.fQiCiNjjUiSgahAW)
 
 ### Agenda
 
@@ -172,13 +177,7 @@ analyze other, related initiatives and specifications.
 3. Agenda creation/review/prioritization
 4. (Sam) Expressing support for DID methods
    * https://hackmd.io/qz2Mbx7_RuOVLf9YQnz_rA?view
-5. (JC Ebersbach) Lifecycle of did:web identifiers
-   * CRUD operations for did:web
-   * Integration with Universal Registrar
-6. (JC Ebersbach) Browser plugin that displays and verifies DIDs and VCs from .well-known
-   * Started as a project during did:hack
-   * https://github.com/identinet/identinet-plugin
-7. Other topics?
+5. Other topics?
 
 ### Attendees
 
