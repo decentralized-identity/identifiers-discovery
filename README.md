@@ -40,6 +40,7 @@ Current Work Items:
 | DID Spec Extensions | Specs | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/did-spec-extensions |
 | Rust did:key Implementation | Code | [@tmarkovski](https://github.com/tmarkovski) | https://github.com/decentralized-identity/did-key.rs |
 | DID Registration | Specs | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/did-registration |
+| DID Method Enumeration | Specs | [@TelegramSam](https://github.com/TelegramSam) | https://github.com/decentralized-identity/did-method-enum |
 
 Former Work Items:
 
