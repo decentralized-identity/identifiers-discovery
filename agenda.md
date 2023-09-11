@@ -145,6 +145,7 @@ analyze other, related initiatives and specifications.
     * How to decentralize did:plc
     * What an improved version of did:web would look like
     * ...
+5. Other topics?
 
 ### Attendees
 
@@ -163,6 +164,7 @@ analyze other, related initiatives and specifications.
 5. (JC Ebersbach) Browser plugin that displays and verifies DIDs and VCs from .well-known
    * Started as a project during did:hack
    * https://github.com/identinet/identinet-plugin
+6. Other topics?
 
 ### Attendees
 
