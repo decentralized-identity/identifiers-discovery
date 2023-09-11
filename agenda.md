@@ -151,7 +151,7 @@ analyze other, related initiatives and specifications.
 
 * 
 
-## Meeting - 11 Sep 2023 - (1400 ET)
+## Meeting - 11 Sep 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/ho9LNlP-7O_DBLqZ1fJwar3VnUiowfBxkgwmLVvcmB6FsoNr5Hi-EfAZP_jilFZ7.mmWtxunIlTOj3Rpk)
 
 ### Agenda
 
@@ -161,6 +161,7 @@ analyze other, related initiatives and specifications.
 4. (JC Ebersbach) Lifecycle of did:web identifiers
    * CRUD operations for did:web
    * Integration with Universal Registrar
+   * Slides: https://slidesdown.github.io/?slides=github.com/identinet/identinet-plugin/SLIDES_2.md#/dif-presentation-crud-for-didweb-and-verifiable-websites
 5. (JC Ebersbach) Browser plugin that displays and verifies DIDs and VCs from .well-known
    * Started as a project during did:hack
    * https://github.com/identinet/identinet-plugin
@@ -168,7 +169,12 @@ analyze other, related initiatives and specifications.
 
 ### Attendees
 
-* 
+* JC Ebersach
+* Lance B
+* Sam Curren
+* Markus Sabadello
+* Patrick Herbke
+* Tom Jones
 
 ## Meeting - 28 Aug 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/GIXG6jGtX2DtWEieQdq0FgX9QiorMWN2E0fwOTqzCVBKMBcTZwnjQEVP4Y_bTIIn.fQiCiNjjUiSgahAW)
 
