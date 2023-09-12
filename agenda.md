@@ -161,7 +161,8 @@ analyze other, related initiatives and specifications.
 4. (JC Ebersbach) Lifecycle of did:web identifiers
    * CRUD operations for did:web
    * Integration with Universal Registrar
-   * Slides: https://slidesdown.github.io/?slides=github.com/identinet/identinet-plugin/SLIDES_2.md#/dif-presentation-crud-for-didweb-and-verifiable-websites
+   * Slides: https://slidesdown.github.io/?slides=https%3A%2F%2Fgist.githubusercontent.com%2Fjceb%2F4bfcfdcddd2020e5b7e521b9e1044f3b%2Fraw
+   * Gist: https://gist.github.com/jceb/4bfcfdcddd2020e5b7e521b9e1044f3b
 5. (JC Ebersbach) Browser plugin that displays and verifies DIDs and VCs from .well-known
    * Started as a project during did:hack
    * https://github.com/identinet/identinet-plugin
