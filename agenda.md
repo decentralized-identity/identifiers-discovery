@@ -133,23 +133,99 @@ analyze other, related initiatives and specifications.
     * https://github.com/w3c-ccg/did-method-web/issues/20
     * https://github.com/w3c-ccg/did-method-web/pull/63
 
-## Meeting - 25 Sep 2023 - (1400 ET)
+## Meeting - 09 Oct 2023 - (1400 ET)
 
 ### Agenda
 
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. (Bryan Newbold, Dmitri Zagidulin, others) Continue discussion about did:plc, did:web(s), etc.
-    * How ideas from did:plc can be used by other DID methods
-    * How to decentralize did:plc
-    * What an improved version of did:web would look like
-    * ...
+4. ...
 5. Other topics?
 
 ### Attendees
 
 * 
+
+## Meeting - 25 Sep 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/HVgZ5nNvE0FsGOQY1KbVagxbN3losTJw_Pe2FgQFXTHN9LWKCZfP8DEGwPxpgPYs.TpTg-vfwwQxdGtCt)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. (Bryan Newbold, Dmitri Zagidulin, Alex Colgan, others) Continue discussion about did:plc, did:web(s), etc.
+   - links:
+       - did:webplus https://didwebplus.com/ && https://github.com/LedgerDomain/did-webplus
+       - did:webs https://trustoverip.github.io/tswg-did-method-webs-specification/
+       - did:web 2.0 proposal: https://github.com/WebOfTrustInfo/rwot12-cologne/blob/main/advance-readings/did-web-2.0.md
+       - did:web improvement proposals https://docs.google.com/presentation/d/1_Iy7W3ONnVUvunH6MTX13bup0Kiy5zC1XG8DGLCqX_I/
+       - RWoT paper https://github.com/WebOfTrustInfo/rwot12-cologne/blob/main/draft-documents/beyond-did-web.md
+   
+   - Dmitri - features people want that did:web doesn't have
+   - signing DID docs
+   - hashlinks forward and backward
+       - did:webs uses KERI KELs (key event logs) to link versions verifiable
+       - did:webplus uses a self-signature
+       - hash of "pre-rotation key" (next key that key will roll thru) in KERI and "recovery keys" (hash of backup key) in did:plc
+           - bryan: we have a window within which a recovery key can restore control
+           - bryan: signing key can also be a rotation key, no injunction against it
+   - dmitri: historical doc query (does this VC verify with January 18 2021 8pm's key?)
+       - mirko: I have heard of this requirement in court/legal cases
+           - "retention period" obligations - see https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/Technische-Richtlinien/TR-nach-Thema-sortiert/tr03125/TR-03125_node.html
+       - mirko: aviation industry has this kind of 30year audit window, even if plane is decommissioned (download while chain of trust/x509 chain and attach to any documents; the DLT was appealing here as a more effective historical lookup mechanism at scale, to avoid huge attachments to each document)
+       - bryan: moderators would need historical lookup in appeals, but the current trust model is that all previous did doc states are hosted by the current did controller's datastore, so it's not that high-trust;
+       - alex: pharma supply chain use-cases definitely require this (needs to go back many years)
+   - bengo: non-revocation check per vM, i.e., "to verify a signature from this DID, first check against a revocation registry for this key/DID, then check signature"
+       - bengo: that need not be did-method-specific; could be did-core/cross-cutting
+       - markus: vM rotation/revocation IS discussed in did core
+           - https://www.w3.org/TR/did-core/#verification-method-revocation 
+           - https://w3c.github.io/vc-data-integrity/#controller-documents
+           - stephen: revoked VERSUS rotated? i.e. revoking a past key kills all sigs, but rotation allows historical query?
+           - mirko: x509 prior art: createdFrom and createdUntil set at time of issuance of a cert; 
+           - mirko: delete method in DID:WEB - just delete it (that's normal to versioned documents); adding a revoked flag would more explicitly kill it
+   - bengo: hashlink to CURRENT did doc 
+       - (could be non-breaking change?)
+       - `did:web:bengo.is?hl={didDocHash}`
+       - sidebar: which hashlinks, tho? sporny's IETF draft is abandoned, but subresource integrity standard in use in browsers and specified at W3C 
+   - tombstoning
+       - did:web just deletes the wellknown doc instead of having a separate semantic fo empty/dead ones
+       - bryan: if a did is tombstoned, and someone else buys the domain, can they publish a new doc?
+           - dmitri: account mobility in social web use-case
+           - mirko: did:web has only one witness (current domain owner)
+   - Bengo - is anyone committed to implementing any of these?
+   - Stephen C: backwards compat is a goal for my use-cases
+   - Alex: Presi of did:webplus work to date for the recording/record - https://didwebplus.com/
+       - Markus: any known features of KERI you chose to leave out of scope?
+           - OOBI (out-of-band introduction) from did:peer/didcomm tradition
+           - "forking" of DID doc/microledger - KERI has elaborate protections against that, this we don't know how to protect against that without a formal witness/snapshot device
+               - mirror on CDNs or other VDRs = commonsense protection against revisionist/collusive did controllers
+               - mirko: static backend allowed by did:web (and a target of did:webs/KERI, which publishes snapshots to static backend); did:webplus and did:web2 seem to require a dynamic backend, don't they?
+               - alex: active backend isn't a problem for our use-case, external frameworks and unfamiliar standards (much less trusted clients) are, tho
+           - mirko: size of downloaded resources?
+               - alex: not at benchmarking stage yet
+               - mirko: bandwidth to download and walk a series of docs
+                   - KELs are strings of delta/patch doc that only contain the rotated keys
+                   - compute - processing a KEL versus checking hashlinks on a series of whole-did docs
+   - next steps
+       - open issues on [did:webplus](https://github.com/LedgerDomain/did-webplus), [did:webs](https://github.com/trustoverip/tswg-did-method-webs-specification) and elsewhere!
+       - future installments of this call? propose an agenda, yall!
+5. Other topics?
+
+### Attendees
+
+* Juan Caballero
+* Mirko Mollik
+* Alex Colgan
+* bengo
+* Byran Newbold
+* Christoph Fabianek
+* Dmitri Zagidulin
+* Przemek Praszczalek
+* Sam Curren
+* Stephen Curran
+* hans boone
+* Markus Sabadello
 
 ## Meeting - 11 Sep 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/ho9LNlP-7O_DBLqZ1fJwar3VnUiowfBxkgwmLVvcmB6FsoNr5Hi-EfAZP_jilFZ7.mmWtxunIlTOj3Rpk)
 
