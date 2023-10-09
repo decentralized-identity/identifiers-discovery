@@ -148,7 +148,7 @@ analyze other, related initiatives and specifications.
 
 * 
 
-## Meeting - 09 Oct 2023 - (1400 ET)
+## Meeting - 09 Oct 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/W5_Q677a3kd9kcAhSqk1PjAIaNHfGJueTvWMqKQdGPI1Mgkemi5QIR4e11BrN5oq.LplfBUbOPVHArTYF)
 
 ### Agenda
 
