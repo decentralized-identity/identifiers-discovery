@@ -160,7 +160,12 @@ analyze other, related initiatives and specifications.
 
 ### Attendees
 
-* 
+* Chiye Sun - CAICT
+* ma ruolong
+* Markus Sabadello
+* JC (identinet)
+* Tom Jones
+* Alen Horvat
 
 ## Meeting - 25 Sep 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/HVgZ5nNvE0FsGOQY1KbVagxbN3losTJw_Pe2FgQFXTHN9LWKCZfP8DEGwPxpgPYs.TpTg-vfwwQxdGtCt)
 
