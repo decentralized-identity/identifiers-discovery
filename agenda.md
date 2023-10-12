@@ -155,7 +155,7 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. [马若龙 / Ma Ruolong] Presentation of Xinghuo BIF and did:bid by China Academy of Information and Communications Technology (CAICT)
+4. [马若龙 / Ma Ruolong] Presentation of Xinghuo BIF and did:bid by China Academy of Information and Communications Technology (CAICT) [slides](https://github.com/decentralized-identity/identifiers-discovery/blob/main/agenda-files/%E3%80%90DIF%E3%80%91Intro%20to%20Xinghuo%20%26%20China%20SIG%20proposals.pdf)
 5. Other topics?
 
 ### Attendees
