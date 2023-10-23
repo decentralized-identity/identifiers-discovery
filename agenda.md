@@ -133,6 +133,20 @@ analyze other, related initiatives and specifications.
     * https://github.com/w3c-ccg/did-method-web/issues/20
     * https://github.com/w3c-ccg/did-method-web/pull/63
 
+## Meeting - 06 Nov 2023 - (1400 ET)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. [Nikos] did-x509 and did-jwk can represent an X509 certificate as DID. We want the reverse, i.e., represent a DID document as an X509 certificate. Then we can use existing tools (e.g., for verifying a JWS) plus an additional tool for verifying the binding between the X509 certificate to the DID.
+5. Other topics?
+
+### Attendees
+
+* 
+
 ## Meeting - 23 Oct 2023 - (1400 ET)
 
 ### Agenda
@@ -141,8 +155,7 @@ analyze other, related initiatives and specifications.
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. [Work item proposal: Well Known Verifiable Credential Configuration Specification](https://hackmd.io/49Mp8tTTTRKmUGjjkWVoTw)
-5. ...
-6. Other topics?
+5. Other topics?
 
 ### Attendees
 
