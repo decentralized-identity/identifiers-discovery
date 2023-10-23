@@ -147,19 +147,20 @@ analyze other, related initiatives and specifications.
 
 * 
 
-## Meeting - 23 Oct 2023 - (1400 ET)
+## Meeting - 23 Oct 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/1F0Yuj2JUh7DoblaNj6dmwflLV_xqiG3EZ2fZBJABpJpN3wRBk7IovdB5Qo8Jv4Q.skP_jp2fcgadS741)
 
 ### Agenda
 
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. [Work item proposal: Well Known Verifiable Credential Configuration Specification](https://hackmd.io/49Mp8tTTTRKmUGjjkWVoTw)
-5. Other topics?
+4. Discussion about did:webs
+5. [Work item proposal: Well Known Verifiable Credential Configuration Specification](https://hackmd.io/49Mp8tTTTRKmUGjjkWVoTw)
 
 ### Attendees
 
-* 
+* Markus Sabadello
+* Jan Christoph (JC) Ebersbach
 
 ## Meeting - 09 Oct 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/W5_Q677a3kd9kcAhSqk1PjAIaNHfGJueTvWMqKQdGPI1Mgkemi5QIR4e11BrN5oq.LplfBUbOPVHArTYF)
 
