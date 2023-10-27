@@ -41,6 +41,7 @@ Current Work Items:
 | Rust did:key Implementation | Code | [@tmarkovski](https://github.com/tmarkovski) | https://github.com/decentralized-identity/did-key.rs |
 | DID Registration | Specs | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/did-registration |
 | DID Method Enumeration | Specs | [@TelegramSam](https://github.com/TelegramSam) | https://github.com/decentralized-identity/did-method-enum |
+| Linked Verifiable Presentations | Specs | [@jceb](https://github.com/jceb) | https://github.com/decentralized-identity/linked-vp |
 
 Former Work Items:
 
