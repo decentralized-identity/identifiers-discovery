@@ -154,7 +154,7 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. [Nikos] did-x509 and did-jwk can represent an X509 certificate as DID. We want the reverse, i.e., represent a DID document as an X509 certificate. Then we can use existing tools (e.g., for verifying a JWS) plus an additional tool for verifying the binding between the X509 certificate to the DID.
+4. [Nikos] Representing DID documents as x509 certificates, the did:self case.
 5. Other topics?
 
 ### Attendees
