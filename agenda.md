@@ -147,7 +147,7 @@ analyze other, related initiatives and specifications.
 
 * 
 
-## Meeting - 06 Nov 2023 - (1400 ET)
+## Meeting - 06 Nov 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/uj-IFX2HPHc9vLKcxJaETCjFZftw8zcQMOHMsPbOH_TxIbv0ECOtl0MlL7TXjWyC.kxTD93Us4JaOEvp0)
 
 ### Agenda
 
@@ -155,11 +155,18 @@ analyze other, related initiatives and specifications.
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. [Nikos] Representing DID documents as x509 certificates, the did:self case.
-5. Other topics?
+   - https://1drv.ms/p/s!AqzRT7TbXn4WhL141QGxh8V_83doxA?e=QDi6dF
+6. Other topics?
 
 ### Attendees
 
-* 
+* Nikos Fotiou
+* Christoph Fabianek
+* Limari Navarrete
+* Ruben Wolff
+* Przemek Praszczalek
+* Toni Akinjiola
+* Markus Sabadello
 
 ## Meeting - 23 Oct 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/1F0Yuj2JUh7DoblaNj6dmwflLV_xqiG3EZ2fZBJABpJpN3wRBk7IovdB5Qo8Jv4Q.skP_jp2fcgadS741)
 
