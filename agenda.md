@@ -140,8 +140,9 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. [Toby Bolton] .zkdid - .zkdns - A vision for a publicly owned, zero-knowledge decentralized DNS system
-5. Other topics?
+4. [JC Ebersach] Status update about [linked-vo](https://github.com/decentralized-identity/linked-vp) work item
+5. [Toby Bolton] .zkdid - .zkdns - A vision for a publicly owned, zero-knowledge decentralized DNS system
+6. Other topics?
 
 ### Attendees
 
