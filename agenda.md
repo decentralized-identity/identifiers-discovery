@@ -146,7 +146,16 @@ analyze other, related initiatives and specifications.
 
 ### Attendees
 
-* 
+* Markus Sabadello
+* Tobes ZKDID
+* George Padvorac
+* Jan Christoph Ebersbach (Identinet)
+* Limari
+* Otto Mora
+* Sam Curren (TelegramSam)
+* William Lee
+* Phil Wolff
+* Nikos Fotiou
 
 ## Meeting - 06 Nov 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/uj-IFX2HPHc9vLKcxJaETCjFZftw8zcQMOHMsPbOH_TxIbv0ECOtl0MlL7TXjWyC.kxTD93Us4JaOEvp0)
 
