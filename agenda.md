@@ -133,7 +133,7 @@ analyze other, related initiatives and specifications.
     * https://github.com/w3c-ccg/did-method-web/issues/20
     * https://github.com/w3c-ccg/did-method-web/pull/63
 
-## Meeting - 20 Nov 2023 - (1400 ET)
+## Meeting - 20 Nov 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/6hxB_2siXKx1w6nvsWL-m092mus9mexYuwD5Rc64vtwQ2sIuQwGk8CQZpLXeHeeJ.dENUBMYCsBKLbukU)
 
 ### Agenda
 
