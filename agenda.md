@@ -133,6 +133,20 @@ analyze other, related initiatives and specifications.
     * https://github.com/w3c-ccg/did-method-web/issues/20
     * https://github.com/w3c-ccg/did-method-web/pull/63
 
+## Meeting - 18 Dec 2023 - (1400 ET)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. [Christoph] DID Rotation
+5. Other topics?
+
+### Attendees
+
+* 
+
 ## Work Item Meeting - Linked Verifiable Presentations - 14 Dec 2023 - (1900 CET)
 
 ### Agenda
@@ -147,7 +161,7 @@ analyze other, related initiatives and specifications.
 
 * 
 
-## Meeting - 04 Dec 2023 - (1400 ET)
+## Meeting - 04 Dec 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/tsPc-P205Vj5Fwddy8VcJO83ZLyIBJrjt18zzYTBKxjY6XcBpOm31VBXXcSy7Ij-.9KNPj5u3Bmbn-XlY)
 
 ### Agenda
 
@@ -159,7 +173,11 @@ analyze other, related initiatives and specifications.
 
 ### Attendees
 
-* 
+* Daniel Buchner
+* Gabe Cohen
+* Christoph Fabianek
+* Otto Mora
+* Markus Sabadello
 
 ## Meeting - 20 Nov 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/6hxB_2siXKx1w6nvsWL-m092mus9mexYuwD5Rc64vtwQ2sIuQwGk8CQZpLXeHeeJ.dENUBMYCsBKLbukU)
 
