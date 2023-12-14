@@ -27,7 +27,7 @@ work items. Any work item lead can organize Work Item Calls about their work ite
 <details>
 <summary> Linked VP Work Item Call - <b>Every second Thursday of the month 1900 CET</b></summary>
 
-<br>This weekly Work Item Call is dedicated to the [Linked Verifiable Presentations](github.com/decentralized-identity/linked-vp) work item.
+<br>This weekly Work Item Call is dedicated to the [Linked Verifiable Presentations](https://github.com/decentralized-identity/linked-vp) work item.
 We discuss issues related to the specification, and how the Work Item could related to other technologies.
 
 [Meeting invite](https://raw.githubusercontent.com/decentralized-identity/identifiers-discovery/main/calendar/universal-resolver-work-item-call.ics) | [Zoom room](https://us02web.zoom.us/j/83029438561?pwd=dzZpYzMySGdpQnRncTFxbFg1ZjJUQT09)
@@ -41,7 +41,7 @@ We discuss issues related to the specification, and how the Work Item could rela
 <details>
 <summary> Universal Resolver Work Item Call - <b>Wednesdays 0800 ET (discontinued)</b></summary>
 
-<br>This weekly Work Item Call is dedicated to the [Universal Resolver](github.com/decentralized-identity/universal-resolver) work item.
+<br>This weekly Work Item Call is dedicated to the [Universal Resolver](https://github.com/decentralized-identity/universal-resolver) work item.
 We discuss policy and governance topics (e.g. when to add/remove drivers), as well
 as technical topics (e.g. integration with the W3C DID test suite, monitoring, analytics, etc.).
 
