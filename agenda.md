@@ -147,7 +147,7 @@ analyze other, related initiatives and specifications.
     * https://github.com/w3c-ccg/did-method-web/issues/20
     * https://github.com/w3c-ccg/did-method-web/pull/63
 
-## Meeting - 18 Dec 2023 - (1400 ET)
+## Meeting - 18 Dec 2023 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/GSH3RdSKpNojitalL_CQGM2hctRvSzCUwlncwpThw3CohjCcwrUuoaqpq5LM0gAY.veFu_sMVDeTrf_ec)
 
 ### Agenda
 
@@ -159,7 +159,10 @@ analyze other, related initiatives and specifications.
 
 ### Attendees
 
-* 
+* Markus Sabadello
+* Christoph Fabianek
+* Tom Jones
+* Victor Lu
 
 ## Work Item Meeting - Linked Verifiable Presentations - 14 Dec 2023 - (1900 CET) [recording](https://us02web.zoom.us/rec/share/4IcFjxBVW1nQ_YrsfP46xuRTeh1pBEPznhPUzcFhDRe6kKwaQXVZpu4wPPXGM1jZ.hRseb3rl-lsL4ryN)
 
