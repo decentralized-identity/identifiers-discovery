@@ -30,7 +30,7 @@ work items. Any work item lead can organize Work Item Calls about their work ite
 <br>This weekly Work Item Call is dedicated to the [Linked Verifiable Presentations](https://github.com/decentralized-identity/linked-vp) work item.
 We discuss issues related to the specification, and how the Work Item could related to other technologies.
 
-[Zoom room](https://us02web.zoom.us/j/83029438561?pwd=dzZpYzMySGdpQnRncTFxbFg1ZjJUQT09)
+[Zoom room](https://us02web.zoom.us/j/85354994850?pwd=ZHRpaDQrZ2YzYnFmUE51eitkMjZiZz09)
 
 - **Work Item Call - 14 Mar 2024 - (1900CET)** 
 - **Work Item Call - 08 Feb 2024 - (1900CET)** 
