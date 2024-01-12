@@ -30,11 +30,11 @@ work items. Any work item lead can organize Work Item Calls about their work ite
 <br>This weekly Work Item Call is dedicated to the [Linked Verifiable Presentations](https://github.com/decentralized-identity/linked-vp) work item.
 We discuss issues related to the specification, and how the Work Item could related to other technologies.
 
-[Zoom room](https://us02web.zoom.us/j/85354994850?pwd=ZHRpaDQrZ2YzYnFmUE51eitkMjZiZz09)
+[Meeting invite](https://raw.githubusercontent.com/decentralized-identity/identifiers-discovery/main/calendar/linked-vp-work-item-call.ics) | [Zoom room](https://us02web.zoom.us/j/85354994850?pwd=ZHRpaDQrZ2YzYnFmUE51eitkMjZiZz09)
 
 - **Work Item Call - 14 Mar 2024 - (1900CET)** 
 - **Work Item Call - 08 Feb 2024 - (1900CET)** 
-- **Work Item Call - 11 Jan 2024 - (1900CET)** 
+- **Work Item Call - 11 Jan 2024 - (1900CET)** [recording](https://us02web.zoom.us/rec/share/x5vFvu8xsft9uKeyyRBs8onjzc9biozqv1xEn0ywV9gCNmGRuPo_I5O6YEKR26eZ.0e4Y2t2D0Si58wQn)
 - **Work Item Call - 14 Dec 2023 - (1900CET)** [recording](https://us02web.zoom.us/rec/share/4IcFjxBVW1nQ_YrsfP46xuRTeh1pBEPznhPUzcFhDRe6kKwaQXVZpu4wPPXGM1jZ.hRseb3rl-lsL4ryN)
 </details>
 
@@ -161,6 +161,24 @@ analyze other, related initiatives and specifications.
 ### Attendees
 
 * 
+
+## Work Item Meeting - Linked Verifiable Presentations - 11 Jan 2024 - (1900 CET) [recording](https://us02web.zoom.us/rec/share/x5vFvu8xsft9uKeyyRBs8onjzc9biozqv1xEn0ywV9gCNmGRuPo_I5O6YEKR26eZ.0e4Y2t2D0Si58wQn)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Work Item - Linked Verifiable Presentations: https://github.com/decentralized-identity/linked-vp
+5. Other topics?
+
+### Attendees
+
+* Jan Christoph Ebersbach (identinet)
+* Brian Richter
+* George Padvorac
+* Markus Sabadello
+* Tom Jones
 
 ## ~~Meeting - 01 Jan 2023 - (1400 ET)~~ canceled due to New Year holiday
 
