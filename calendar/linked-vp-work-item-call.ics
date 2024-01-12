@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20231214T190000
+DTEND;TZID=Europe/Berlin:20231214T200000
+RRULE:FREQ=MONTHLY;BYDAY=2TH
+DTSTAMP:20240112T091705Z
+ORGANIZER;CN=Markus Sabadello:mailto:markus.sabadello@gmail.com
+UID:67hm27rbgi60vn41ivsmc0mji4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Markus Sabadello;X-NUM-GUESTS=0:mailto:markus@danubetech.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Markus Sabadello;X-NUM-GUESTS=0:mailto:markus.sabadello@gmail.com
+X-MICROSOFT-CDO-OWNERAPPTID:1702060163
+CREATED:20240112T091703Z
+DESCRIPTION:<p><br>──────────<br><br>Decentralized Identity Foundation 3 is
+  inviting you to a scheduled Zoom meeting.<br><br>Join Zoom Meeting<br><a h
+ ref="https://www.google.com/url?q=https://us02web.zoom.us/j/85354994850?pwd
+ %3DZHRpaDQrZ2YzYnFmUE51eitkMjZiZz09&amp\;sa=D&amp\;source=calendar&amp\;usd
+ =2&amp\;usg=AOvVaw22V23iUE0EJQPufK267tZd" target="_blank">https://us02web.z
+ oom.us/j/85354994850?pwd=ZHRpaDQrZ2YzYnFmUE51eitkMjZiZz09</a><br><br>Meetin
+ g ID: 853 5499 4850<br>Passcode: 551311<br><br>---<br><br>One tap mobile<br
+ >+16694449171\,\,85354994850#\,\,\,\,*551311# US<br>+16699006833\,\,8535499
+ 4850#\,\,\,\,*551311# US (San Jose)<br><br>---<br><br>Dial by your location
+ <br>• +1 669 444 9171 US<br>• +1 669 900 6833 US (San Jose)<br>• +1 346 248
+  7799 US (Houston)<br>• +1 719 359 4580 US<br>• +1 253 205 0468 US<br>• +1 
+ 253 215 8782 US (Tacoma)<br>• +1 564 217 2000 US<br>• +1 646 931 3860 US<br
+ >• +1 689 278 1000 US<br>• +1 929 436 2866 US (New York)<br>• +1 301 715 85
+ 92 US (Washington DC)<br>• +1 305 224 1968 US<br>• +1 309 205 3325 US<br>• 
+ +1 312 626 6799 US (Chicago)<br>• +1 360 209 5623 US<br>• +1 386 347 5053 U
+ S<br>• +1 507 473 4847 US<br><br>Meeting ID: 853 5499 4850<br>Passcode: 551
+ 311<br><br>Find your local number: <a href="https://www.google.com/url?q=ht
+ tps://us02web.zoom.us/u/kcTPO7QA42&amp\;sa=D&amp\;source=calendar&amp\;usd=
+ 2&amp\;usg=AOvVaw2fxernEx4siJfISMwdP_sz" target="_blank">https://us02web.zo
+ om.us/u/kcTPO7QA42</a><br><br><br><br>──────────</p>
+LAST-MODIFIED:20240112T091703Z
+LOCATION:https://us02web.zoom.us/j/85354994850?pwd=ZHRpaDQrZ2YzYnFmUE51eitk
+ MjZiZz09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DIF WG ID - Linked VP Work Item 
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H10M0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR
