@@ -155,8 +155,7 @@ analyze other, related initiatives and specifications.
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. [Christoph] DID Rotation, integration with Universal Resolver/Registrar
-5. ...
-6. Other topics?
+5. Other topics?
 
 ### Attendees
 
