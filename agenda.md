@@ -161,7 +161,7 @@ analyze other, related initiatives and specifications.
 
 * 
 
-## Meeting - 15 Jan 2024 - (1400 ET)
+## Meeting - 15 Jan 2024 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/lplt5Km-GziuSilrSWmeB0oCGIC7wqeWDoFxQo8SehreJ-eKd7D7MokM_2IYUwuM.qlz7j5NZ0-BlDcGh)
 
 ### Agenda
 
@@ -173,7 +173,12 @@ analyze other, related initiatives and specifications.
 
 ### Attendees
 
-* 
+* Christoph Fabianek
+* Rob Aaron
+* Victor Lu
+* Kabir Maiga
+* Markus Sabadello
+* Nikos Fotiou
 
 ## Work Item Meeting - Linked Verifiable Presentations - 11 Jan 2024 - (1900 CET) [recording](https://us02web.zoom.us/rec/share/x5vFvu8xsft9uKeyyRBs8onjzc9biozqv1xEn0ywV9gCNmGRuPo_I5O6YEKR26eZ.0e4Y2t2D0Si58wQn)
 
