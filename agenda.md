@@ -147,7 +147,7 @@ analyze other, related initiatives and specifications.
     * https://github.com/w3c-ccg/did-method-web/issues/20
     * https://github.com/w3c-ccg/did-method-web/pull/63
 
-## Meeting - 29 Jan 2024 - (1400 ET)
+## Meeting - 29 Jan 2024 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/KcXkQweaUQDqndLckLEFjSOgciVPLL_Dyzv_ESiLoTVJ4ay83zlGLoteljrVCjKi.0REubghXDBgqlmhi)
 
 ### Agenda
 
