@@ -147,19 +147,22 @@ analyze other, related initiatives and specifications.
     * https://github.com/w3c-ccg/did-method-web/issues/20
     * https://github.com/w3c-ccg/did-method-web/pull/63
 
-## Meeting - 12 Feb 2024 - (1400 ET) 
+## Meeting - 26 Feb 2024 - (1400 ET) 
 
 ### Agenda
 
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. TBD...
-5. Other topics?
+4. [DanielB] Proposed new did:dht Work Item
+5. Review of Linked VP Work Item: [Linked Verifiable Presentations](https://github.com/decentralized-identity/linked-vp)
+6. Other topics?
 
 ### Attendees
 
 * 
+
+## ~~Meeting - 12 Feb 2024 - (1400 ET)~~ canceled
 
 ## Work Item Meeting - Linked Verifiable Presentations - 08 Feb 2024 - (1900 CET)
 
