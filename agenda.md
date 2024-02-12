@@ -154,8 +154,8 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. [DanielB] Proposed new did:dht Work Item
-5. Review of Linked VP Work Item: [Linked Verifiable Presentations](https://github.com/decentralized-identity/linked-vp)
+4. [DanielB] Proposed new `did:dht` Work Item
+5. Review of Linked VP Work Item: https://github.com/decentralized-identity/linked-vp
 6. Other topics?
 
 ### Attendees
