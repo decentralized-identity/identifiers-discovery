@@ -33,7 +33,7 @@ We discuss issues related to the specification, and how the Work Item could rela
 [Meeting invite](https://raw.githubusercontent.com/decentralized-identity/identifiers-discovery/main/calendar/linked-vp-work-item-call.ics) | [Zoom room](https://us02web.zoom.us/j/85354994850?pwd=ZHRpaDQrZ2YzYnFmUE51eitkMjZiZz09)
 
 - **Work Item Call - 14 Mar 2024 - (1900CET)** 
-- **Work Item Call - 08 Feb 2024 - (1900CET)** 
+- **Work Item Call - 08 Feb 2024 - (1900CET)** [recording](https://us02web.zoom.us/rec/share/CJO5OEsG0HD-UKWHyc1vru4etCSj4oLh_ULcPrF4sVkUIS6P8lkvreGGw-f4g4pk.OUK522O1lZMYGcC4)
 - **Work Item Call - 11 Jan 2024 - (1900CET)** [recording](https://us02web.zoom.us/rec/share/x5vFvu8xsft9uKeyyRBs8onjzc9biozqv1xEn0ywV9gCNmGRuPo_I5O6YEKR26eZ.0e4Y2t2D0Si58wQn)
 - **Work Item Call - 14 Dec 2023 - (1900CET)** [recording](https://us02web.zoom.us/rec/share/4IcFjxBVW1nQ_YrsfP46xuRTeh1pBEPznhPUzcFhDRe6kKwaQXVZpu4wPPXGM1jZ.hRseb3rl-lsL4ryN)
 </details>
@@ -164,7 +164,7 @@ analyze other, related initiatives and specifications.
 
 ## ~~Meeting - 12 Feb 2024 - (1400 ET)~~ canceled
 
-## Work Item Meeting - Linked Verifiable Presentations - 08 Feb 2024 - (1900 CET)
+## Work Item Meeting - Linked Verifiable Presentations - 08 Feb 2024 - (1900 CET) [recording](https://us02web.zoom.us/rec/share/CJO5OEsG0HD-UKWHyc1vru4etCSj4oLh_ULcPrF4sVkUIS6P8lkvreGGw-f4g4pk.OUK522O1lZMYGcC4)
 
 [Meeting invite](https://raw.githubusercontent.com/decentralized-identity/identifiers-discovery/main/calendar/linked-vp-work-item-call.ics) | [Zoom room](https://us02web.zoom.us/j/85354994850?pwd=ZHRpaDQrZ2YzYnFmUE51eitkMjZiZz09)
 
