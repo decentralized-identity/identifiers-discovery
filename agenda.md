@@ -147,7 +147,21 @@ analyze other, related initiatives and specifications.
     * https://github.com/w3c-ccg/did-method-web/issues/20
     * https://github.com/w3c-ccg/did-method-web/pull/63
 
-## Meeting - 26 Feb 2024 - (1400 ET) 
+## Meeting - 11 Mar 2024 - (1400 ET)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. [AndorK] Work on service profiles: https://github.com/trustoverip/tswg-trust-registry-service-profile
+5. Other topics?
+
+### Attendees
+
+* 
+
+## Meeting - 26 Feb 2024 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/1PbkewJiExDFXClQvgidOZGc0Gbsumu7KIRSzvdOpd2ocPZcwErEIxLTFDjNSsVk.oWPFpITt3VE25vSi)
 
 ### Agenda
 
@@ -161,7 +175,12 @@ analyze other, related initiatives and specifications.
 
 ### Attendees
 
-* 
+* Daniel Buchner
+* Jan Christoph Ebersbach (Identinet)
+* andor
+* Tom Jones
+* Brian Richter
+* Markus Sabadello
 
 ## ~~Meeting - 12 Feb 2024 - (1400 ET)~~ canceled
 
