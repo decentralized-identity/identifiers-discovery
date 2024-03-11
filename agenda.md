@@ -147,6 +147,20 @@ analyze other, related initiatives and specifications.
     * https://github.com/w3c-ccg/did-method-web/issues/20
     * https://github.com/w3c-ccg/did-method-web/pull/63
 
+## Meeting - 25 Mar 2024 - (1400 ET)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. TBD ...
+5. Other topics?
+
+### Attendees
+
+* 
+
 ## Meeting - 11 Mar 2024 - (1400 ET)
 
 ### Agenda
@@ -154,6 +168,8 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
+5. [DanielB] Update on potential `did:dht` Work Item: https://did-dht.com/
+6. [JCEbersbach] Update on Linked VP Work Item: https://github.com/decentralized-identity/linked-vp
 4. [AndorK] Work on service profiles: https://github.com/trustoverip/tswg-trust-registry-service-profile
 5. Other topics?
 
