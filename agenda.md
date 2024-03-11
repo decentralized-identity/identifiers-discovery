@@ -170,7 +170,7 @@ analyze other, related initiatives and specifications.
 3. Agenda creation/review/prioritization
 5. [DanielB] Update on potential `did:dht` Work Item: https://did-dht.com/
 6. [JCEbersbach] Update on Linked VP Work Item: https://github.com/decentralized-identity/linked-vp
-4. [AndorK] Work on service profiles: https://github.com/trustoverip/tswg-trust-registry-service-profile
+4. [AndorK] Work on service profiles: https://github.com/trustoverip/tswg-trust-registry-service-profile, https://service-profiles.andor.us/
 5. Other topics?
 
 ### Attendees
