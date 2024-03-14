@@ -162,7 +162,7 @@ analyze other, related initiatives and specifications.
 
 * 
 
-## Work Item Meeting - Linked Verifiable Presentations - 14 Mar 2024 - (1900 CET)
+## Work Item Meeting - Linked Verifiable Presentations - 14 Mar 2024 - (1900 CET) [recording](https://us02web.zoom.us/rec/share/XES5xnv0Ah_M5dTUeOoPCTeH3hnX9s8c8JYUhXtJH1U9Rg5bT5u0YbWQpD5qbcAv.qkt6m6oY86AWGIRE)
 
 ### Agenda
 
