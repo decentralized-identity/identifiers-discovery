@@ -249,7 +249,11 @@ analyze other, related initiatives and specifications.
 
 ### Attendees
 
-* 
+* Markus Sabadello
+* Frank Hinek
+* George Padvorac
+* Rob Aaron
+* Christoph Fabianek
 
 ## Meeting - 15 Jan 2024 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/XJyQp837f2ARUhDebbeeBwnmPfi_eWgM7iMWNdQLhlyDtuPxfvxxCzGz8mHRyflT.z8PvKndThiVCm7_c)
 
