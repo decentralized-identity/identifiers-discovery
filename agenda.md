@@ -154,8 +154,9 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. TBD ...
-5. Other topics?
+4. [JCEbersbach] Status update on Linked VP Work Item: https://github.com/decentralized-identity/linked-vp
+5. TBD ...
+6. Other topics?
 
 ### Attendees
 
@@ -176,7 +177,7 @@ analyze other, related initiatives and specifications.
 * Markus Sabadello
 * Jan Christoph Ebersbach
 
-## Meeting - 11 Mar 2024 - (1400 ET)
+## Meeting - 11 Mar 2024 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/1YzmkDJGU2M6knfrruPvudrD0OsZDa5KE5O__9JrS43nx21ZqOWNqTnAzxWVrs7F.QiYEpSalGLN-ZMJX)
 
 ### Agenda
 
@@ -190,7 +191,11 @@ analyze other, related initiatives and specifications.
 
 ### Attendees
 
-* 
+* Markus Sabadello
+* andor
+* Limari Navarrete
+* Rob Aaron
+* Tom Jones
 
 ## Meeting - 26 Feb 2024 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/1PbkewJiExDFXClQvgidOZGc0Gbsumu7KIRSzvdOpd2ocPZcwErEIxLTFDjNSsVk.oWPFpITt3VE25vSi)
 
