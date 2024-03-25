@@ -147,7 +147,7 @@ analyze other, related initiatives and specifications.
     * https://github.com/w3c-ccg/did-method-web/issues/20
     * https://github.com/w3c-ccg/did-method-web/pull/63
 
-## Meeting - 25 Mar 2024 - (1400 ET)
+## Meeting - 08 Apr 2024 - (1400 ET)
 
 ### Agenda
 
@@ -161,6 +161,8 @@ analyze other, related initiatives and specifications.
 ### Attendees
 
 * 
+
+## ~~Meeting - 25 Mar 2024 - (1400 ET)~~ canceled due to Easter holidays
 
 ## Work Item Meeting - Linked Verifiable Presentations - 14 Mar 2024 - (1900 CET) [recording](https://us02web.zoom.us/rec/share/XES5xnv0Ah_M5dTUeOoPCTeH3hnX9s8c8JYUhXtJH1U9Rg5bT5u0YbWQpD5qbcAv.qkt6m6oY86AWGIRE)
 
