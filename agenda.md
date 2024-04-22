@@ -142,7 +142,7 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## Meeting - 22 Apr 2024 - (1400 ET)
+## Meeting - 22 Apr 2024 - (1400 ET) [recording]()
 
 ### Agenda
 
@@ -150,12 +150,13 @@ analyze other, related initiatives and specifications.
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. [MG] Next steps for Universal DID resolver on ChatGPT
-5. [ezequiel] (Maybe) Questions about VC verification and key rotation
-6. Other topics?
+5. Other topics?
 
 ### Attendees
 
-* 
+* M G
+* Markus Sabadello
+* Oleksandr Brezhniev
 
 ## Work Item Meeting - Linked Verifiable Presentations - 11 Apr 2024 - (1900 CET) [recording](https://us02web.zoom.us/rec/share/K6qC1H1THwumKe6w3bqg56I-CWiiTLbFltxitgtJY4dRJzAVWr2k8p77fbKlvZea.6_pqpg22mYOuXvDF)
 
