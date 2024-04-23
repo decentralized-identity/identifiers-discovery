@@ -142,7 +142,7 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## Meeting - 22 Apr 2024 - (1400 ET) [recording]()
+## Meeting - 22 Apr 2024 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/uyFPBbcHesiDsfa47EP5yqgN0dzvPUq_Bk2Fy0v5Yx6FYWX-MfkfA9TLP0CZS8dA.QkdHmcInTq4Az4ob)
 
 ### Agenda
 
@@ -170,7 +170,7 @@ analyze other, related initiatives and specifications.
 
 ### Attendees
 
-* 
+* https://us02web.zoom.us/rec/share/uyFPBbcHesiDsfa47EP5yqgN0dzvPUq_Bk2Fy0v5Yx6FYWX-MfkfA9TLP0CZS8dA.QkdHmcInTq4Az4ob
 
 ## Meeting - 08 Apr 2024 - (1400 ET)
 
