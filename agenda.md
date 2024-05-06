@@ -149,8 +149,10 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. TBD
-5. Other topics?
+4. [MG] Updates from GoPlausible about a universal DID reoslver with extra features
+5. (maybe) did:tdw and linked-vp
+6. [ezequiel] Key rotation, and identifying specific versions
+7. Other topics?
 
 ### Attendees
 
