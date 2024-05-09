@@ -143,6 +143,21 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
+
+## Meeting - 20 May 2024 - (1400 ET)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. TBD
+6. Other topics?
+
+### Attendees
+
+* 
+
 ## ~~Work Item Meeting - Linked Verifiable Presentations - 11 Apr 2024 - (1900 CET)~~ canceled
 
 ## Meeting - 06 May 2024 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/jKXjiNLY7Hv9dTfJfMjjNdXbek0hGDGtv2gk0SMuNem3Ch9covm9csMLU0kwsESU.gUMDuHUCuqmECpFM)
