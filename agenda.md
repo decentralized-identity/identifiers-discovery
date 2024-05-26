@@ -143,8 +143,7 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-
-## Meeting - 20 May 2024 - (1400 ET)
+## Meeting - 03 Jun 2024 - (1400 ET)
 
 ### Agenda
 
@@ -157,6 +156,8 @@ analyze other, related initiatives and specifications.
 ### Attendees
 
 * 
+
+## ~~Meeting - 20 May 2024 - (1400 ET)~~ canceled
 
 ## ~~Work Item Meeting - Linked Verifiable Presentations - 11 Apr 2024 - (1900 CET)~~ canceled
 
