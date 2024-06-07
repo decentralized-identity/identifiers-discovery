@@ -157,7 +157,7 @@ analyze other, related initiatives and specifications.
 
 * 
 
-## Meeting - 03 Jun 2024 - (1400 ET)
+## Meeting - 03 Jun 2024 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/PqMVfvjRUQk1HexgPTpHXNeQ-6DLXldjTzNrSfylyEvdw1TbJQxQ-1h-lRhUUIX5.M9a_NWXUfEGOPGyj)
 
 ### Agenda
 
@@ -169,7 +169,9 @@ analyze other, related initiatives and specifications.
 
 ### Attendees
 
-* 
+* JC Ebersbach
+* Rob Aaron
+* Markus Sabadello
 
 ## ~~Meeting - 20 May 2024 - (1400 ET)~~ canceled
 
