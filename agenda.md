@@ -150,11 +150,12 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. New work item for describing DID method functionalities, e.g.
+4. New work item for describing DID method functionalities ("DID Traits"), e.g.
    - Can DIDs be updated/deactivated?
    - Is it possible to view the history of a DID (using versionId, versionTime)?
    - Is the DID always resolvable without extra information?
    - Is it possible to enumerate all DIDs that exist globally?
+   - Also see here, initial work by JC Ebersbach: https://gist.github.com/jceb/8e37e4900e815eb14b207ad7e8d02a6c
 5. Other topics?
 
 ### Attendees
