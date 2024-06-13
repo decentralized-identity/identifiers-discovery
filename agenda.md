@@ -162,6 +162,22 @@ analyze other, related initiatives and specifications.
 
 * 
 
+## Work Item Meeting - Linked Verifiable Presentations - 13 Jun 2024 - (1900 CET)
+
+[Meeting invite](https://raw.githubusercontent.com/decentralized-identity/identifiers-discovery/main/calendar/linked-vp-work-item-call.ics) | [Zoom room](https://us02web.zoom.us/j/85354994850?pwd=ZHRpaDQrZ2YzYnFmUE51eitkMjZiZz09)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Work Item - Linked Verifiable Presentations: https://github.com/decentralized-identity/linked-vp
+5. Other topics?
+
+### Attendees
+
+*
+
 ## Meeting - 03 Jun 2024 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/PqMVfvjRUQk1HexgPTpHXNeQ-6DLXldjTzNrSfylyEvdw1TbJQxQ-1h-lRhUUIX5.M9a_NWXUfEGOPGyj)
 
 ### Agenda
