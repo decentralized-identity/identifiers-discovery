@@ -162,7 +162,7 @@ analyze other, related initiatives and specifications.
 
 * 
 
-## Work Item Meeting - Linked Verifiable Presentations - 13 Jun 2024 - (1900 CET)
+## Work Item Meeting - Linked Verifiable Presentations - 13 Jun 2024 - (1900 CET) [recording](https://us02web.zoom.us/rec/share/AWN1MQJNhmAF5rNzuggiOfH2bymQIkOn61uhlvWULQc3GVMk_aANpVnolI4jlyD1.Ld12HTMGqtis8kCo)
 
 [Meeting invite](https://raw.githubusercontent.com/decentralized-identity/identifiers-discovery/main/calendar/linked-vp-work-item-call.ics) | [Zoom room](https://us02web.zoom.us/j/85354994850?pwd=ZHRpaDQrZ2YzYnFmUE51eitkMjZiZz09)
 
@@ -176,7 +176,9 @@ analyze other, related initiatives and specifications.
 
 ### Attendees
 
-*
+* Jan Christoph Ebersbach
+* Rob Aaron
+* Markus Sabadello
 
 ## Meeting - 03 Jun 2024 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/PqMVfvjRUQk1HexgPTpHXNeQ-6DLXldjTzNrSfylyEvdw1TbJQxQ-1h-lRhUUIX5.M9a_NWXUfEGOPGyj)
 
