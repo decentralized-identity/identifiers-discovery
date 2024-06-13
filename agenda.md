@@ -32,9 +32,8 @@ We discuss issues related to the specification, and how the Work Item could rela
 
 [Meeting invite](https://raw.githubusercontent.com/decentralized-identity/identifiers-discovery/main/calendar/linked-vp-work-item-call.ics) | [Zoom room](https://us02web.zoom.us/j/85354994850?pwd=ZHRpaDQrZ2YzYnFmUE51eitkMjZiZz09)
 
-- ~~**Work Item Call - 09 May 2024 - (1900CET)**~~
 - **Work Item Call - 13 Jun 2024 - (1900CET)** [recording](https://us02web.zoom.us/rec/share/AWN1MQJNhmAF5rNzuggiOfH2bymQIkOn61uhlvWULQc3GVMk_aANpVnolI4jlyD1.Ld12HTMGqtis8kCo)
-- ~~Work Item Call - 09 May 2024 - (1900CET)~~ canceled
+- ~~**Work Item Call - 09 May 2024 - (1900CET)**~~ canceled
 - **Work Item Call - 11 Apr 2024 - (1900CET)** [recording](https://us02web.zoom.us/rec/share/K6qC1H1THwumKe6w3bqg56I-CWiiTLbFltxitgtJY4dRJzAVWr2k8p77fbKlvZea.6_pqpg22mYOuXvDF)
 - **Work Item Call - 14 Mar 2024 - (1900CET)** [recording](https://us02web.zoom.us/rec/share/YoBV2DTQOWq_NeyL-Nk8MNePlJUPsSuJuHNMWnj6bFt5lm_5RwvBFxV6EtfdJlzi.3R5B_VqiRmiKyKvI)
 - **Work Item Call - 08 Feb 2024 - (1900CET)** [recording](https://us02web.zoom.us/rec/share/CJO5OEsG0HD-UKWHyc1vru4etCSj4oLh_ULcPrF4sVkUIS6P8lkvreGGw-f4g4pk.OUK522O1lZMYGcC4)
