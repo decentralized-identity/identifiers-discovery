@@ -161,7 +161,10 @@ analyze other, related initiatives and specifications.
 
 ### Attendees
 
-* 
+* JC Ebersbach
+* Rob Aaron
+* Victor Lu
+* Markus Sabadello
 
 ## Work Item Meeting - Linked Verifiable Presentations - 13 Jun 2024 - (1900 CET) [recording](https://us02web.zoom.us/rec/share/AWN1MQJNhmAF5rNzuggiOfH2bymQIkOn61uhlvWULQc3GVMk_aANpVnolI4jlyD1.Ld12HTMGqtis8kCo)
 
