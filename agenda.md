@@ -144,7 +144,7 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## *Draft* Meeting - 15 Jul 2024 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/kl3jcCy_gWE2HPClOZQjuFZCIX5hryZ8DQKgH23PgPmVTGqNP9_Nb-uTvtixe8R0.UYFQTZP69ITPSk8D)
+## *Draft* Meeting - 15 Jul 2024 - (1400 ET) [TODO recording]()
 
 ### Agenda
 
@@ -156,7 +156,7 @@ analyze other, related initiatives and specifications.
 
 * TODO
 
-## Meeting - 01 Jul 2024 - (1400 ET) [TODO recording]()
+## Meeting - 01 Jul 2024 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/kl3jcCy_gWE2HPClOZQjuFZCIX5hryZ8DQKgH23PgPmVTGqNP9_Nb-uTvtixe8R0.UYFQTZP69ITPSk8D)
 
 ### Agenda
 
