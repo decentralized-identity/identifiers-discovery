@@ -32,6 +32,7 @@ We discuss issues related to the specification, and how the Work Item could rela
 
 [Meeting invite](https://raw.githubusercontent.com/decentralized-identity/identifiers-discovery/main/calendar/linked-vp-work-item-call.ics) | [Zoom room](https://us02web.zoom.us/j/85354994850?pwd=ZHRpaDQrZ2YzYnFmUE51eitkMjZiZz09)
 
+- ~~**Work Item Call - 11 Jul 2024 - (1900CET)**~~ canceled
 - **Work Item Call - 13 Jun 2024 - (1900CET)** [recording](https://us02web.zoom.us/rec/share/AWN1MQJNhmAF5rNzuggiOfH2bymQIkOn61uhlvWULQc3GVMk_aANpVnolI4jlyD1.Ld12HTMGqtis8kCo)
 - ~~**Work Item Call - 09 May 2024 - (1900CET)**~~ canceled
 - **Work Item Call - 11 Apr 2024 - (1900CET)** [recording](https://us02web.zoom.us/rec/share/K6qC1H1THwumKe6w3bqg56I-CWiiTLbFltxitgtJY4dRJzAVWr2k8p77fbKlvZea.6_pqpg22mYOuXvDF)
@@ -159,6 +160,8 @@ analyze other, related initiatives and specifications.
 ### Attendees
 
 * TODO
+
+## ~~Work Item Meeting - Linked Verifiable Presentations - 11 Jul 2024 - (1900 CET)~~ canceled
 
 ## Meeting - 01 Jul 2024 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/kl3jcCy_gWE2HPClOZQjuFZCIX5hryZ8DQKgH23PgPmVTGqNP9_Nb-uTvtixe8R0.UYFQTZP69ITPSk8D)
 
