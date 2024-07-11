@@ -149,10 +149,11 @@ analyze other, related initiatives and specifications.
 ### Agenda
 
 1. Welcome and introductions
-2. Update: DID Traits, update on discussion with ToIP and OpenWallet Foundation
-3. Review: ID WG [work items](https://github.com/decentralized-identity/identifiers-discovery/blob/main/README.md)
-4. Proposal: ID WG Survey
-5. TODO
+2. Update: Completion of Linked-VP work item
+3. Proposal: New work item DID Traits (including update on discussion with ToIP and OpenWallet Foundation)
+4. Review: ID WG [work items](https://github.com/decentralized-identity/identifiers-discovery/blob/main/README.md)
+5. Proposal: ID WG Survey
+6. TODO
 10. Other topics?
 
 ### Attendees
