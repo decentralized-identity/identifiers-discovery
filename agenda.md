@@ -145,7 +145,20 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## *Draft* Meeting - 15 Jul 2024 - (1400 ET) [TODO recording]()
+## *Draft* Meeting - 29 Jul 2024 - (1400 ET) [TODO recording]()
+
+### Agenda
+
+1. Welcome and introductions
+6. TODO
+10. Other topics?
+
+### Attendees
+
+* TODO
+
+
+## Meeting - 15 Jul 2024 - (1400 ET) [TODO recording]()
 
 ### Agenda
 
@@ -154,8 +167,7 @@ analyze other, related initiatives and specifications.
 3. Proposal: New work item DID Traits (including update on discussion with ToIP and OpenWallet Foundation)
 4. Review: ID WG [work items](https://github.com/decentralized-identity/identifiers-discovery/blob/main/README.md)
 5. Proposal: ID WG Survey
-6. TODO
-10. Other topics?
+6. Other topics?
 
 ### Attendees
 
