@@ -158,7 +158,7 @@ analyze other, related initiatives and specifications.
 * TODO
 
 
-## Meeting - 15 Jul 2024 - (1400 ET) [TODO recording]()
+## Meeting - 15 Jul 2024 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/t1vdpnUpA8i2HXYSyASSOi7-GvYTOSub_hNLLjqm0D_ror5NjeJIK_pzKta69K3S.oEbIlmx7Fdut6x-7)
 
 ### Agenda
 
@@ -171,7 +171,12 @@ analyze other, related initiatives and specifications.
 
 ### Attendees
 
-* TODO
+* JC Ebersbach
+* Markus Sabadello
+* Bumblefudge
+* Brian
+* Sam Curren
+* Tom Jones
 
 ## ~~Work Item Meeting - Linked Verifiable Presentations - 11 Jul 2024 - (1900 CET)~~ canceled
 
