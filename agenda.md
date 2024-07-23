@@ -150,13 +150,16 @@ analyze other, related initiatives and specifications.
 ### Agenda
 
 1. Welcome and introductions
-6. TODO
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. [Jack] Delegating from one DID to another, signing VCs on behalf of another DID
+7. Updates on DID Traits?
+8. 
 10. Other topics?
 
 ### Attendees
 
 * TODO
-
 
 ## Meeting - 15 Jul 2024 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/t1vdpnUpA8i2HXYSyASSOi7-GvYTOSub_hNLLjqm0D_ror5NjeJIK_pzKta69K3S.oEbIlmx7Fdut6x-7)
 
