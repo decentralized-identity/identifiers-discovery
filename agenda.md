@@ -153,9 +153,11 @@ analyze other, related initiatives and specifications.
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. [Jack] Delegating from one DID to another, signing VCs on behalf of another DID
-7. Updates on DID Traits?
-8. 
-10. Other topics?
+7. Updates on DID Traits
+8. Proposal: ID WG Survey
+9. Review: ID WG [work items](https://github.com/decentralized-identity/identifiers-discovery/blob/main/README.md) (remainder)
+10. 
+11. Other topics?
 
 ### Attendees
 
@@ -167,10 +169,40 @@ analyze other, related initiatives and specifications.
 
 1. Welcome and introductions
 2. Update: Completion of Linked-VP work item
+   - Work item is complete.
+   - It received much interest from people and entities around the world.
+   - The monthly call isn't needed anymore and will be canceled.
 3. Proposal: New work item DID Traits (including update on discussion with ToIP and OpenWallet Foundation)
+   - Jan Christoph presents current status of proposal https://gist.github.com/jceb/8e37e4900e815eb14b207ad7e8d02a6c
+   - Alignment with Trust over IP Foundation (Drummond Reed) and OpenWallet Foundation (Mirko Mollik) happened, they are very interested in the results and will selectively support the work item.
+   - Feedback in the call concerning the proposal:
+     - Participants find work item useful.
+     - Suggestion: in the work item we should think about the presentation of the traits in other places, e.g. a DID method specification document, as a "food nutrition label".
+     - Suggestion: create a formal definition of each trait, ideally with test vectors that could be applied to DID methods.
+     - Suggestion: Interconnect the work with W3C did-wg by linking back and forth between the specifications.
+   - Jan Christoph raises the question of how the work item should be called: Identifier Traits vs DID Traits. Feedback:
+     - Mixed feedback, the idea to apply the traits framework to other types of identifiers is a noble cause that could also become very difficult to maintain.
+     - We conclude that the introduction will state that the framework could be applied to other identifier schemes without providing any guarantees of how well it fits.
+   - Who should participate:
+     - People who created the rubric.
+     - Everyone on the call + ID WG.
+     - Joe Andrew.
+     - Google and Apple - people who evaluated the DID specification / methods.
+   - Next step: Create draft and propose work item to the working group.
 4. Review: ID WG [work items](https://github.com/decentralized-identity/identifiers-discovery/blob/main/README.md)
+   - Universal Resolver and Registrar - is maintained with little resources.
+   - did-common-java - dependency of registrar, etc. is maintained.
+   - [ ] did-common-dotnet - appears abandoned.
+   - [ ] did:peer - not yet ratified, should be pushed forward so it can be ratified.
+   - [ ] secret recovery - abandoned, not enough interest.
+   - did-resolver and did-jwt are active.
+   - DID spec extensions - extensions that are registered in the W3C did spec registries, maintained by Markus.
+   - We didn't managed to finish the list of work items (https://github.com/decentralized-identity/identifiers-discovery/blob/main/README.md). Next one is: Rust did:key Implementation.
 5. Proposal: ID WG Survey
-6. Other topics?
+   - We didn't get to this topic.
+6. Move meeting to a different time
+   - We didn't get to this topic.
+10. Other topics?
 
 ### Attendees
 
