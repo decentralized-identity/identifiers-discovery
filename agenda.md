@@ -145,6 +145,20 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
+## *Draft* Meeting - 12 Aug 2024 - (1400 ET) [TODO recording]()
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+10. 
+11. Other topics?
+
+### Attendees
+
+* TODO
+
 ## *Draft* Meeting - 29 Jul 2024 - (1400 ET) [TODO recording]()
 
 ### Agenda
@@ -153,15 +167,32 @@ analyze other, related initiatives and specifications.
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. [Jack] Delegating from one DID to another, signing VCs on behalf of another DID
-7. Updates on DID Traits
-8. Proposal: ID WG Survey
-9. Review: ID WG [work items](https://github.com/decentralized-identity/identifiers-discovery/blob/main/README.md) (remainder)
-10. 
-11. Other topics?
+   * Jack shares about key delegtation that they have implemented at Tonomy Foundation. However, the solution is not very privacy preserving.
+   * The proposal is to create a delegated DID that just lives in the browser and that can be trace back to the origintal DID.
+   * All existing delegation approaches require an update of the original DID document.
+   * Idea: create a new DID method that encodes a delegation VC into the DID. The VC proves the delegation, because the VC is signed by the original DID.
+   * Use case: Single Sign-on via an "authorized" DID.
+   * Challenge: capability delegation / DID linking could also be done via plain Verifiable Credentials.
+   * Next step: Jack will take the feedback and get back to the WG once the idea becomes more mature.
+7. Update on DID Traits
+   * Updated document: https://gist.github.com/jceb/8e37e4900e815eb14b207ad7e8d02a6c
+   * Feedback:
+     * DID Traits is a useful work item.
+     * Use a better word for "Trait", maybe "Characteristics".
+     * Add a trait the show whether the document is hosted some, e.g. relevant for privacy purposes.
+   * Next step: request feedback from the working group for the next two weeks and then officially accept the work item at the next call in 2 weeks.
+9. Proposal: ID WG Survey
+   * Didn't get to it.
+11. Review: ID WG [work items](https://github.com/decentralized-identity/identifiers-discovery/blob/main/README.md) (remainder)
+    * Didn't get to it
+13. Other topics?
 
 ### Attendees
 
-* TODO
+* Markus Sabadello
+* Jack Tanner
+* Tom Jones
+* Jan Christoph Ebersbach
 
 ## Meeting - 15 Jul 2024 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/t1vdpnUpA8i2HXYSyASSOi7-GvYTOSub_hNLLjqm0D_ror5NjeJIK_pzKta69K3S.oEbIlmx7Fdut6x-7)
 
