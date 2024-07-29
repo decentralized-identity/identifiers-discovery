@@ -159,7 +159,7 @@ analyze other, related initiatives and specifications.
 
 * TODO
 
-## *Draft* Meeting - 29 Jul 2024 - (1400 ET) [TODO recording]()
+## Meeting - 29 Jul 2024 - (1400 ET) [recording](TODO)
 
 ### Agenda
 
