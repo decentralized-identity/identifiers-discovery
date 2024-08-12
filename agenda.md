@@ -153,6 +153,7 @@ analyze other, related initiatives and specifications.
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. ...
+5. Review: ID WG [work items](https://github.com/decentralized-identity/identifiers-discovery/blob/main/README.md) (remainder)
 10. Other topics?
 
 ### Attendees
@@ -167,12 +168,18 @@ analyze other, related initiatives and specifications.
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Approval DID Traits Work Item
-5. Review: ID WG [work items](https://github.com/decentralized-identity/identifiers-discovery/blob/main/README.md) (remainder)
+   * The work item has been accepted by the working group.
+   * [ ] A repository will be set up to store the results.
+   * [ ] A separate call will be set up to align and work on this item.
+   * Christoph brought up the idea of testing traits in an automated manner. Guidance and test harnesses could be additional deliverables for this work item.
+6. Review: ID WG [work items](https://github.com/decentralized-identity/identifiers-discovery/blob/main/README.md) (remainder)
+   * postponed to next week.
 10. Other topics?
 
 ### Attendees
 
-* TODO
+* Christoph F.
+* Jan Christoph Ebersbach
 
 ## Meeting - 29 Jul 2024 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/X59u5vaQHMM_z_fxOdyRh5GzJcxYde9pCwvP5jFSDOSdPGz6tBjtzpcGPinME1-M.620TRaDENHtchgth)
 
