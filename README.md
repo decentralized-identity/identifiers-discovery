@@ -42,6 +42,7 @@ Current Work Items:
 | DID Registration | Specs | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/did-registration |
 | DID Method Enumeration | Specs | [@TelegramSam](https://github.com/TelegramSam) | https://github.com/decentralized-identity/did-method-enum |
 | Linked Verifiable Presentation | Specs | [@jceb](https://github.com/jceb) | https://github.com/decentralized-identity/linked-vp |
+| DID Traits | Specs | [@jceb](https://github.com/jceb) | https://github.com/decentralized-identity/did-traits |
 
 Former Work Items:
 
