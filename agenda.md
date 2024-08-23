@@ -145,15 +145,30 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## *Draft* Meeting - 26 Aug 2024 - (1400 ET) [TODO recording]()
+## *Draft* Meeting - 8 Sep 2024 - (1400 ET) [TODO recording]()
 
 ### Agenda
 
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. ...
-5. Review: ID WG [work items](https://github.com/decentralized-identity/identifiers-discovery/blob/main/README.md) (remainder)
+4. Review: ID WG [work items](https://github.com/decentralized-identity/identifiers-discovery/blob/main/README.md) (remainder)
+5. Update DID Traits
+10. Other topics?
+
+### Attendees
+
+* TODO
+
+## Meeting - 26 Aug 2024 - (1400 ET) [recording](TODO)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Review: ID WG [work items](https://github.com/decentralized-identity/identifiers-discovery/blob/main/README.md) (remainder)
+5. Update DID Traits
 10. Other topics?
 
 ### Attendees
