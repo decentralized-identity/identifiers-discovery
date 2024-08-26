@@ -167,14 +167,40 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. Update DID Traits
-5. New work item: did:tdw
-6. Review: ID WG [work items](https://github.com/decentralized-identity/identifiers-discovery/blob/main/README.md) (remainder)
+4. New work item: did:tdw
+   - did:tdw addresses some of the feedback that was expressed about did:web.
+   - This working group has a history of working on DID method standardization, did:tdw fits in well.
+   - Stephan Curran gives an overview of did:tdw. The goal of did:tdw is to improve did:web. [Link to presentation](Presentation: https://docs.google.com/presentation/d/12NSbKbE3YfjjPuq8m0uEdn6hQ43wbW3YrW5auksbASQ/edit?usp=sharing)
+   - An important reason for bringing did:tdw to DIF is to find a neutral place to standardize and merge it with did:web eventually.
+   - Next steps:
+     - The work item will be presented to the working group.
+     - Once the working group approves it, the work item can be started and repositories will be transferred and set up at DIF.
+6. Update DID Traits
+   - The call will be a bi-weekly call on Tuesday, 5pm CEST. The first call will be on 03.09. 5pm CEST. 
+7. Review: ID WG [work items](https://github.com/decentralized-identity/identifiers-discovery/blob/main/README.md) (remainder)
+   - Universal Resolver and Registrar - is maintained with little resources.
+   - did-common-java - dependency of registrar, etc. is maintained.
+   - [ ] did-common-dotnet - appears abandoned.
+   - [ ] did:peer - not yet ratified, should be pushed forward so it can be ratified.
+   - [ ] secret recovery - abandoned, not enough interest.
+   - did-resolver and did-jwt are active.
+   - DID spec extensions - extensions that are registered in the W3C did spec registries, maintained by Markus.
+   - [ ] Rust did:key - appears abandoned.
+   - DID registration - spec is complete and active.
+   - [ ] DID Method Enumeration - spec is not complete, yet. Align with Sam.
+   - Markus will update the list of work items.
 10. Other topics?
 
 ### Attendees
 
-* TODO
+* Stephan Curran
+* Kim Duffy
+* Markus Sabadello
+* Patrick St. Louis
+* Rob Aaron
+* Przemek
+* PmcB
+* Jan Christoph Ebersbach
 
 ## Meeting - 12 Aug 2024 - (1400 ET) [recording](TODO)
 
