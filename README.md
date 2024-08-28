@@ -30,6 +30,7 @@ Current Work Items:
 | Universal Resolver | Code | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/universal-resolver<br> https://github.com/decentralized-identity/universal-resolver-frontend<br> (various drivers) |
 | Universal Registrar | Code | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/universal-registrar<br> https://github.com/decentralized-identity/universal-registrar-frontend<br> (various drivers) |
 | did-common-java | Code | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/did-common-java |
+| did:peer Method | Specs | [@dhh1128](https://github.com/dhh1128) | https://github.com/decentralized-identity/peer-did-method-spec |
 | JavaScript DID Resolver | Code | [@pelle](https://github.com/pelle), [@mirceanis](https://github.com/mirceanis) | https://github.com/decentralized-identity/did-resolver<br> https://github.com/decentralized-identity/ethr-did-resolver<br> https://github.com/decentralized-identity/web-did-resolver |
 | JavaScript DID JWT | Code | [@pelle](https://github.com/pelle), [@mirceanis](https://github.com/mirceanis) | https://github.com/decentralized-identity/did-jwt<br> https://github.com/decentralized-identity/did-jwt-vc |
 | DID Spec Extensions | Specs | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/did-spec-extensions |
@@ -43,7 +44,6 @@ Former Work Items:
 | ----------- | -------------- | -------------- | ---------------- | ----------------------- |
 | Linked Verifiable Presentation | Specs | [@jceb](https://github.com/jceb) | Completed | https://github.com/decentralized-identity/linked-vp |
 | .well-known DID Configuration | Specs | [@csuwildcat](https://github.com/csuwildcat), [@OR13](https://github.com/OR13) | Completed | https://github.com/decentralized-identity/.well-known |
-| did:peer Method | Specs | [@dhh1128](https://github.com/dhh1128) | Completed | https://github.com/decentralized-identity/peer-did-method-spec |
 | Secret Recovery Methods (Fuzzy Encryption, Horcrux) | Documentation | [@TomCJones](https://github.com/TomCJones), [@csuwildcat](https://github.com/csuwildcat), [@johncallahan](https://github.com/johncallahan) | Inactive | https://github.com/decentralized-identity/secret-recovery-methods<br> https://github.com/decentralized-identity/fuzzy-encryption<br> https://github.com/decentralized-identity/horcrux |
 | Rust did:key Implementation | Code | [@tmarkovski](https://github.com/tmarkovski) | Inactive | https://github.com/decentralized-identity/did-key.rs |
 | did-common-dotnet | Code | [@juanfranblanco](https://github.com/juanfranblanco), [@veikkoeeva](https://github.com/veikkoeeva) | Inactive | https://github.com/decentralized-identity/did-common-dotnet |
