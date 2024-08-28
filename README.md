@@ -40,15 +40,15 @@ Current Work Items:
 Former Work Items:
 
 | Name | Type | Leads | Status | Link(s) |
-| ----------- | -------------- | ---------------- | ----------------------- |
+| ----------- | -------------- | -------------- | ---------------- | ----------------------- |
 | Linked Verifiable Presentation | Specs | [@jceb](https://github.com/jceb) | Completed | https://github.com/decentralized-identity/linked-vp |
-| KERI | Specs and Code | Transitioned into separate Working Group | https://github.com/decentralized-identity/keri/ |
 | .well-known DID Configuration | Specs | [@csuwildcat](https://github.com/csuwildcat), [@OR13](https://github.com/OR13) | Completed | https://github.com/decentralized-identity/.well-known |
 | did:peer Method | Specs | [@dhh1128](https://github.com/dhh1128) | Completed | https://github.com/decentralized-identity/peer-did-method-spec |
 | Secret Recovery Methods (Fuzzy Encryption, Horcrux) | Documentation | [@TomCJones](https://github.com/TomCJones), [@csuwildcat](https://github.com/csuwildcat), [@johncallahan](https://github.com/johncallahan) | Inactive | https://github.com/decentralized-identity/secret-recovery-methods<br> https://github.com/decentralized-identity/fuzzy-encryption<br> https://github.com/decentralized-identity/horcrux |
 | Rust did:key Implementation | Code | [@tmarkovski](https://github.com/tmarkovski) | Inactive | https://github.com/decentralized-identity/did-key.rs |
 | did-common-dotnet | Code | [@juanfranblanco](https://github.com/juanfranblanco), [@veikkoeeva](https://github.com/veikkoeeva) | Inactive | https://github.com/decentralized-identity/did-common-dotnet |
 | JSON-LD Document Loader | Code | [@OR13](https://github.com/OR13) | Inactive | https://github.com/decentralized-identity/jsonld-document-loader |
-| Sidetree | Specs and Code|  | Transitioned into separate Working Group | https://identity.foundation/working-groups/sidetree.html |
+| KERI | Specs and Code | | Transitioned into separate Working Group | https://github.com/decentralized-identity/keri/ |
+| Sidetree | Specs and Code | | Transitioned into separate Working Group | https://identity.foundation/working-groups/sidetree.html |
 | DIF Security Context | Specs | | Transitioned into W3C DID Spec Registries | https://github.com/decentralized-identity/context |
 | Python DID Resolver | Specs | | Abandoned | https://github.com/decentralized-identity/universal-resolver-python |
