@@ -28,7 +28,7 @@ work items. Any work item lead can organize Work Item Calls about their work ite
 <summary> `did:tdw` Work Item Call - <b>Every second Thursday 0900 PT</b></summary>
 
 <br>This weekly Work Item Call is dedicated to the [`did:tdw`](https://github.com/decentralized-identity/trustdidweb) work item.
-We discuss issues related to the specification, and how the Work Item could related to other technologies.
+We discuss issues related to the specification, and how the Work Item could relate to other technologies.
 
 [Meeting page](https://hackmd.io/k4cIK9vQSlaeg2pdHE51IQ)
 </details>
@@ -37,7 +37,7 @@ We discuss issues related to the specification, and how the Work Item could rela
 <summary> DID Traits Work Item Call - <b>Every second Tuesday 1700 CET</b></summary>
 
 <br>This weekly Work Item Call is dedicated to the [DID Traits](https://github.com/decentralized-identity/did-traits) work item.
-We discuss issues related to the specification, and how the Work Item could related to other technologies.
+We discuss issues related to the specification, and how the Work Item could relate to other technologies.
 
 [Meeting invite](https://us02web.zoom.us/meeting/tZclcu2trDovG9yFuVyb8pKZg2V5UUEiK3KT/ics?icsToken=98tyKuGrpj4uH9aUtRiPRpwqGo_4LO_zpn5YjfpEugrTGiILcijMMbB0Z4dKNdH7&meetingMasterEventId=WIjqlq6-TsObDjICSCeEuA) | [Zoom room](https://us02web.zoom.us/j/83854521518?pwd=xqz8DDKllme5KlgCZcRK1GtW7ncdrx.1)
 </details>
@@ -46,7 +46,7 @@ We discuss issues related to the specification, and how the Work Item could rela
 <summary> Linked VP Work Item Call - <b>Every second Thursday of the month 1900 CET</b></summary>
 
 <br>This weekly Work Item Call is dedicated to the [Linked Verifiable Presentations](https://github.com/decentralized-identity/linked-vp) work item.
-We discuss issues related to the specification, and how the Work Item could related to other technologies.
+We discuss issues related to the specification, and how the Work Item could relate to other technologies.
 
 [Meeting invite](https://raw.githubusercontent.com/decentralized-identity/identifiers-discovery/main/calendar/linked-vp-work-item-call.ics) | [Zoom room](https://us02web.zoom.us/j/85354994850?pwd=ZHRpaDQrZ2YzYnFmUE51eitkMjZiZz09)
 
