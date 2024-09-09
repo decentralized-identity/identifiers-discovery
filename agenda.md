@@ -163,7 +163,7 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## Meeting - 09 Sep 2024 - (1400 ET) [TODO recording]()
+## Meeting - 09 Sep 2024 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/MnlfzzhbS7dGB3Z8NtqBZzbGjTEpYC_4HaxiPF2DQRL_8V90z5o28Cc5Q2h_Sb96.U4XbHlI-nas4KLw9)
 
 ### Agenda
 
@@ -178,7 +178,7 @@ analyze other, related initiatives and specifications.
 
 * TODO
 
-## Meeting - 26 Aug 2024 - (1400 ET) [recording](TODO)
+## Meeting - 26 Aug 2024 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/iUqhfnfIdZFcJ2-Ti0QxfPCSeJ3gw5-h2DlNyLphJAKp796wR9qb0XzKa5K1qxEs.MU3a4SpmWrOOAG16)
 
 ### Agenda
 
@@ -220,7 +220,7 @@ analyze other, related initiatives and specifications.
 * PmcB
 * Jan Christoph Ebersbach
 
-## Meeting - 12 Aug 2024 - (1400 ET) [recording](TODO)
+## Meeting - 12 Aug 2024 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/tlcud23pFElLyMvh1voMxKR69xeqxXrCXTfyyK2AiR7tGLTpSnwOpWa4GLD_Ad_o.TkKkOj-gyvviWviH)
 
 ### Agenda
 
