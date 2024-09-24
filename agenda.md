@@ -163,19 +163,22 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## ~~Meeting - 23 Sep 2024 - (1400 ET)~~ canceled due W3C TPAC 2024
+## Meeting - 07 Oct 2024 - (1400 ET)
 
 ### Agenda
 
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. ...
+4. Work item updates
+5. DID portability, DID rotation, redirecting a DID
 6. Other topics?
 
 ### Attendees
 
 * TODO
+
+## ~~Meeting - 23 Sep 2024 - (1400 ET)~~ canceled due W3C TPAC 2024
 
 ## Meeting - 09 Sep 2024 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/MnlfzzhbS7dGB3Z8NtqBZzbGjTEpYC_4HaxiPF2DQRL_8V90z5o28Cc5Q2h_Sb96.U4XbHlI-nas4KLw9)
 
