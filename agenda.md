@@ -163,7 +163,7 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## Meeting - 23 Sep 2024 - (1400 ET)
+## ~~Meeting - 23 Sep 2024 - (1400 ET)~~ canceled due W3C TPAC 2024
 
 ### Agenda
 
