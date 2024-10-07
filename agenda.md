@@ -184,13 +184,30 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
+   * Markus informs the group: there are currently two new calls in addition to the bi-weekly regular working group call.
+   * Markus informs the group: https://blog.identity.foundation/did-method-standardization-initiative-progress-update-and-next-steps/ 
 4. Work item updates
+   * [did:tdw](https://github.com/decentralized-identity/trustdidweb):
+     * Version 0.4 has been merged. This is likely the last big change before releasing version 1.0.
+     * The implementation of a witness has been updated.
+     * The plan is deploy the implementations in production scenarios in the next few weeks.
+   * [DID Traits](https://github.com/decentralized-identity/did-traits): The first deliverable of an aligned list of traits is under way. More feedback is needed from more people.
 5. DID portability, DID rotation, redirecting a DID
+   * Joao and Christoph: a [specification](https://www.ownyourdata.eu/en/did-rotation/) and [implementation](https://github.com/OwnYourData/oydid/blob/8e0841826ae06be63df77515753e49df2e31b634/ruby-gem/lib/oydid/log.rb) has been created that allows a DID to have a successor DID.
+   * The functionality could be added as a trait to the DID Traits effort.
+   * The W3C DID specification could also reference this DID rotation specification.
+   * Idea: The functionality could be added to the Universal Registrar, so adding references and deactivating the old identifier becomes one function call to the registrar.
+   * Potential issue: The semantics of the current specification that uses the "also known as" attribute are not entirely clear. This could be resolved in an official specification.
 6. Other topics?
 
 ### Attendees
 
-* TODO
+* Jao Pedro Alonso Almeida
+* João Otávio Cano
+* Stephen Curran
+* Christoph Fabianek
+* Markus Sabadello
+* Jan Christoph Ebersbach
 
 ## ~~Meeting - 23 Sep 2024 - (1400 ET)~~ canceled due W3C TPAC 2024
 
