@@ -188,7 +188,7 @@ analyze other, related initiatives and specifications.
    * [did:tdw](https://github.com/decentralized-identity/trustdidweb):
      * 0.4 version is almost ready.
      * 4-5 implementations exist.
-     * didtdw.org
+     * Custom website for did:tdw [didtdw.org](https://didtdw.org)
      * DID method will be registered.
      * Universal Resolver implementation is being planned.
      * Presentations will be held at the upcoming IIW.
