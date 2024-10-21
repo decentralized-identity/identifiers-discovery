@@ -185,11 +185,28 @@ analyze other, related initiatives and specifications.
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Work item updates
+   * [did:tdw](https://github.com/decentralized-identity/trustdidweb):
+     * 0.4 version is almost ready.
+     * 4-5 implementations exist.
+     * didtdw.org
+     * DID method will be registered.
+     * Universal Resolver implementation is being planned.
+     * Presentations will be held at the upcoming IIW.
+     * Merger of did:web and did:tdw is being dicussed.
+     * [did:tdw server](https://github.com/decentralized-identity/trustdidweb-server-py) is being implemented with UNTP.
+   * [DID Traits](https://github.com/decentralized-identity/did-traits):
+     * Important meeting last week with the conclusion that "metadata" like "is a universal resolver driver available" will not be part of the traits specification. The specification will solely focus on binary traits like "is key pre-rotation supported".
+     * The next step is to define what will be part of the 0.1 release.
 6. Other topics?
 
 ### Attendees
 
-* TODO
+* Stephen Curran
+* Rob Aaron
+* Dolores Macauley
+* João Otávio Cano
+* Joao Pedro Alonso Almeida
+* Jan Christoph Ebersbach
 
 ## Meeting - 07 Oct 2024 - (1400 ET) [recording](TODO)
 
