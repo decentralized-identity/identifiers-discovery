@@ -177,7 +177,7 @@ analyze other, related initiatives and specifications.
 
 * TODO
 
-## Draft Meeting - 02 Dec 2024 - (1400 ET)  [recording](TODO)
+## Meeting - 02 Dec 2024 - (1400 ET)  [recording](TODO)
 
 ### Agenda
 
