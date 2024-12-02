@@ -185,13 +185,20 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. Discuss work item proposal for `<did>/whois`
-5. Work item updates
-6. Other topics?
+4. Work item updates
+5. Work item proposal for `<did>/whois`
+6. Experimental Universal Resolver/Registrar support for DID Traits: https://uniregistrar.io/1.0/traits
+7. Short discussion about DID Resolution over DIDComm: https://github.com/hyperledger/aries-rfcs/tree/main/features/0124-did-resolution-protocol
+8. DID support in SD-JWT VC: https://github.com/oauth-wg/oauth-sd-jwt-vc/pull/278
+9. Other topics?
 
 ### Attendees
 
-* TODO
+* Markus Sabadello
+* Rob Aaron
+* Vik
+* Stephen Curran
+* Michael Herman
 
 ## Meeting - 18 Nov 2024 - (1400 ET)  [recording](TODO)
 
