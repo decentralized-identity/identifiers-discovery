@@ -178,7 +178,7 @@ analyze other, related initiatives and specifications.
 
 * TODO
 
-## Meeting - 02 Dec 2024 - (1400 ET)  [recording](TODO)
+## Meeting - 02 Dec 2024 - (1400 ET)  [recording](https://us02web.zoom.us/rec/share/bleuF09RnkPEhQvlwN6O35J8KTuSRBUZHqmMUOCh4_nNt9KSmrNI5Fyn_p4QfZAk.y95D6IN599_2_J0D)
 
 ### Agenda
 
@@ -200,7 +200,7 @@ analyze other, related initiatives and specifications.
 * Stephen Curran
 * Michael Herman
 
-## Meeting - 18 Nov 2024 - (1400 ET)  [recording](TODO)
+## Meeting - 18 Nov 2024 - (1400 ET)  [recording](https://us02web.zoom.us/rec/share/mh3dI2YQe9p9Y4KJZDmFw57nPU_kHTEkJbXJ66ERzCpn7qyMj5Bn0TTvt4MyHrEQ.PNLEb9WVXUWU8sva)
 
 ### Agenda
 
@@ -221,7 +221,7 @@ analyze other, related initiatives and specifications.
 * Tom Jones
 * Jan Christoph Ebersbach
 
-## Meeting - 4 Nov 2024 - (1400 ET)  [recording](TODO)
+## Meeting - 4 Nov 2024 - (1400 ET)  [recording](https://us02web.zoom.us/rec/share/q5Inpjc7FX-l5akpVD2ujOihLh7CZayKe3SfjSiCxw9b5lMKn87L-un7DPdDz2xi.B4VKBiapLbk0q45r)
 
 ### Agenda
 
@@ -236,7 +236,7 @@ analyze other, related initiatives and specifications.
 
 * TODO
 
-## Meeting - 21 Oct 2024 - (1400 ET)  [recording](TODO)
+## Meeting - 21 Oct 2024 - (1400 ET)  [recording](https://us02web.zoom.us/rec/share/ac8bAdhMwHS7XQnQTNcevYkEqYG35vrE0tQFY7onoZ52wfVoB8g4hUHij-4iBmkP.3hO8YzQjxltXVJiR)
 
 ### Agenda
 
@@ -267,7 +267,7 @@ analyze other, related initiatives and specifications.
 * Joao Pedro Alonso Almeida
 * Jan Christoph Ebersbach
 
-## Meeting - 07 Oct 2024 - (1400 ET) [recording](TODO)
+## Meeting - 07 Oct 2024 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/gqyULRF_VNxMSRAFhjsARY5cLn9D8MiHTvxuCml0fSNmnKj0oUohQWR6t_AY5N9b.hJA93giM-N0mJfpq)
 
 ### Agenda
 
