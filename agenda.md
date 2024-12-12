@@ -25,9 +25,9 @@ In addition to the regular I&D WG meetings, we also hold Work Item Calls dedicat
 work items. Any work item lead can organize Work Item Calls about their work item.
 
 <details>
-<summary> did:tdw Work Item Call - <b>Every second Thursday 0900 PT</b></summary>
+<summary> did:webvh Work Item Call - <b>Every second Thursday 0900 PT</b></summary>
 
-<br>This weekly Work Item Call is dedicated to the [`did:tdw`](https://github.com/decentralized-identity/trustdidweb) work item.
+<br>This weekly Work Item Call is dedicated to the [`did:webvh`](https://github.com/decentralized-identity/trustdidweb) work item.
 We discuss issues related to the specification, and how the Work Item could relate to other technologies.
 
 [Meeting page](https://hackmd.io/k4cIK9vQSlaeg2pdHE51IQ)
