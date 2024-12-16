@@ -176,7 +176,10 @@ analyze other, related initiatives and specifications.
 
 ### Attendees
 
-* TODO
+* Sid Lamichhane
+* Rob Aaron
+* Stephen Curran
+* Markus Sabadello
 
 ## Meeting - 16 Dec 2024 - (1400 ET)  [recording](TODO)
 
