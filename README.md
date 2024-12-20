@@ -38,6 +38,7 @@ Current Work Items:
 | DID Method Enumeration | Specs | [@TelegramSam](https://github.com/TelegramSam) | https://github.com/decentralized-identity/did-method-enum |
 | DID Traits | Specs | [@jceb](https://github.com/jceb) | https://github.com/decentralized-identity/did-traits |
 | did:webvh Method | Specs | [@swcurran](https://github.com/swcurran/) | https://github.com/decentralized-identity/didwebvh, https://didwebvh.info/ |   
+| did/whois | Specs | [@swcurran](https://github.com/swcurran/) | https://github.com/decentralized-identity/did-whois |   
 
 Former Work Items:
 
