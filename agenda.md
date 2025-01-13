@@ -194,6 +194,7 @@ analyze other, related initiatives and specifications.
    * The goal is to look back on 2024 and look forward to 2025 to identify new work items and bring together people with common intrests from our working group.
    * Jan Christoph's interest is to build real-world applications that use DIDs.
 9. (Ben Taylor, Victor Dods) Update on did:webplus
+   * Slides: https://docs.google.com/presentation/d/1dnQHCe_E3ACdUDN5GCLIEsyrYI4ohaiazOi3Deh7Muw/edit?usp=sharing
    * did:web starting point - it doesn't meet the requirements of long-term verifiablity, availability and non-repudiability.
    * Goal: create a "strong" DID method that meets the requirements that are relevant to the health care industry (https://www.oc-i.org/).
    * Resolution works like did:web.
