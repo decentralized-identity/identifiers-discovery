@@ -202,7 +202,8 @@ analyze other, related initiatives and specifications.
    * Components:
      * DID Document Store, low-level component that exists creates a micro-ledger for a DID Document and can detect if multiple concurrent versions (forks) exist at the same time. Used by the VDR and the VDG
      * Verifiable Data Gateway (VDG): Large-scale caching of DID documments. Has a consensus algorithm to synchronize changes between VDGs. Small number of VDGs exist that are run by neutral organizations.
-   * Implementations for different components exist: https://github.com/LedgerDomain/did-webplus/
+   * Implementations for all the components exist: https://github.com/LedgerDomain/did-webplus/
+   * There is no official specification, yet.
 11. (JC) DID Traits submission for review by working group
    * The DID Traits work item is ready for submission and will be submitted to the working group in the next few days.
 10. Other topics?
