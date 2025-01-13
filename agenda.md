@@ -187,7 +187,7 @@ analyze other, related initiatives and specifications.
 4. Work item updates
 5. (Markus) Update from DID Methods WG: https://github.com/decentralized-identity/did-methods/
 6. (JC and Markus) Planned townhall meeting and outlook for 2025
-7. (Ben Taylor) Update on did:webplus
+7. (Ben Taylor, Victor Dods) Update on did:webplus
 8. (JC) DID Traits submission for review by working group
 9. Other topics?
 
