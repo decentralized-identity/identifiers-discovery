@@ -185,11 +185,26 @@ analyze other, related initiatives and specifications.
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Work item updates
-5. (Markus) Update from DID Methods WG: https://github.com/decentralized-identity/did-methods/
-6. (JC and Markus) Planned townhall meeting and outlook for 2025
-7. (Ben Taylor, Victor Dods) Update on did:webplus
-8. (JC) DID Traits submission for review by working group
-9. Other topics?
+   * did:webvh meeting coming up on Thursday. Implementation is under way. Agenda ot the meeting: https://hackmd.io/k4cIK9vQSlaeg2pdHE51IQ
+6. (Markus) Update from DID Methods WG: https://github.com/decentralized-identity/did-methods/
+   * DID method standardization has started.
+   * [DID method selection criteria](https://github.com/decentralized-identity/did-methods/tree/main/selection-criteria) for and proposals for [DID method standardization](https://github.com/decentralized-identity/did-methods/tree/main/method-proposals) 
+7. (JC and Markus) Planned townhall meeting and outlook for 2025
+   * Proposal of holding a townhall meeting on 27 Jan, instead of the bi-weekly meeting.
+   * The goal is to look back on 2024 and look forward to 2025 to identify new work items and bring together people with common intrests from our working group.
+   * Jan Christoph's interest is to build real-world applications that use DIDs.
+9. (Ben Taylor, Victor Dods) Update on did:webplus
+   * did:web starting point - it doesn't meet the requirements of long-term verifiablity, availability and non-repudiability.
+   * Goal: create a "strong" DID method that meets the requirements that are relevant to the health care industry (https://www.oc-i.org/).
+   * Resolution works like did:web.
+   * Identifier is self-certifying.
+   * Components:
+     * DID Document Store, low-level component that exists creates a micro-ledger for a DID Document and can detect if multiple concurrent versions (forks) exist at the same time. Used by the VDR and the VDG
+     * Verifiable Data Gateway (VDG): Large-scale caching of DID documments. Has a consensus algorithm to synchronize changes between VDGs. Small number of VDGs exist that are run by neutral organizations.
+   * Implementations for different components exist: https://github.com/LedgerDomain/did-webplus/
+11. (JC) DID Traits submission for review by working group
+   * The DID Traits work item is ready for submission and will be submitted to the working group in the next few days.
+10. Other topics?
 
 ### Attendees
 
