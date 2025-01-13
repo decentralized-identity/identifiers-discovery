@@ -185,9 +185,11 @@ analyze other, related initiatives and specifications.
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Work item updates
-5. (Ben Taylor) Update on did:webplus
-6. DID Traits submission for review by working group
-7. Other topics?
+5. (Markus) Update from DID Methods WG: https://github.com/decentralized-identity/did-methods/
+6. (JC and Markus) Planned townhall meeting and outlook for 2025
+7. (Ben Taylor) Update on did:webplus
+8. (JC) DID Traits submission for review by working group
+9. Other topics?
 
 ### Attendees
 
