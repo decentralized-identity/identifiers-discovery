@@ -210,7 +210,12 @@ analyze other, related initiatives and specifications.
 
 ### Attendees
 
-* 
+* Juan Caballero
+* Markus Sabadello
+* Stephen Curran
+* Victor Dods
+* Otto Mora
+* Jan Christoph Ebersbach
 
 ## ~~Meeting - 30 Dec 2024 - (1400 ET)~~ canceled due to holidays
 
