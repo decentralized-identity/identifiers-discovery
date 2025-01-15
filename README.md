@@ -15,7 +15,7 @@ Members of the Working Group are engaged in development of protocols and systems
 - [Meeting page](https://github.com/decentralized-identity/identifiers-discovery/blob/main/agenda.md)
 - [Meeting recordings](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit#gid=111226877)
 - [Slack channel](https://difdn.slack.com/messages/C4WED8JSH)
-- [Calendar entry](https://calendar.google.com/event?action=TEMPLATE&tmeid=OWtzNWZuanA4bWRnYmF0ZnVxaDR0MnQ2cGVfMjAyMDA5MjFUMTgwMDAwWiBkZWNlbnRyYWxpemVkLmlkZW50aXR5QG0&tmsrc=decentralized.identity%40gmail.com&scp=ALL)
+- [Calendar entry](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWwzYmI3Y2c0aG9qdmt1Z2kxYzRtM2hsbjNfMjAyNTAxMjdUMTkwMDAwWiBkZWNlbnRyYWxpemVkLmlkZW50aXR5QG0=&tmsrc=decentralized.identity%40gmail.com&scp=ALL)
 - To participate, [join DIF](https://identity.foundation/join), and [sign the WG charter](https://bit.ly/DIF-WG-select1) (both are required!)
 
 ## Work Items
