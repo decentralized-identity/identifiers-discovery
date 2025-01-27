@@ -177,7 +177,7 @@ analyze other, related initiatives and specifications.
 
 * 
 
-## Meeting - 27 Jan 2025 - (1400 ET)  [recording](TODO)
+## Meeting - 27 Jan 2025 - (1400 ET)  [recording](https://us02web.zoom.us/rec/share/k1wrFH0dTMaRJpcRzTWLedcbfJAAIqiF_2W8Pv2MqZ3zzuRqM4NdUlVwbaB9NSN1.nnMIbQ_UunIGKapv)
 
 ### Agenda
 
