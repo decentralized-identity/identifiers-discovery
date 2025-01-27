@@ -184,10 +184,18 @@ analyze other, related initiatives and specifications.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Strategic town hall meeting: Achievements from 2024 and opportunities ahead for 2025
+   * Presentation: https://slidesdown.github.io/?slides=https%3A%2F%2Fgist.github.com%2Fjceb%2Fe9deddc7972af059365ec9b50c490c68
 
 ### Attendees
 
-* 
+* Brian Richter
+* Ken Griggs
+* Victor Lu
+* Markus Sabadello
+* Sam Curren
+* Limari Navarrete
+* Jan Christoph Ebersbach
+* Tom Jones
 
 ## Meeting - 13 Jan 2025 - (1400 ET)  [recording](TODO)
 
