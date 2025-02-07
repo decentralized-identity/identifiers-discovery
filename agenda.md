@@ -163,7 +163,7 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## Draft Meeting - 10 Feb 2025 - (1400 ET)  [recording](TODO)
+## Draft Meeting - 24 Feb 2025 - (1400 ET)  [recording](TODO)
 
 ### Agenda
 
