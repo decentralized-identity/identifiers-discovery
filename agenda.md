@@ -177,6 +177,20 @@ analyze other, related initiatives and specifications.
 
 * 
 
+## Meeting - 10 Feb 2025 - (1400 ET)  [recording](TODO)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Work item updates
+10. Other topics?
+
+### Attendees
+
+* 
+
 ## Meeting - 27 Jan 2025 - (1400 ET)  [recording](https://us02web.zoom.us/rec/share/k1wrFH0dTMaRJpcRzTWLedcbfJAAIqiF_2W8Pv2MqZ3zzuRqM4NdUlVwbaB9NSN1.nnMIbQ_UunIGKapv)
 
 ### Agenda
