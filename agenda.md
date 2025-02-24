@@ -164,6 +164,28 @@ analyze other, related initiatives and specifications.
 </details>
 
 ## Meeting - 24 Feb 2025 - (1400 ET)  [recording](TODO)
+## Meeting - 24 Feb 2025 - (1400 ET) [recording](TODO)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Work item updates
+   - DID Traits work item: next meeting on 18 March. Next steps are the integration into the DID Extensions Repository and also the pursuit of version 1.0 of the specification.
+5. [Snorre] DID methods backed by biometrics
+   - Snorre shares that his employers has technology to deterministically generate a private key from a face. He wonders how this functionality could be linked to the SSI ecosystem.
+   - The technology can work with all kinds of biometric inputs, e.g. also fingers.
+   - Feedback: representing humanness could be done using Verifiable Credentials, e.g. [Personhood Credentials](https://arxiv.org/abs/2408.07892).
+   - Feedback: the private key generation is a unique feature that might be valuable for key management.
+6. Other topics?
+
+### Attendees
+
+- Markus Sabadello
+- Ben Coats
+- Snorre Lothar von Gohren Edwin
+- Jan Christoph Ebersbach
 
 ### Agenda
 
@@ -173,10 +195,6 @@ analyze other, related initiatives and specifications.
 4. Work item updates
 5. [Snorre] DID methods backed by biometrics
 6. Other topics?
-
-### Attendees
-
-* 
 
 ## Meeting - 10 Feb 2025 - (1400 ET)  [recording](TODO)
 
