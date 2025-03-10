@@ -163,7 +163,7 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
-## Draft Meeting - 10 Mar 2025 - (1400 ET) [recording](TODO)
+## Draft Meeting - 24 Mar 2025 - (1400 ET) [recording](TODO)
 
 ### Agenda
 
@@ -176,6 +176,8 @@ analyze other, related initiatives and specifications.
 ### Attendees
 
 -
+
+## ~~Meeting - 10 Mar 2025 - (1400 ET)~~ canceled due to scheduling conflicts
 
 ## Meeting - 24 Feb 2025 - (1400 ET) [recording](TODO)
 
