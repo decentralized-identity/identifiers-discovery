@@ -163,6 +163,8 @@ analyze other, related initiatives and specifications.
 - ...
 </details>
 
+## ~~Meeting - 07 Apr 2025 - (1400 ET)~~ canceled due to Internet Identity Workshop
+
 ## Draft Meeting - 24 Mar 2025 - (1400 ET) [recording](TODO)
 
 ### Agenda
