@@ -179,6 +179,52 @@ analyze other, related initiatives and specifications.
 
 -
 
+## Meeting - 24 Mar 2025 - (1400 ET) [recording](TODO)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Work item updates
+5. Live working session on https://identity.foundation/.well-known/did.json and
+   https://identity.foundation/.well-known/did-configuration.json
+   1. The "Well Known DID Configuration" is in this repo:
+      https://github.com/decentralized-identity/.well-known
+   2. DIF's website is in this repo:
+      https://github.com/decentralized-identity/decentralized-identity.github.io
+   3. The repo in 1. also contains these files:
+      - "did.json", this is used for DIF's own example DID
+        did:web:identity.foundation
+      - "did-configuration.json", this is used of DIF's own "Well Known DID
+        Configuration", i.e. to link DIF's DIF to DIF's domain name.
+   4. We agreed that these two files "did.json" and "did-configuration.json"
+      should be moved from the repo in 1. to the repo in 2.
+   5. We agreed that the repo in 1. is currently published at a path that feels
+      a bit strange:
+      https://identity.foundation/.well-known/resources/did-configuration/, and
+      that therefore the repo should be renamed, e.g. to
+      "well-known-did-configuration".
+   6. We agreed that DIF's "did-configuration.json" file should be updated to
+      link to a DID other than the current did:key one. It could for example
+      link to the DID did:web:identity.foundation, or another one that we
+      create.
+   7. We agreed that DIF's "did.json" file should be updated to contain a
+      service endpoint according to the Linked VP specification, i.e. to enable
+      discovery of a VP from the DID. This VP could simply contain a single
+      self-asserted VC.
+   8. Identinet has a well-developed setup of all these concepts, so we can use
+      this as an example:
+      - https://identinet.io/.well-known/did.json
+      - https://identinet.io/.well-known/did-configuration.json
+
+### Attendees
+
+* Markus Sabadello
+* Jan Christoph Ebersbach
+* Otto Mora
+* ..
+
 ## ~~Meeting - 10 Mar 2025 - (1400 ET)~~ canceled due to scheduling conflicts
 
 ## Meeting - 24 Feb 2025 - (1400 ET) [recording](TODO)
