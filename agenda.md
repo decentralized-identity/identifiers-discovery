@@ -161,11 +161,10 @@ analyze other, related initiatives and specifications.
 - ~~**Work Item Call - 18 May 2022 - (1100CET)**~~ canceled
 - **Work Item Call - 25 May 2022 - (1100CET)**
 - ...
+
 </details>
 
-## ~~Meeting - 07 Apr 2025 - (1400 ET)~~ canceled due to Internet Identity Workshop
-
-## Draft Meeting - 24 Mar 2025 - (1400 ET) [recording](TODO)
+## Draft Meeting - 5 May 2025 - (1400 ET) [recording](TODO)
 
 ### Agenda
 
@@ -173,11 +172,27 @@ analyze other, related initiatives and specifications.
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Work item updates
-5. Live working session on https://identity.foundation/.well-known/did.json and https://identity.foundation/.well-known/did-configuration.json
 
 ### Attendees
 
 -
+
+## Draft Meeting - 21 Apr 2025 - (1400 ET) [recording](TODO)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Work item updates
+5. Live working session on https://identity.foundation/.well-known/did.json and
+   https://identity.foundation/.well-known/did-configuration.json
+
+### Attendees
+
+-
+
+## ~~Meeting - 07 Apr 2025 - (1400 ET)~~ canceled due to Internet Identity Workshop
 
 ## Meeting - 24 Mar 2025 - (1400 ET) [recording](TODO)
 
