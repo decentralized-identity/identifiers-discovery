@@ -43,7 +43,7 @@ We discuss issues related to the specification, and how the Work Item could rela
 </details>
 
 <details>
-<summary> Linked VP Work Item Call - <b>Every second Thursday of the month 1900 CET</b></summary>
+<summary> Linked VP Work Item Call - <b>Every second Thursday of the month 1900 CET (discontinued)</b></summary>
 
 <br>This weekly Work Item Call is dedicated to the [Linked Verifiable Presentations](https://github.com/decentralized-identity/linked-vp) work item.
 We discuss issues related to the specification, and how the Work Item could relate to other technologies.
