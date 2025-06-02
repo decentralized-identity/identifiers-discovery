@@ -164,7 +164,7 @@ analyze other, related initiatives and specifications.
 
 </details>
 
-## Meeting - 02 June 2025 - (1400 ET)
+## Meeting - 02 Jun 2025 - (1400 ET)
 
 ### Agenda
 
