@@ -164,7 +164,19 @@ analyze other, related initiatives and specifications.
 
 </details>
 
-## Meeting - 5 May 2025 - (1400 ET) [recording](TODO)
+## Meeting - 02 June 2025 - (1400 ET)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+5. Continue working session on https://identity.foundation/.well-known/did.json and
+   https://identity.foundation/.well-known/did-configuration.json
+
+## ~~Meeting - 19 May 2025 - (1400 ET)~~ canceled due to scheduling conflicts
+
+## Meeting - 05 May 2025 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/_fMM5YGOJHUJHICwWbcjHxSm6XBZOujcCXTQXOd4SbQbZ6S6DIrfLpz1VwKsW6_C.0BtcxR02w5dASQfl)
 
 ### Agenda
 
@@ -178,7 +190,7 @@ analyze other, related initiatives and specifications.
 
 -
 
-## Meeting - 21 Apr 2025 - (1400 ET) [recording](TODO)
+## Meeting - 21 Apr 2025 - (1400 ET)
 
 ### Agenda
 
@@ -189,13 +201,9 @@ analyze other, related initiatives and specifications.
 5. Live working session on https://identity.foundation/.well-known/did.json and
    https://identity.foundation/.well-known/did-configuration.json
 
-### Attendees
-
--
-
 ## ~~Meeting - 07 Apr 2025 - (1400 ET)~~ canceled due to Internet Identity Workshop
 
-## Meeting - 24 Mar 2025 - (1400 ET) [recording](TODO)
+## Meeting - 24 Mar 2025 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/rCiB1t0Gxo9ay_hnu8bbE4AvIqBo-_oXqtz7ZIFaMJhdm6ZJUmrxT7kkvDQpse3e.5IMsq9_8dq03B8MB)
 
 ### Agenda
 
@@ -243,7 +251,7 @@ analyze other, related initiatives and specifications.
 
 ## ~~Meeting - 10 Mar 2025 - (1400 ET)~~ canceled due to scheduling conflicts
 
-## Meeting - 24 Feb 2025 - (1400 ET) [recording](TODO)
+## Meeting - 24 Feb 2025 - (1400 ET) [recording](https://us02web.zoom.us/rec/share/6wL3HdEL5LRI2dTNZMk9bQK1jIxMzGyicVUoEbllA2nn2eTcElEbN_QyoJcXkNun._vfz5rNN0NLlWPxK)
 
 ### Agenda
 
@@ -275,7 +283,7 @@ analyze other, related initiatives and specifications.
 5. [Snorre] DID methods backed by biometrics
 6. Other topics?
 
-## Meeting - 10 Feb 2025 - (1400 ET)  [recording](TODO)
+## Meeting - 10 Feb 2025 - (1400 ET)  [recording](https://us02web.zoom.us/rec/share/761zzdDjebo4ZBK5uIqRcfaPhDrShzgDTxyEAqhYVtEuplBCC-cJWODLhmff0v2A.-6iL3a570H547TS0)
 
 ### Agenda
 
