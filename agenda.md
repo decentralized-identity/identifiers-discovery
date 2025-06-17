@@ -236,7 +236,7 @@ specification, and analyze other, related initiatives and specifications.
 
 </details>
 
-## Draft Meeting - 16 Jun 2025 - (1400 ET)
+## Draft Meeting - 30 Jun 2025 - (1400 ET)
 
 ### Agenda
 
@@ -244,6 +244,14 @@ specification, and analyze other, related initiatives and specifications.
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4.
+
+## Meeting - 16 Jun 2025 - (1400 ET)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
 
 ## Meeting - 02 Jun 2025 - (1400 ET)
 
