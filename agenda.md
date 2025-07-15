@@ -76,7 +76,7 @@ to other technologies.
 
 ## ~~Meeting - 11 Aug 2025 - (1400 ET)~~ canceled due to summer break
 
-## ~~Meeting - 28 Jul 2025 - (1400 ET)~~ canceled due to summer break~
+## ~~Meeting - 28 Jul 2025 - (1400 ET)~~ canceled due to summer break
 
 ## Meeting - 14 Jul 2025 - (1400 ET)
 
