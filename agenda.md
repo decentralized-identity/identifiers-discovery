@@ -48,7 +48,7 @@ relate to other technologies.
 </details>
 
 <details>
-<summary> DID Traits Work Item Call - <b>Every second Friday 1500 CET</b></summary>
+<summary> DID Traits Work Item Call - <b>Every second Friday 1500 CET (discontinued)</b></summary>
 
 <br>This weekly Work Item Call is dedicated to the
 [DID Traits](https://github.com/decentralized-identity/did-traits) work item. We
