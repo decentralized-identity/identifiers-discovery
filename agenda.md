@@ -247,7 +247,7 @@ specification, and analyze other, related initiatives and specifications.
    and https://identity.foundation/.well-known/did-configuration.json
 5. ...
 
-## Draft Meeting - 14 Jul 2025 - (1400 ET)
+## Meeting - 14 Jul 2025 - (1400 ET)
 
 ### Agenda
 
@@ -255,9 +255,11 @@ specification, and analyze other, related initiatives and specifications.
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Q&A DID Traits spec 1.0 approval
+   - The specification is officially been approved by the working group.
 5. Continue working session on https://identity.foundation/.well-known/did.json
    and https://identity.foundation/.well-known/did-configuration.json
-6. ...
+   - The .well-known folder has been migrated to the main repository and the DID
+     has been replaced.
 
 ## ~~Meeting - 30 Jun 2025 - (1400 ET)~~ canceled due to Global Digital Collaboration conference
 
