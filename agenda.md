@@ -1,7 +1,5 @@
 # DIF Identifiers & Discovery WG – Rolling Agenda & Minutes
 
-[![hackmd-github-sync-badge](https://hackmd.io/b-x6jEpMSOm5HiILrkC1oA/badge)](https://hackmd.io/b-x6jEpMSOm5HiILrkC1oA)
-
 [**WG projects**](https://github.com/search?p=2&q=topic%3Awg-id+org%3Adecentralized-identity+fork%3Atrue&type=Repositories)
 |
 [DIF page](https://identity.foundation/working-groups/identifiers-discovery.html)
