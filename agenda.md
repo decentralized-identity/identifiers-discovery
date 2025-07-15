@@ -59,16 +59,7 @@ to other technologies.
 
 </details>
 
-## Draft Meeting - 11 Aug 2025 - (1400 ET)
-
-### Agenda
-
-1. Welcome and introductions
-2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
-3. Agenda creation/review/prioritization
-4. ...
-
-## Draft Meeting - 28 Jul 2025 - (1400 ET)
+## Draft Meeting - 25 Aug 2025 - (1400 ET)
 
 ### Agenda
 
@@ -78,6 +69,14 @@ to other technologies.
 4. Revival of
    [Well Known DID Configuration spec](https://github.com/decentralized-identity/well-known-did-configuration)
 5. ...
+
+### Attendees
+
+-
+
+## ~~Meeting - 11 Aug 2025 - (1400 ET)~~ canceled due to summer break
+
+## ~~Meeting - 28 Jul 2025 - (1400 ET)~~ canceled due to summer break~
 
 ## Meeting - 14 Jul 2025 - (1400 ET)
 
