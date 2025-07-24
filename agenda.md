@@ -59,7 +59,7 @@ to other technologies.
 
 </details>
 
-## Draft Meeting - 25 Aug 2025 - (1400 ET)
+## Draft Meeting - 08 Sep 2025 - (1400 ET)
 
 ### Agenda
 
@@ -73,6 +73,8 @@ to other technologies.
 ### Attendees
 
 -
+
+## ~~Meeting - 25 Aug 2025 - (1400 ET)~~ canceled due to summer break
 
 ## ~~Meeting - 11 Aug 2025 - (1400 ET)~~ canceled due to summer break
 
