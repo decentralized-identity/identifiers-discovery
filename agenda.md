@@ -59,7 +59,7 @@ to other technologies.
 
 </details>
 
-## Draft Meeting - 08 Sep 2025 - (1400 ET)
+## Meeting - 08 Sep 2025 - (1400 ET)
 
 ### Agenda
 
@@ -67,7 +67,7 @@ to other technologies.
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. Revival of [Well Known DID Configuration spec](https://github.com/decentralized-identity/well-known-did-configuration)
-5. Other topics?
+5. (Amir) UDNA (Universal DID-Native Addressing): https://sirraya-tech.github.io/udna-spec/
 
 ### Attendees
 
