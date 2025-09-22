@@ -72,7 +72,7 @@ to other technologies.
 
 -
 
-~~## Meeting - 22 Sep 2025 - (1400 ET)~~ canceled
+## ~~Meeting - 22 Sep 2025 - (1400 ET)~~ canceled
 
 ## Meeting - 08 Sep 2025 - (1400 ET)
 
