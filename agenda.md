@@ -59,7 +59,7 @@ to other technologies.
 
 </details>
 
-## Meeting - 27 Oct 2025 - (1400 ET)
+## Meeting - 03 Nov 2025 - (1400 ET)
 
 ### Agenda
 
