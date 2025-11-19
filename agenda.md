@@ -59,6 +59,19 @@ to other technologies.
 
 </details>
 
+## Meeting - 01 Dec 2025 - (1400 ET)
+
+### Agenda
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. (Alex) [High Assurance Verifiable Identifiers (HAVID) Bridging Specification](https://docs.google.com/document/d/1BVmciUxNsolRMknz3dws0dgYFfgwKLOTHRKuVb-Vazo/)
+
+### Attendees
+
+-
+
 ## Meeting - 17 Nov 2025 - (1400 ET)
 
 ### Agenda
@@ -68,10 +81,6 @@ to other technologies.
 3. Agenda creation/review/prioritization
 4. Revival of
    [Well Known DID Configuration spec](https://github.com/decentralized-identity/well-known-did-configuration)
-
-### Attendees
-
--
 
 ## ~~Meeting - 03 Nov 2025 - (1400 ET)~~ canceled
 
