@@ -59,7 +59,7 @@ to other technologies.
 
 </details>
 
-## Meeting - 01 Dec 2025 - (1400 ET)
+## Meeting - 15 Dec 2025 - (1400 ET)~~ canceled
 
 ### Agenda
 
@@ -71,6 +71,8 @@ to other technologies.
 ### Attendees
 
 -
+
+## ~~Meeting - 01 Dec 2025 - (1400 ET)~~ canceled
 
 ## Meeting - 17 Nov 2025 - (1400 ET)
 
