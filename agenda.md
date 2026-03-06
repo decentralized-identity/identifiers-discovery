@@ -66,7 +66,9 @@ to other technologies.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. TBD
+4. (Christian Saucier) Experience with Universal Resolver and driver for Archon:
+   - DIF Resolver: https://resolver.archon.technology/
+   - Archon Explorer uses DIF resolver for non-native DIDs: https://explorer.archon.technology/search?did=did:web:archon.social
 
 ### Attendees
 
