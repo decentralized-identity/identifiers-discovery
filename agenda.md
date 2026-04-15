@@ -59,6 +59,13 @@ to other technologies.
 
 </details>
 
+## Draft - Meeting - 20 Apr 2026 - (1400 ET)
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Update W3C DID WG
+
 ## Meeting - 09 Mar 2026 - (1400 ET)
 
 ### Agenda
@@ -68,7 +75,8 @@ to other technologies.
 3. Agenda creation/review/prioritization
 4. (Christian Saucier) Experience with Universal Resolver and driver for Archon:
    - DIF Resolver: https://resolver.archon.technology/
-   - Archon Explorer uses DIF resolver for non-native DIDs: https://explorer.archon.technology/search?did=did:web:archon.social
+   - Archon Explorer uses DIF resolver for non-native DIDs:
+     https://explorer.archon.technology/search?did=did:web:archon.social
 
 ### Attendees
 
