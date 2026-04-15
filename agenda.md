@@ -66,6 +66,10 @@ to other technologies.
 3. Agenda creation/review/prioritization
 4. (Markus Sabadello) Update W3C DID WG
 
+### Attendees
+
+-
+
 ## Meeting - 09 Mar 2026 - (1400 ET)
 
 ### Agenda
