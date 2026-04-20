@@ -74,11 +74,42 @@ to other technologies.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. (Markus Sabadello) Update W3C DID WG
+4. Credential Signature Suite using Passkeys (brought up by Daniel Buchner in
+   the #general channel)
+   - We conclude that this task is best
+5. (Markus Sabadello) Update W3C DID WG
+   - Group is ending in April 2026.
+   - [Goals](https://w3c.github.io/did-wg-charter/):
+     - Update of the main DID core standard - maintenance process.
+     - DID Resolution and URL Dereferencing standardization.
+   - The DID Core updates are non-breaking; two important updates.
+     - [Controlled identifiers specification](https://www.w3.org/TR/cid-1.0/#dfn-controlled-identifier-document)
+       is now a dependency of the DID core spec.
+     - DIDs are now a specific version of the
+       [Controlled Identifier document](https://w3c.github.io/did/#core-properties).
+     - The Controlled Identifier document format also supports other identifiers
+       that are not DIDs.
+     - Abstract data model / the
+       [media type](https://w3c.github.io/did/#media-types) for DID documents
+       has been simplified to `application/did` that can be parsed by simple
+       JSON and JSON LD parsers.
+       - Minor incompatibility.
+   - [DID Resolution](https://www.w3.org/TR/did-resolution/) existed previously
+     in a community group and is now in scope of the DID WG.
+     - This task is currently delayed.
+     - An application is prepared to extend the deadline for the deliverable.
+     - There are still a lot of open issues that require discussion and
+       implementation references before the specification is completed.
+     - Next stage of the specification is the candidate recommendation phase.
+       Many issues will be addressed during this phase.
+     - As DIF ID WG we could give feedback to the W3C DID WG concerning existing
+       implementations that rely on the informal specification, e.g. by raising
+       awareness for changes that would break existing implementations.
 
 ### Attendees
 
--
+- Markus Sabadello
+- Jan Christoph Ebersbach
 
 ## Meeting - 09 Mar 2026 - (1400 ET)
 
