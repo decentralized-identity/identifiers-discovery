@@ -76,11 +76,37 @@ to other technologies.
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
 4. (Markus Sabadello) The future of DIF's Universal Resolver
-5. Other topics?
+   - DIF's public resolver is experiencing challenges with increased costs and
+     very limited resources for maintaining the existing instance
+   - DIF sent out a distress signal with the request for help with maintenance
+     and adjusting the rate limiting
+   - It's still unclear who needs / uses the resolver instance
+   - Shutting down the resolver and collect feedback from people who actually
+     depend on it
+   - In the newsletter, the shutdown has been announced for June 1st
+   - Further details will be discussed in the upcoming meeting on Wednesday
+5. (Daniel Buchner) Rewiring the HTTP 401 status code for Agentic AI requesting
+   and exchanging credentials
+   - proof.com is planning to release the specification "x401: HTTP Proof
+     Requirement Protocol" on June 1st
+   - any HTTP status code could be used
+   - a special header indicates to the agent that a presentation exchange is
+     required
+   - Markus: in EBSI something similar exists via an oauth server that swaps the
+     presentation into an oauth token
+   - Juan: a similar approach seems to be the
+     [WWW-Authenticate](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/WWW-Authenticate)
+     header
+6. Other topics?
 
 ### Attendees
 
--
+- Daniel Buchner
+- Markus Sabadello
+- Grace Rachmany
+- Juan Caballero
+- Jan Christoph Ebersbach
+- Makki Elfatih
 
 ## Meeting - 20 Apr 2026 - (1400 ET)
 
