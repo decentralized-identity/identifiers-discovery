@@ -64,7 +64,8 @@ to other technologies.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. Other topics?
+4. [Moises] LinkedVP and ZCAPs for agentic protocols
+5. Other topics?
 
 ### Attendees
 
