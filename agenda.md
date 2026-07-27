@@ -59,6 +59,14 @@ to other technologies.
 
 </details>
 
+## ~~Meeting - 24 Aug 2026 - (1400 ET)~~ canceled due to summer break
+
+## ~~Meeting - 10 Aug 2026 - (1400 ET)~~ canceled due to summer break
+
+## ~~Meeting - 27 Jul 2026 - (1400 ET)~~ canceled due to summer break
+
+## ~~Meeting - 13 Jul 2026 - (1400 ET)~~ canceled due to summer break
+
 ## Meeting - 29 June 2026 - (1400 ET)
 
 1. Welcome and introductions
