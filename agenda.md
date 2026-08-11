@@ -63,6 +63,33 @@ to other technologies.
 
 ## ~~Meeting - 10 Aug 2026 - (1400 ET)~~ canceled due to summer break
 
+## Universal Resolver Topic Call: 12 Aug 2026 (1400ET)
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. ThisDID.com/did-resolver specs and API Docs contributor guidance
+5. administrivia - which repo should Uniresolver/did-resolver [running notes doc](https://hackmd.io/C1DVGuDeQfqDof-ziD2b3g) get checked into? should [all the uniresolver repos](https://github.com/decentralized-identity/?q=resolver&type=all&language=&sort=) be linked to from a central place, like a folder or README.md in this repo?
+
+### Attendees
+
+- 
+
+## Universal Resolver 7 Aug 2026 (1400ET)
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. ThisDID.com basic codewalk and overview of structure for contribution
+
+### Attendees
+
+- Grace Rachmany
+- MG
+- bumblefudge
+
+## Universal Resolver 29 Jul 2026 (1400ET) - canceled due to summer break
+
 ## ~~Meeting - 27 Jul 2026 - (1400 ET)~~ canceled due to summer break
 
 ## ~~Meeting - 13 Jul 2026 - (1400 ET)~~ canceled due to summer break
