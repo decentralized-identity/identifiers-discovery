@@ -1,8 +1,29 @@
 # Identifiers & Discovery WG - Special Topic: Universal Resolver 2026
 
+## 9 Sept 2026 - 3PM CEST / 9am EST
+
 ## 26 Aug 2026 - 3PM CEST / 9am EST
 
-- 
+- ThisDID <> TS Resolver relationship
+    - what gets upstreamed, in what order?
+    - how review?
+- does a DIF service have different IP risk tolerance/requirements than a commercial service?
+
+## interim blotter
+
+- Github Coordination - what would be the best strategy to make it easy for a low-context contributor to land anywhere and understand their options?
+    - [d-i/UR](https://github.com/decentralized-identity/universal-resolver)
+    - [d-i/DR](https://github.com/decentralized-identity/did-resolver)
+        - README.md - link to `./thisdid` as an edge-worker-based implementation using these same drivers, and which supports load-balancing across multiple backends 
+    - [d-i/thisdid]([d-i/UR](https://github.com/decentralized-identity/thisdid)
+        - README.md 
+            - somewhere near the top, link to `./did-resolver` as the place to submit a TS/NPM DRIVER in isolation 
+        - CONTRIBUTING.md
+            - explain the multiple options:
+                1. submit an NPM driver to `/.did-resolver`
+                2. submit a PR to https://github.com/decentralized-identity/thisdid/blob/main/wrangler.jsonc#L18-L26 for a LIVE prod subresolver (mention DIF membership/sponsoring org in PR!)
+                3. link to [dockerized development instruction](https://github.com/decentralized-identity/universal-resolver/blob/main/docs/driver-development.md) as an option for people who can't/don't want to do NPM or stand up a subresolver
+    - does anything need to change anywhere else? any change needed to thisdid.com copy, GoDiddy copy, etc?
 
 ## 12 Aug 2026 - 3PM CEST / 9am EST
 
