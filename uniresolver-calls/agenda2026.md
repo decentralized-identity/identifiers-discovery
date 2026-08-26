@@ -2,12 +2,52 @@
 
 ## 9 Sept 2026 - 3PM CEST / 9am EST
 
+- TS Resolver upstreaming?
+    - Does it make sense to link to the /thisdid/ repo as an example implementation or ref impl from the spec, and/or from the `did-resolver` (i.e. TypeScript impl) repo?
+- Debate: Update on the Formal proof/provability of equivalence between TS drivers and dockerized driver?
+
 ## 26 Aug 2026 - 3PM CEST / 9am EST
 
 - ThisDID <> TS Resolver relationship
     - what gets upstreamed, in what order?
     - how review?
 - does a DIF service have different IP risk tolerance/requirements than a commercial service?
+    - what were the inputs to the thisDID codegen? 
+        - thisDID was actually written by hand before agents two years ago-- look at the git history!; this new version was based on it, not one-shotted or web-search-informed
+        - drivers had only two inputs-- the Docker containers and the relevant specs!
+- Technical question (raised on Slack by Stephen): should resolution metadata (and proxied-resolution metadata) always be nested?
+    - [DID Resolution spec section on nesting proxied res results](https://www.w3.org/TR/did-resolution-1.0/#resolver-architectures-proxied)
+    - how many other drivers (or callers) support this? general feature or webvh-specific fix?
+    - did:webvh SHOULD clause (IF these properties aren't in doc, should be added to resolutionMetadata)
+        - root problem seems to have been a guardrail on the agents that treated every SHOULD as a MUST for first-pass; loosening that, behaves as Stephen was expecting; has been patched and pushed since
+- Agentic Framework - Tour of how these are harnessed and structured
+    - work background - diverse enterprise projects doing architecture for focused teams - taught me to love and honor specs; hard part is deterministic assistants
+    - different "roles" (rulesets, guard rails, system prompts) for each agent and have them check each other
+        - internet access and external resources tightly constrained and audited; 
+        - ex. roles: architect, tester, and adversarial/pentester
+            - these pentester/adversarial roles unearth lots of differences of interpretation/implementation - these guide human review a lot
+    - knowledgebase - 
+        - working from personal notes - preferences for data types, best-practices, etc
+        - rules and workflows fine-tuned
+- routing engine logic?
+    - [thisdid/readme.md explains it thusly](https://github.com/decentralized-identity/thisdid#routing-flows); the chron job populates a log that gets crunched per-provider to create live [scorecards](https://thisdid.com/directory/provider/godiddy), load-balancing over time via [this logic](https://github.com/decentralized-identity/thisdid/blob/main/src/routing/health.ts)
+        - idea came from earlier meetings, that docker-based version was getting expensive over time
+    - Markus: Might this down-rank a resolver because of an ambiguity of the spec? What if two drivers implement slightly different versions of the spec, or two equally-defensible interpretations of a loose spec?
+- Grace: what are the risks? If GoDiddy doesn't trust the drivers in docker, is this... risky? Is DIF serving bad DID Documents?
+    - Markus: I think we need worry about both; status quo is glitchy, some of the drivers are out-of-date, broken, misfiring, recursing/overflowing... we also have to worry about the agent-rewritten ones as well!
+    - MG: proof document can help here, we will work it out
+- formal proof project - how prove TS conversions/wrappers are equivalent?
+    - two buckets:
+        - TS driver (in dif did-resolver repo already) - use as-is
+        - translated/agenticly wrapped/migrated drivers - these are the iffy bits
+            - is a formal proof about equivalence/bytewise correctness of driver-translations possible?
+                - formal analysis of _already closely-vetted_ Docker container is benchmark here
+                    - BF: sometimes they're not accurate to their own spec, tho; some might never get OUT of probation, i would expect
+                    - Markus: Yeah, we've found many examples of this over the years; the `did:key` drivers were disagreeing for months in the early days, maybe we shouldn't overindex on the authoritativeness of the docker containers we have...
+                    - MG: Sure, using them as source-of-truth
+            - is large-scale evidence-based/testing-based correctness check easier/better?
+    - TS-conversions are in "probation" -- continuously being checked against parallel docker-query until enough data to be confident and take the TS conversion out of probation
+    - [ ] - MG will post to DIF Slack, BF will invite Mitchell to a future meeting to discuss the formal-proof aspect
 
 ## interim blotter
 
