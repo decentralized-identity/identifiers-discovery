@@ -67,6 +67,7 @@ to other technologies.
 4. Status of ID WG chairs
 5. Use of IPFS and other CAS technologies in DID methods
    - IPFS identifier scheme, IPFS global DAG, IPFS and Amino DHT
+   - Potential use of Hyperswarm
 6. Other topics?
 
 ## Meeting - 07 September 2026 - (1400 ET)
