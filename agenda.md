@@ -59,6 +59,16 @@ to other technologies.
 
 </details>
 
+## Meeting - 21 September 2026 - (1400 ET)
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Status of ID WG chairs
+5. Use of IPFS and other CAS technologies in DID methods
+   - IPFS identifier scheme, IPFS global DAG, IPFS and Amino DHT
+6. Other topics?
+
 ## Meeting - 07 September 2026 - (1400 ET)
 
 1. Welcome and introductions
@@ -67,10 +77,6 @@ to other technologies.
 4. Status of ID WG chairs
 5. [Ken Griggs] Presentation about **did:julia**
 6. Other topics?
-
-### Attendees
-
--
 
 ## ~~Meeting - 24 Aug 2026 - (1400 ET)~~ canceled due to summer break
 
