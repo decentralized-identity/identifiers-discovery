@@ -66,7 +66,7 @@ to other technologies.
 3. Agenda creation/review/prioritization
 4. Status of ID WG chairs
 5. Use of IPFS and other CAS technologies in DID methods
-   - IPFS identifier scheme, IPFS global DAG, IPFS and Amino DHT
+   - IPFS identifier scheme, IPFS global DAG, IPFS, Amino DHT, DASL:FISL
    - Potential use of Hyperswarm
 6. Other topics?
 
