@@ -59,7 +59,7 @@ to other technologies.
 
 </details>
 
-## Meeting - 19 October 2026 - (1400 ET)
+## Meeting - 02 November 2026 - (1400 ET)
 
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
@@ -67,13 +67,9 @@ to other technologies.
 4. TBD
 5. Other topics?
 
-## Meeting - 05 October 2026 - (1400 ET)
+## ~~Meeting - 19 October 2026 - (1400 ET)~~ canceled
 
-1. Welcome and introductions
-2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
-3. Agenda creation/review/prioritization
-4. TBD
-5. Other topics?
+## ~~Meeting - 05 October 2026 - (1400 ET)~~ canceled
 
 ## Meeting - 21 September 2026 - (1400 ET)
 
