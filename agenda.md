@@ -62,6 +62,16 @@ to other technologies.
 
 </details>
 
+## Meeting - 30 November 2026 - (1400 ET)
+
+1. Welcome and introductions
+2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
+3. Agenda creation/review/prioritization
+4. Status of ID WG and DID Methods WG
+5. TPAC Hot Takes with Juan, Dylan, Markus?
+6. TBD
+7. Other topics?
+
 ## Meeting - 16 November 2026 - (1400 ET)
 
 1. Welcome and introductions
