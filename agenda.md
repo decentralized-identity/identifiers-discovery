@@ -37,10 +37,21 @@ dedicated to individual work items. Any work item lead can organize Work Item
 Calls about their work item.
 
 <details>
+<summary> DID Methods Work Item Call - <b>Every second Monday 1500 CET/CEST</b></summary>
+
+<br>This weekly Work Item Call is dedicated to the
+[DID Methods](https://github.com/decentralized-identity/did-methods/) work item.
+We discuss selection criteria and "recommended" DID methods.
+
+[Meeting page](https://hackmd.io/k4cIK9vQSlaeg2pdHE51IQ)
+
+</details>
+
+<details>
 <summary> did:webvh Work Item Call - <b>Every second Thursday 0900 PT</b></summary>
 
 <br>This weekly Work Item Call is dedicated to the
-[`did:webvh`](https://github.com/decentralized-identity/trustdidweb) work item.
+[`did:webvh`](https://github.com/decentralized-identity/didwebvh) work item.
 We discuss issues related to the specification, and how the Work Item could
 relate to other technologies.
 
