@@ -26,6 +26,7 @@ Current Work Items:
 
 | Name | Type | Lead(s) | Link(s) |
 | ----------- | -------------- | ---------------- | ----------------------- |
+| DID Methods | Specs | [@sumitvekariya](https://github.com/sumitvekariya) [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/did-methods/ |
 | Universal Resolver | Code | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/universal-resolver<br> https://github.com/decentralized-identity/universal-resolver-frontend<br> (various drivers) |
 | Universal Registrar | Code | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/universal-registrar<br> https://github.com/decentralized-identity/universal-registrar-frontend<br> (various drivers) |
 | did-common-java | Code | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/did-common-java |
