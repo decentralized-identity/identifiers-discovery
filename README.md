@@ -31,8 +31,8 @@ Current Work Items:
 | Universal Registrar | Code | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/universal-registrar<br> https://github.com/decentralized-identity/universal-registrar-frontend<br> (various drivers) |
 | did-common-java | Code | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/did-common-java |
 | did:peer Method | Specs | [@dhh1128](https://github.com/dhh1128) | https://github.com/decentralized-identity/peer-did-method-spec |
-| JavaScript DID Resolver | Code | [@pelle](https://github.com/pelle), [@mirceanis](https://github.com/mirceanis) | https://github.com/decentralized-identity/did-resolver<br> https://github.com/decentralized-identity/ethr-did-resolver<br> https://github.com/decentralized-identity/web-did-resolver |
-| JavaScript DID JWT | Code | [@pelle](https://github.com/pelle), [@mirceanis](https://github.com/mirceanis) | https://github.com/decentralized-identity/did-jwt<br> https://github.com/decentralized-identity/did-jwt-vc |
+| JavaScript DID Resolver | Code | [@mirceanis](https://github.com/mirceanis) | https://github.com/decentralized-identity/did-resolver<br> https://github.com/decentralized-identity/ethr-did-resolver<br> https://github.com/decentralized-identity/web-did-resolver |
+| JavaScript DID JWT | Code | [@mirceanis](https://github.com/mirceanis) | https://github.com/decentralized-identity/did-jwt<br> https://github.com/decentralized-identity/did-jwt-vc |
 | DID Spec Extensions | Specs | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/did-spec-extensions |
 | DID Registration | Specs | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/did-registration |
 | DID Method Enumeration | Specs | [@TelegramSam](https://github.com/TelegramSam) | https://github.com/decentralized-identity/did-method-enum |
