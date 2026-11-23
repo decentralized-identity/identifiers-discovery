@@ -43,7 +43,7 @@ Calls about their work item.
 [DID Methods](https://github.com/decentralized-identity/did-methods/) work item.
 We discuss selection criteria and "recommended" DID methods.
 
-[Meeting page](https://hackmd.io/k4cIK9vQSlaeg2pdHE51IQ)
+[Meeting page](https://github.com/decentralized-identity/did-methods/blob/main/AGENDA.md)
 
 </details>
 
@@ -55,7 +55,7 @@ We discuss selection criteria and "recommended" DID methods.
 We discuss issues related to the specification, and how the Work Item could
 relate to other technologies.
 
-[Meeting page](https://hackmd.io/k4cIK9vQSlaeg2pdHE51IQ)
+[Meeting page](https://github.com/decentralized-identity/didwebvh/blob/main/agenda-2026.md)
 
 </details>
 
