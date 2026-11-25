@@ -37,9 +37,9 @@ dedicated to individual work items. Any work item lead can organize Work Item
 Calls about their work item.
 
 <details>
-<summary> DID Methods Work Item Call - <b>Every second Monday 1500 CET/CEST</b></summary>
+<summary> DID Methods Work Item Call - <b>Every second Monday 1400 UTC</b></summary>
 
-<br>This weekly Work Item Call is dedicated to the
+<br>This biweekly Work Item Call is dedicated to the
 [DID Methods](https://github.com/decentralized-identity/did-methods/) work item.
 We discuss selection criteria and "recommended" DID methods.
 
@@ -78,7 +78,7 @@ to other technologies.
 1. Welcome and introductions
 2. [ID WG participation tracking](https://docs.google.com/spreadsheets/u/1/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=1245330243)
 3. Agenda creation/review/prioritization
-4. Status of ID WG and DID Methods WG
+4. Status of ID WG and DID Methods work item
 5. TPAC Hot Takes with Juan, Dylan, Markus?
 6. TBD
 7. Other topics?
